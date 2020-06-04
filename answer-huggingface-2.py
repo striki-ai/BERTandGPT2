@@ -7,7 +7,8 @@ from transformers import BertTokenizer
 # model = BertForQuestionAnswering.from_pretrained(model_name)
 # tokenizer = BertTokenizer.from_pretrained(model_name)
 
-model_name = 'deepset/bert-large-uncased-whole-word-masking-squad2'
+# model_name = 'deepset/bert-large-uncased-whole-word-masking-squad2'
+model_name = 'bert-large-uncased-whole-word-masking-finetuned-squad'
 model = BertForQuestionAnswering.from_pretrained(model_name)
 tokenizer = BertTokenizer.from_pretrained(model_name)
 

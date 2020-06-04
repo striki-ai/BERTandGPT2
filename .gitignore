@@ -1,2 +1,3 @@
 \bert-deeppavlov\
 \bert-huggingface\
+*.pyc
