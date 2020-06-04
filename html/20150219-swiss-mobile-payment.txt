@@ -1,0 +1,66 @@
+Switzerland mobilizes against cash - Switzerland mobilizes against cash
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ 3-D Secure Acquiring Products 
+ ToPay Digital Payment Service Hub 
+Switzerland mobilizes against cash
+', " The Swiss love cash. But that will all change with contactless payments using credit cards and smartphones. This year, several initiatives have started in Switzerland that should make cashless payments more attractive to customers. The systems differ a lot. Read how Netcetera's expert, Thomas Fromherz, Head of Payment & Card Services, assesses the current situation surrounding mobile payments in Switzerland and more.", '
+The world of payments has been clearly regulated for a long time, particularly for Swiss consumers for whom the most important thing was to have cash in their wallets. Aside from that, they had a debit card for small amounts and a credit card for large amounts and abroad. In the past, this trio always stood the test against innovative ideas. However, now digital solutions are presenting competition for cash. The latest is the realistic vision of Head of Swatch, Nick Hayek. At the beginning of the month, he announced that a smart watch will be released in three months, which can also be used to pay in stores. Apple wants to market its version of the smart watch in April. But how does the money get into the watch? Many stakeholders have recently launched digital solutions or are preparing them for the coming year. Michel Rudin, General Manager of Switzerland’s Consumer Forum says: «Those who are searching for a new card solution should wait if they can and see what the year brings.»
+NFC registers are conquering Switzerland.
+Without Near Field Communication (NFC) technology, this dynamic would be inconceivable in the card market. This wireless transfer technology enables the contactless exchange of small amounts of data over short distances. An NFC register can already accept payment from corresponding cards now - these must be held flat against the device for data transfer. And in Switzerland, the NFC network is very close-knit. It is being provided by big retailers, such as Coop and Migros, the SBB and chains, such as McDonald's. At no extra cost to the customer, soon all Swiss cards should be NFC-enabled. According to industry statements, over 83,000 terminals are currently contactless and around 2.5 million cards - just under 50 percent of cards - are NFC-enabled. However, depending on the card issuer, the proportion is much higher. One in five customers paying by card at one of the 8,500 NFC registers at Migros does so using contactless payment. Migros measured the best values at the Subito self-checkout stations, where smaller purchases are usually made. Ninety percent of purchases were for an amount less than 40 Francs; a PIN must only be entered when it gets more expensive.
+Tapit requires its own SIM card.
+«All well and good, but the real added value for customers comes when they no longer need to take out a card,» says Thomas Fromherz, Head of Payment & Card Services at the Zürich-based software house, Netcetera. According to industry forecasts, there is huge growth potential for making payments using a smartphone. Theoretically, this has been possible at NFC registers in Switzerland since July 2014: Swisscom has launched its App called Tapit. Currently, the service works with Cornècard and Viseca cards and on many Android models. In the meantime, the app has been downloaded around 10,000 times, but Tapit is still slow to get off the ground. This is no surprise to industry insider Fromherz. For him, the payment solution is quite mature, but the customer must cross a high threshold in order to register credit cards, e.g. request a special SIM card for their mobile phone. Meanwhile, Apple has demonstrated how easy it can be to get going. Since September 2014, Apple Pay has been off to a successful start in the US market. The customer can digitally store different cards in a wallet and pay using a fingerprint scan. Fromherz says: «Integrating the cards took me a few minutes. Payment is intuitive and secure with the fingerprint scan.»
+It should get just as easy in Switzerland - for this reason, the Swiss card industry have joined forces. Under the project name Swissalps and with high pressure they are working on the technical implementation of a neutral wallet solution. Apple Pay should also be integrated into the standardized ecosystem for online and mobile payments. The project is led by the Zürich-based Aduno Group; the financial services provider provides cards through its subsidiary, Viseca. All Swiss credit card issuers (Mastercard, Visa and American Express) are involved in Swissalps. Meanwhile, Migros and Postfinance are also tinkering on their own applications for mobile payments. At Migros, it will deal with the payments in its own stores; specific information is not yet known. Postfinance is currently allowing its subsidiary, Twint, to develop an identically named app, which will be introduced this summer. Completely independent of credit or debit cards, the free app should work as a prepaid wallet with different charging options. However, Twint does not rely on NFC technology, but rather Bluetooth on a different wireless standard. The stores must once again be equipped for it.
+Until now, the consumers have kept up well with this dynamic, points out Sandro Graf, an expert from the Zurich University of Applied Sciences (ZHAW): «Since 2013, many people were afraid to pay by smartphone without a PIN code. Now, our studies show that the knowledge has grown rapidly.» There will be a great deal more for consumers to learn about in 2015. Ultimately, only they decide what will prevail and which provider they will entrust their sensitive customer data.
+Chief Strategy Officer, Payments
+ " > Display Address 
+ Sales & Business Development 
+ A Nation of Invoice Payers 
+ No revolutionary breakthrough in sight 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ First in Europe with Amex Safekey 2.0 certification 
+ Netcetera 3DS ACS is ready as one of only three worldwide 
+ Netcetera Innovation Summit 2019 
+ Insights into digital payment from our experts 

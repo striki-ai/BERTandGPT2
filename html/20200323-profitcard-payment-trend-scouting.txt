@@ -1,0 +1,75 @@
+Payment trend scouting - Where does the journey in digital payment take us?
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ ToPay Digital Payment Service Hub 
+ 3-D Secure Acquiring Products 
+Presentation and workshop on "payspectives" at the ProfitCard
+ Where does the journey in digital payment take us? Where are we at present, what trends can already be observed and what further developments are clearly emerging? And what influencing factors are important for a realistic assessment? 
+For the Swiss software company Netcetera the intensive study of such questions is of fundamental importance. After all, it is about actively shaping the future of payment. Trend scouting is a proven method for a structured approach. Kurt Schmid, Managing Director Digital Payment at Netcetera, coined the term "payspectives" in connection with payment. He explained his findings at the ProfitCard conference in Berlin.
+The starting point are the trends, which can already be clearly identified. For example, contactless payments with cards are very advanced, despite initial strong criticism of security and data protection in many media. Equally impressive are the successes of mobile payments - especially in connection with wallets like Apple Pay. The use of biometrics for authentication and the opening of bank interfaces through PSD2 also play an important role. In addition, there are other trends, such as the strong growth in online payment, merchant apps with integrated payment and, finally, continuous improvements in user-friendliness for all electronic payment methods.
+Clearly recognizable trends vs. ideas without breakthrough
+There are also ideas that have not yet achieved a breakthrough. Examples include the topics "Blockchain for standard payments", "payment with wearables", "payment in the Internet of Things (IoT)" or "cashless supermarkets" such as Amazon Go.
+In order to delve into all these topics, Netcetera also organized a workshop at ProfitCard. The idea was to summarize the trends in clusters to give the discussions a meaningful structure. The cluster titles: card related (e.g. European scheme, 3DS 2.x), KYC related (e.g. eIDAS, FIDO), technology related (e.g. tokenization, delegated authentication, Blockchain), UX & functional (e.g. in-app payment, pay by face), ecosystem related (e.g. bank as platform provider, GAFAs as partners), account related (e.g. instant payments). Kurt Schmid: "With this, we have hit the nerve of the participants. They all worked intensively with great interest and commitment.
+To the ProfitCard Presentation on SlideShare:
+Kurt Schmid, Managinig Director Digital Payments:
+A workshop organized by Netcetera
+Our expert Kurt Schmid presenting at ProfitCard
+Our expert Michael Seifert at ProfitCard
+Our experts Kurt Schmid & Silke Hubert at ProfitCard
+ " > Display Address 
+ ToPay Digital Payment Service Hub 
+Presales Consultant Digital Payment
+ " > Display Address 
+ ToPay Digital Payment Service Hub 
+ 3-D Secure Issuer Service 
+ 3-D Secure Acquiring Products 
+ Sales & Business Development 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ First in Europe with Amex Safekey 2.0 certification 
+ Netcetera 3DS ACS is ready as one of only three worldwide 

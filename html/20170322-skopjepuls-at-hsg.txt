@@ -1,0 +1,55 @@
+Designing a better city with IoT - Daniel Eichhorn’s presentation at HSG
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions -�from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Designing a better city with IoT
+Senior Software Engineer Daniel Eichhorn’s presentation at HSG
+ How can we help to solve environmental problems like air pollution, occasional flooding or excessive noise with a solution based on an IoT platform? Daniel Eichhorn spoke about SkopjePulse, a website that is based on our own IoT platform at the University of St. Gallen (HSG) to students of Economy. 
+Everybody is talking about Internet of Things (IoT), but we wanted to actually do something. We developed
+, an open IoT platform using TheThingsNetwork infrastructure to collect valuable data about air pollution, noise, temperature and humidity in the city of Skopje, Macedonia. Daniel explained at his guest lecture at HSG the basic components of IoT and also showed the challenges for doing IoT.
+To the presentation of Slideshare
+ " > Display Address 
+ A better city with SkopjePulse & IoT 
+ Environmental Sustainable Development platform 
+ Neta’s 100th edition 
+ Huge milestone for our IT comic character 
+ Co-creating the future of our cities 
+ Our new crowdsourcing IoT platform pulse.eco is live 
+ CodeFu 2018 – grand finale 
+ 12th edition of the legendary programming competition 
+ Success at Google Hash Code competition! 
+ We achieved the 9th place out of 5000 teams 
+ Meet us at job fairs in spring 2018 
+ When things start to pay themselves 
+ Statements by our expert Michael Seifert 
+ Cutting-edge technologies for innovation 
+ Presentations at ICT Innovations Conference 2017 in Skopje 
+ Open doors at Zurich offices 
+ Public IT-days 2017 
+ Meet us at events in Spring/Summer 
+ Hackathon for a better city 
+ Our expert coaching at first Make Zurich 
+ 15 years and opening party in Macedonia 
+ Competition for developers in Macedonia 
+ Coding competition in Macedonia 
+ CodeFu final round 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 

@@ -1,0 +1,62 @@
+How conversational interfaces help us in the future - Talk to your computer just as to a person
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ Conversational Interfaces 
+How conversational interfaces help us in the future
+Talk to your computer just as to a person
+ Conversational interfaces will improve the usability and convenience for regular users to interact with phones and computers. While for all major tech companies, it means more data to do business with, the media welcome conversational interfaces as another hype to write about. We have developed a mobile routing app prototype, which allows users to find train connections easily. By doing so, we learned about the current state of conversational interfaces and how such interfaces will change our interaction with phones and computers in the future. 
+A conversational interface is a user interface which allows a human to talk to a computer or phone, just as a human would talk to another human. No more clicking on icons or entering specific commands. Booking a taxi to the airport will be as easy as saying to your phone, "I need a taxi to the airport, because my flight to London is departing at 5pm in the afternoon". Just as a human assistant, the phone will make a recommendation, when and where the taxi will pick you up, so that you will catch your flight safely. When you confirm the proposal, the phone will book the ride and keep you posted. Or when you run out of milk you will say to your phone, "We need some more milk", and the phone will add milk to your electronic grocery list automatically. Or when you have stomach ache, you can write and discuss your pain with an artificial medical assistant: “I’ve had cramps since yesterday evening”. The artificial intelligence based medical assistant will ask questions in order to gather your symptoms.
+There are currently two main types of conversational interfaces: the voice assistants, which you talk to, for example Apple's Siri, and the chatbots, which you type to, for example Facebook's M/Chatbot. For various reasons, all major tech companies have recognized the potential of voice recognition, chatbots and artificial intelligence. Apple has Siri, Mircosoft has Cortana, Facebook has M, Amazon has Echo/Alexa, Google has "Ok Google" and Samsung just recently acquired Viv.
+We have developed a mobile routing app prototype, integrated with Apple’s Siri, which allows users to find train connections easily by saying for example, “Hey Siri, when is the next train to Zürich?” Processing such a simple question has many challenges. First of all natural language processing needs to be applied in order to understand what the user has said. Depending on what language the user is using, Siri sometimes understands the destination/location “Zürich” correctly and sometimes it understands it as “Missouri”. Once Siri has transcribed the sentence correctly, Siri needs to understand the meaning of the sentence. In this case, that the user wants to take a train in order to travel to Zürich and that the user is asking for a timetable. Apple’s SiriKit currently does not support such a “timetable” domain, but it supports the so called “Ride booking” domain. We have contacted Apple in order to introduce a “timetable” domain for public transportation. For the moment, however we continued our prototype by using the “Ride booking” domain. This means that we have to rephrase our timetable question as follows, “Hey Siri, book me a ride to Zürich”. Because of the words “book” and “ride” Siri is able to map this request to the “Ride booking” domain, which requires various input parameters, such as “Pickup location” and “Drop-off location”. Because in our sentence we did not specify the pickup location, we will assume the current geolocation of the user as pickup location. We also didn’t say what mobile app to use in order to actually book the ride. Therefore Siri will ask what app we want to use, or we can help Siri by saying “Hey Siri, book me a ride to Zürich with TrainApp”. As soon as Siri has gathered all domain specific information from the user, Siri will forward the information as parameters to our mobile app. This finally allows us to check when the next train will depart to Zürich. There are many more challenges as you can imagine, but it hopefully gives you an idea of the complexity of the seemingly simple question “When is the next train to Zürich?”.
+Integrating conversational interfaces is fascinating and challenging and we are excited to be part of this development. Conversational interfaces might not work perfectly yet, but just as a child takes many years to learn to walk and speak, we will learn how to develop and use conversational interfaces over the coming years.
+As an experienced integrator, we are taking a lead in developing conversational interface based solutions, integrating third-party voice assistants with new and existing clients and backend applications. We are developing mobile apps and backend applications using conversational interfaces for various industries, such as public transportation, payment and retail. A very important topic regarding conversational conversations is privacy. We take privacy very seriously and therefore provide solutions, where conversations between humans and computers/phones are kept within premises.
+ " > Display Address 
+ UX best practices and predictions 
+ The future of prototyping and front-end up front 
+ Recent UX blog posts 
+ Our architects are sharing their know-how 
+ Gold for outstanding user experience 
+ Paraplegic app awarded at Digital Economy Award 
+ Voice responsive apps on iOS 
+ Talks by Conversational Interfaces expert Martin Mitrevski 
+ Study on Conversational Interfaces 
+ Application potentials and examples for CI 
+ Digital revolution in working life 
+ AR and CI Workshop in Liechtenstein 
+ Digital Prototyping Workshop 
+ Learn rapid prototyping 
+ Integrate User Experience 
+ Practical examples from software development 
+ The battle for conversational interfaces 
+ When is a voice controlled interface the right choice? 
+ New horizons in vocational training 
+ AR showcase for BÃ¼hler 
+ The future of digital payment 
+ Conversational Interfaces and Augmented Reality 
+ High-class vocational training 
+ Augmented reality opens up new horizons 
+ Plundering islands in your living room 
+ Mixed Reality 3D action game 
+ Discovering extended reality 
+ User interactions in augmented, mixed & virtual reality 
+ Voice-controlled timetable search 
+ Google Assistant news from Google I/O 
+ Full-house at our AR workshop 
+ Creating value with Augmented Reality 
+ Toward natural conversation with devices 
+ Behind-the-scenes look 

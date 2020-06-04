@@ -1,0 +1,66 @@
+The Account in your Pocket - Banking via App
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+', " Managing personal bank accounts on mobile devices is the trend. But many apps are still caught in the desktop e-banking paradigm. That's why Netcetera fundamentally rethought operability and security. Read the article from Â«swiss made software â€“ the bookÂ», which puts a spotlight on Switzerland as a location for IT development.", '
+Daily management of personal bank accounts is being transformed. Driven by the mobile internet trend, consumer behavior is changing. Among Swiss bank customers, this is especially evident from their changed attitude to mobile banking, i.e. e-banking via mobile devices. Mobile payment transactions and stock trading are in growing demand among private bank customers. First generation apps were mainly passive, used primarily for viewing accounts rather than working with them. But this is now no longer so.
+The software company Netcetera and core bank solution provider Finnova are leading the way in responding to that trend. Together, they launched “Finnova Mobile Banking”, an app focused on functionality and security. The partners adopted a new approach to usability. “First generation apps were too focused on how things are done on the desktop. With a smartphone's small screen we are forced to handle the space economically and keep the usability more intuitive. We put a lot of work into thinking ‘mobile’,” says Christian Waldvogel, Product Manager for Mobile Banking at Netcetera who was in charge of the project. But before innovating usability, a security concept is needed that meets the high expectations of the banks and, above all, Swiss consumers.
+Finnova Mobile Banking is applying a three-stage concept. In first generations apps, the payment amount was still limited and/or only certain payment types were permitted. This was not just a reaction to the reservations among Swiss bank customers, but also part of the security concept. These restrictions have now largely been lifted. Only international payments are not (yet) possible.
+The main security elements are the contract number, password and a personal certificate. The latter is generated and stored on the phone when the device is activated from within the classic desktop e-banking solution. All mobile devices authorized this way can access the account. The user administers them from his computer and the classic e-banking solution. From here he can also block devices in case they are lost or stolen. Because of this, it is also possible to sell or pass on an old phone without any problems, as long as the phone is de-authorized first. This also means that, in contrast to desktop e-banking, no additional devices are required for customer authentication.
+Authentication is performed through the existing online banking infrastructure. In order to ensure highly secure payment transactions a white list approach is employed. The bank and its clients work with a list of signed recipients. This includes all participants in the Swiss ESR payment transaction system for orange payment orders (a comprehensive list of every company registered in Switzerland), and many private persons. This is where the list's flexibility comes into play. Although app payments can only be made to listed counterparties, the whitelist expands rapidly to include all payment recipients to whom the user has already made transfers from the normal e-banking system and those approved by the bank on the basis of payment behavior. The latter means that if one recipient has received payments from multiple customers he is automatically green lighted for all customers. Overall, this covers more than 90 percent of all possible in-country payments from the start. Also, customers who require additional security can continue to block all transactions for their mobile device.
+As a further component of the security concept, native apps for Android and iOS are used instead of an HTML5 app. That takes account of three quarters of all Swiss smartphone users. Not yet covered is the current number three among mobile platforms: Windows Phone 8. That is likely to change as soon as it gains a substantial market share.
+A lot of work was invested in security, but the best security concept is of little use if the app is not easy and intuitive to operate. For this, Netcetera fundamentally rethought the user interface: “Our aim was clear: all actions must be easy to perform while waiting at the tram station,” Christian Waldvogel says.
+The new interface now guides the user through the processes step by step. Only one type of input is required per step and screen, i.e. a number, date or text. In addition, no new fields pop up as they could cover part of the information displayed and cause confusion during data input. “Mobile must be simple,” Waldvogel says.
+It was also important not to overwhelm users with functions. Several workshops were held on this theme before the project began. They addressed questions like: Stock exchange trading, yes or no? And, if yes, for what target users: Will they tend to be professional or hobby traders?—The focus is now clearly on standard retail bank customers. “We cover 95 percent of all mobile banking use cases for retail customers,” Waldvogel explains. Since many mobile devices have a camera, users have a further advantage compared to desktop e-banking. Payment orders can easily be scanned, so that neither troublesome copy-typing or additional devices like scanner pens are needed.
+ Branding and client acquisition
+However, a banking app must not only meet customer requirements: Those of the banks are equally important. This particularly concerns issues like branding and client acquisition. Netcetera has taken account of the first by ensuring that the app design can be adapted to any given bank's corporate design, and the latter by providing helpful additional functionalities in the public area of the app. This area is also available to non-bank customers, making a download of the app attractive for everyone. And that naturally also fosters the desire to have more: in other words, to open an account. The app attracts users with functions like a foreign exchange calculator, news, a bank branch locator, contact addresses, etc. Documents for opening an account can be requested by a tap. Banks already saw positive results of this function with the first app generation. Although opening an account with just one touch is not yet reality, the next app generation is not far away.
+Some 25 banks will offer the app by 2014. Concepts for extending it to banks outside Switzerland are in preparation. Here, the right partners are essential. Netcetera is currently considering both options: cooperation with distribution companies or with other core bank system providers. In either case, the aim is to expand the potential market.
+Read the book online or order it
+ Finnova mobile banking 
+ Continuous development of aps 
+ Digital Assets in real estate 
+ Secure token offerings as alternative for private investors 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Money20/20 3-5 June 2019 in Amsterdam 
+ Meet your payment experts 
+ Audienceâ€™s favorite of "Digital Top 10" 
+ Analysis tool "WÃ¼est Insights" developed with WÃ¼est Partner 
+ We are joining forces with Unitek 
+ Specialist in processing financial data 
+ Machine Learning for health insurances 
+ Risk classification to detect waste, abuse and fraud 
+ Money20/20 4-6 June in Amsterdam 
+ Your Digital Payment partner 
+ We are reinforcing our team Middle East 
+ New Director of Sales and Business Development in Dubai 
+ Why blockchain disrupts all industries 
+ Elena Karafiloski presents use cases in health & education 
+ The chances of open banking 
+ Presentation by Peter Zuber at Open Banking Forum 
+ New guidelines in the payment area bring changes 
+ Statements of our expert Bernhard Binz 
+ Swisscanto Invest product platform 
+ Publish fund information quickly & easily 
+ The future of digital payment 
+ Conversational Interfaces and Augmented Reality 
+ We acquired Nexperts 
+ Together we want to revolutionize the digital payment market 
+ One year VisecaOne credit card app 
+ 500,000 registered users and two awards 
+ Celebrating anniversary in UAE 
+ 10 years of transforming the region into a digital hub 

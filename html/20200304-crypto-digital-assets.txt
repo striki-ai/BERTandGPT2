@@ -1,0 +1,75 @@
+From closed property funds to open digital assets - Secure token offerings as alternative for private investors
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+From closed property funds to open digital assets
+Secure token offerings as alternative for private investors
+ Crypto Assets / Digital Assets can open up the world of real estate financing for private investors based on blockchain protocols. This enables attractive participation in real estate with secure token offerings. 
+If we value all global assets, the total amounts to approximately USD 205 trillion of financial assets worldwide and approximately USD 127 trillion of non-financial assets such as real estate (World Council, World Bank Coinbase 2019). Assuming a growth of 4-5%, total assets will increase to about USD 405 trillion by 2024 (Credit Suisse World Cup Report 2018). The share of so-called digital assets is still negligible today: USD 230 billion, including Bitcoin as a payment token with a market value of approximately USD 85 billion (2020 Jan. coinbase). If we assume that only 1% of digital assets will be available in 2025, this will amount to 4.1 trillion USD – and of this, a high proportion of real estate will certainly be available.
+Tokenization, the digitization of the transferability of property rights, works especially well in real estate. Institutional investors, high valuations and low liquidity have so far shaped projects in the real estate industry. Access for private investors is limited. The valuation up to pricing is very extensive and involves a lot of specific knowledge.
+According to the Swiss Financial Market Supervisory Authority (FINMA), participation rights represent real values of the underlying investment objects. In addition to shares and bonds, these can also be physical assets such as real estate. The Federal Supervisory Authority for Financial Markets (BAFIN) in Germany considers tokens as digital assets with included rights and obligations and their possible transferability.
+The digitalization of global assets as an opportunity for private investors
+In Germany, the first securities prospectus for a secure token offering was approved in Europe at the beginning of 2019; the underlying instrument was originally a registered bond. Designed as an investment, it would have been subject to the German Investment Act. However, this alternative based on a block chain protocol as a secure token offering increased tradability and thus access for private investors.
+This issuance by the Fundament Group from Berlin had a total volume of 250 million Euro Security Tokens with an underlying German real estate portfolio. The split in security tokens enabled the participation of a large number of investors. The issuance was structured as a token-based bond with an annually variable interest rate of between 4-8%. Technically, this was implemented based on the ERC-20 Ethereum token, with a runtime until 2033. Ethereum is a specific blockchain protocol that enables the issuance of tokens on standardized technical token protocols, e.g. the ERC-20.
+In a persistently negative interest rate environment with attractive valuations, especially the digitalization of real estate can offer private investors attractive opportunities. Through tokenization, the decomposition into smallest parts, private investors can also be enabled to participate and can be added under the aspect of portfolio diversification.
+A decisive criterion for the sale is certainly the pricing. In the real estate sector, this is dependent on many factors: Location, local price level, connection to infrastructure, etc. Thus, pricing is central and business-critical in real estate valuation as a prerequisite for the issue, both with a classic bond and with security tokens. It is and remains a competitive advantage for the providers and a transparency factor for the investment decision – also seen within the framework of the legal requirements for investment transactions such as MIFID 2 in Germany and FIDLEG in Switzerland.
+Blockchain technology as an opportunity for the liquidity of digital assets
+In the meantime, the structuring of such projects has also progressed a long way from a financial market regulatory perspective and has little in common with the Initial Coin Offerings (ICOs) from the early days of the blockchain / crypto hype. This is a matter of tradable rights and the legislators in Germany and Switzerland are endeavoring to sharpen the legal framework further with regard to transferability, tradability and insolvency law.
+Analogous to the blockchain philosophy, without intermediaries like banks, a bond on differently structured real estate investments can be made directly accessible to private investors as an asset class. They are not investing in crypto currencies, but in payment tokens that are not subject to high volatility
+Ultimately, the tradability and thus the liquidity of this asset class is also linked to the availability of a secondary market. No ask price without a bid price, the liquidity of an investment ultimately always depends on the tradability of supply and demand. We are still in the early stages here, but even in this market segment, so-called crypto banks and other financial intermediaries are making efforts to act as a catalyst of supply and demand on established and new digital trading platforms. The democratization of an elite asset class, which was previously largely reserved for institutional investors, has begun. The possibilities of blockchain technology and innovative tools for asset pricing are the enablers, especially with standardized token and blockchain protocols. So-called intelligent contracts (Smart Contracts) allow to trade the shares on a blockchain infrastructure automatically and to automate specific pricing. This can significantly reduce transaction costs, another advantage for private investors.
+Netcetera has extensive experience in digitization and tokenization, the implementation of blockchain and distributed ledger (DLT) technologies, and especially in digital pricing of local real estate objects. For over 20 years, we have been implementing business-critical processes in software, as individual solutions for our clients or as products. We have
+provided support in the pricing of real estate and in real estate portfolio management within the scope of customer projects
+. Our software components can be found in pricing tools of real estate consultants and in platforms for real estate trading. We are able to support the entire value chain of the conception, tokenization, technical implementation on blockchain protocols and pricing of the objects, up to the digital distribution of the tokens.
+https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2019/fa_bj_1904_Tokenisierung.html
+https://medium.com/mme-legal/securities-token-offerings-stos-in-switzerland-3ad2e6ec5718
+https://www.securities.io/fundament-group-to-issue-e250-million-in-security-tokens-backed-by-german-real-estate/
+Managing Director Financial Technology
+ " > Display Address 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Digital identity on n-blocks 
+ New economy of digital identity 
+ Audienceâ€™s favorite of "Digital Top 10" 
+ Analysis tool "WÃ¼est Insights" developed with WÃ¼est Partner 
+ We are joining forces with Unitek 
+ Specialist in processing financial data 
+ New partnership in the Middle East 
+ Teaming up with NEM for strong blockchain market position 
+ Unlocking the power of blockchain @GITEX 
+ Strengthening our network in the Middle East 
+ Machine Learning for health insurances 
+ Risk classification to detect waste, abuse and fraud 
+ We are reinforcing our team Middle East 
+ New Director of Sales and Business Development in Dubai 
+ Why blockchain disrupts all industries 
+ Elena Karafiloski presents use cases in health & education 
+ The chances of open banking 
+ Presentation by Peter Zuber at Open Banking Forum 
+ Start-up Blokverse launched 
+ Blockchain platform to manage digital education credentials 
+ Swisscanto Invest product platform 
+ Publish fund information quickly & easily 
+ How Blockchain changes healthcare 
+ Presentation by our expert Elena Karafiloski 
+ Software Waste Disposal & Blockchain 
+ Presentations at IEEE EUROCON 2017 in July 
+ We acquired Nexperts 
+ Together we want to revolutionize the digital payment market 
+ One year VisecaOne credit card app 
+ 500,000 registered users and two awards 
+ Celebrating anniversary in UAE 
+ 10 years of transforming the region into a digital hub 

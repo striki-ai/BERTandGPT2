@@ -41,16 +41,16 @@ def search_and_format_text(processed_query,  source):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-ques', '--question', type=str, default='What is Netcetera?')
-    parser.add_argument('-src','--source', default='test.txt', type=str)
+    parser.add_argument('-ques', '--question', type=str, default='abc')
+    parser.add_argument('-src','--source',type=str)
     
     args = vars(parser.parse_args())
-    query = args['question']
-    source = args['source']
+    query = "How wash your hands?" # args['question']
+    source = "sample2.txt" # args['source']
     
     paras_to_search = search_and_format_text(query, source)
 
-    questions,answers,para,probs = answer_prediction(paras_to_search, query,'bert-large-uncased-whole-word-masking-finetuned-squad')
+    questions,answers,para,probs = answer_prediction(paras_to_search, query,'bert-large-uncased-whole-word-masking-finetuned-squad-pytorch_model.bin','bert_config.json')
     questions_final,answers_final,paras_final,probs_final = zip(*sorted(zip(questions,answers,para,probs),reverse=True))
    
     result_str = []

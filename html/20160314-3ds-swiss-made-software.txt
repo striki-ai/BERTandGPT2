@@ -1,0 +1,68 @@
+Prevent fraud using an app and risk analysis system - 3-D Secure: Security and convenience for online shopping
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ 3-D Secure Issuer Service 
+ 3-D Secure Acquiring Products 
+ ToPay Digital Payment Service Hub 
+Prevent fraud using an app and risk analysis system
+Netcetera's 3-D Secure solutions
+ Better security and convenience when shopping online using a credit card: customers, retailers, and card issuers alike are reaping the benefits of modern authentication methods using smartphone apps and effective risk analysis. 
+In online retailing, classic authentication of credit card transactions by entering the card number, CVV, expiry date and name of the cardholder has never really provided adequate protection against fraud. This is why Visa created the 3-D Secure (3DS) protocol back in 1998. Today it is used by every card issuer. 3DS helps prevent fraud by adding an additional level of authentication involving the buyer.
+In its simplest incarnation, the cardholder enters a static password they chose upon registering the card. This can be countered relatively easily, though, as scammers invariably know many ways of finding out someone’s password. People also quite often forget their password, and this results in many cancelled transactions and requests for information – an irritation to both buyers and retailers alike.
+A dynamic password, i.e. a fresh password that is generated with every transaction and sent to the customer via a separate channel, for example by text message, is more convenient and secure. The mTAN method has completely replaced the static password in many situations. The customer no longer has to memorize anything – they just have to enter the code they receive when checking out.
+ It is even more user-friendly to omit this step, too: The state-of-the-art authentication method involves using a mobile app on a smartphone, which in turn displays payment details such as the amount and receiving party for verification by the customer. The transaction can then be authenticated at a click of a button. The app communicates with the authentication server via a secure data channel, separate from the store’s own communications.
+Minimise risks, make things easier for customers
+The majority of transactions are legitimate – only a small percentage are fraudulent. Using a preliminary risk analysis system, it is even possible to eliminate the authentication on the customer’s side, which makes the process even more user-friendly. This could be used for transactions that match the profile of the customer’s past purchasing behavior, for example. The risk analysis system can also be simultaneously used to spot and block fraudulent transactions.
+ Credit card issuers are increasingly using the services of third parties to manage the authentication process. Netcetera provides access to 3DS infrastructure with modern authentication and risk analysis processes. Its highly secure services are hosted in Switzerland, and can easily be integrated into existing solutions.
+This environment meets the high security requirements of Visa and MasterCard and is PCI DSS certified. The 3DS infrastructure is also an important component of
+, the payment solution recently launched by Netcetera, the Aduno Group, and Swisscard.
+More about "swiss made software - the book"
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ First in Europe with Amex Safekey 2.0 certification 
+ Netcetera 3DS ACS is ready as one of only three worldwide 
+ Netcetera Innovation Summit 2019 
+ Insights into digital payment from our experts 
+ First 3-D Secure 2.0 transactions in CH 
+ Datatrans and CornÃ¨rcard rely on Netcetera 3DS products 

@@ -1,0 +1,70 @@
+Why we invest in Augmented Reality - Interview with our Head of AR
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Why we invest in Augmented Reality
+ Inside-channels.ch spoke with our Head of AR, Reto Grob, about the development, opportunities and risks of augmented reality. 
+Several market research companies estimate the global market for augmented reality solutions at EUR 24 billion, or even as much as EUR 83 billion, by 2021. This is despite the fact that the technology that combines virtual reality with the real environment is anything but hype – at least if you believe Gartner's analysts, who put AR in the
+"trough of disillusionment" in the latest hype cycle
+It is certainly a technology that could achieve greater market penetration in the coming years. In Switzerland people are working on AR applications as well. For example, Netcetera invested in the sector early on and presently has a team of nine specialists working on augmented reality solutions in a dedicated department.
+"The demand for AR applications is constantly growing."
+With the publication of the financial results for the last six months, the Zurich-based software company stated that they are already noticing significant demand for AR. However, up to now this demand has been limited to pilot projects for SBB, the Bühler technology group, railway & track construction specialist Müller Gleisbau, the Swiss Museum of Transport in Lucerne, and Bern University Hospital.
+During a background interview with inside-channels.ch at Netcetera's headquarters, Reto Grob, Head of AR at the software company, asserted: "In the long term, augmented reality is a major topic at Netcetera, which is why we were one of the first Swiss companies to invest in this area and initiate specific projects. The demand is constantly growing." The software architect, who has been in charge of the department for 18 months now, compares AR to mobile platforms. At the turn of the millennium they were still in their infancy, but are now an indispensable part of every life.
+Among other things, we wanted to know how much Netcetera is investing in this technology and whether they are already making money from it. Furthermore, we wanted to know what the evolution of the market looks like and what the major obstacles are for widespread use of AR in the business sector.
+"We are heading towards a profitable situation."
+According to Grob, they have made major investments in AR in the last two years and boosted their development resources. However, the "godfather" of this division would not give any specific figures. Even so, the scope of the investment can be roughly estimated based on the size of the department. The nine AR specialists work in Zurich and at the nearshoring location in Skopje (Macedonia), though some in other areas too.
+According to Micaëla Raschle Grand, who is responsible of the marketing and communications for the department, the expenditure is justified by the order situation. However, Netcetera is not tipping its hand on sales and profit figures. "We are close to the break-even point," is all that AR head Grob has to say – and that they have a good outlook and plan for the next twelve to eighteen months. "We are heading towards a profitable situation."
+Just recently, they were able to book two more customers from the industrial sector. The main focus of Netcetera's AR department is the business sector. It can benefit from the technology for maintenance and quality control, training courses and sales. Many companies are already carrying out pilot projects in this area, but only a few applications are productive, says Grob. These are not trivial apps by any means, adds Raschle Grand. They are serious projects: "AR is used in particular to boost productivity." The customer experience is good and they are receiving positive feedback, the department's "story-teller" assures us.
+At Netcetera they expect to see the most significant growth in industrial maintenance. By contrast, the business cases for the health care and educational sectors, where AR applications could certainly be worthwhile, are more complex. "Here, we are seeing relatively large obstacles with regard to regulations, fundings and politics," says Grob.
+Grob is generally optimistic about the future. "I don't see any major risks or hurdles, and the market is growing," says the computer scientist with a degree from ETH. Netcetera's primary aim in 2017 was to create awareness in the entire ecosystem. This year, the main focus is on specific applications.
+However, they do not have any influence on hardware development, such as the AR glasses HoloLens or Magic Leap One, both of which are used at Netcetera. Broader acceptance is currently hampered by difficulties such as the limited field of view and high cost.
+However, the glasses are important in the industrial sector because they leave both hands free for work, unlike smartphones or tablets. Despite this, Grob thinks that AR apps for normal smartphones and tablets will gain acceptance more rapidly over the next two years. Here as well, Netcetera is in a good position. They have a large team of iOS and Android developers who can be deployed to develop mobile AR solutions.
+A general hindrance at present is that "monetary validation of the use of AR" is still lacking among customers. "Although companies see the potential, some budgets are still missing," concludes Grob. "However, I am confident that the number will increase significantly in the near future."
+Netcetera is well equipped for this, according to Raschle Grand. The Zurich-based software specialist has competition from ERP providers, among others. For example, SAP offers similar solutions under the Leonardo umbrella. When asked about this, she points out that Netcetera's solutions are more specific and quicker to get up and running. "Our customers appreciate that they can test our solutions quickly and specifically in the business environment in order to gain experience for the next iteration," says Raschle Grand.
+The interview was conducted by Thomas Schwendener and published on 27 Septemeber, 2018 on
+ " > Display Address 
+ Sales & Business Development 
+ Improve business productivity with IoT 
+ Launching our customizable platform n-things 
+ Azure Spatial Anchors 
+ Augmented Reality Experience for allthisfuture 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ Augmented Reality visualization 
+ PTC Vuforia Studio Experience for BÃ¼hler 
+ Winners: NZZ App and ChecklistAR 
+ Best of Swiss Apps Award 2018 
+ The digital future of emergency services work begins today 
+ Future Trends ICT: Augmented Reality 
+ Expertenvortrag am Event von IAMCP 
+ AR makes underground space visible 
+ Augment IT supports Future Cities Laboratory (FCL) 
+ Full transparency in the operating room 
+ Article about VR/AR possibilities and definitions 
+ Digital revolution in working life 
+ AR and CI Workshop in Liechtenstein 
+ Augmented reality for maintenance 
+ Whatever is missing, is on the way 
+ New business cases for new times 
+ Presentation by our expert Rafael PÃ©rez SÃ¼ess 
+ Augmented Reality opens up new horizons 
+ Augmented Reality for marketing 
+ Devices, possibilities and new business models 
+', " Mixed Reality's big potential", ' 
+ Our expert Reto grob evaluates its real added value 
+ New horizons in vocational training 
+ AR showcase for BÃ¼hler 

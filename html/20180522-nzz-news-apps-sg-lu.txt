@@ -1,0 +1,58 @@
+News Apps for NZZ regional media - Now also for 'Luzerner Zeitung' and 'St. Galler Tagblatt'
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+News Apps for NZZ regional media
+Now also for "Luzerner Zeitung" and "St. Galler Tagblatt"
+ We have developed the new news apps for the NZZ regional media "Luzerner Zeitung" and "St. Galler Tagblatt". They are based on the proven NZZ News App that we developed together with the Neue ZÃ¼rcher Zeitung in 2017. 
+The mobile applications developed by us for the regional media "Luzerner Zeitung" and "St. Galler Tagblatt" are available in the App Stores for iOS and Android devices. They offer a classic home page with article view and an overview with local news. In the "My LZ" and "My Tagblatt" areas, registered users can access additional functions, such as a watch list for storing articles in their personal account, or a history of the articles read. Registering brings further advantages, for example, readers with a personal user account can also save the choice of their region.
+We implemented the apps with ReactNative, a cross-platform, mobile development technology. The apps are based on the popular NZZ News App,
+which was launched in November 2017
+Luzerner Zeitung app for Android
+Senior Project Manager & Consultant Digital Enterprise
+ " > Display Address 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ Co-innovation with NZZ 
+ Insights into jointly mastered digital challenges 
+ Digital Publishing 
+ Launching a complete software solution for publishing houses 
+ Partnership with Livingdocs 
+ Launching a comprehensive publishing solution 
+ Gold for outstanding user experience 
+ Paraplegic app awarded at Digital Economy Award 
+ Winners: NZZ App and ChecklistAR 
+ Best of Swiss Apps Award 2018 
+ Cross-border ticket with TNW Tickets App 
+ Boundless mobility thanks to Wemlin tickets 
+ Voice responsive apps on iOS 
+ Talks by Conversational Interfaces expert Martin Mitrevski 
+ In-house public transport ticketing 
+ Eco-friendly travel from headquarters to remote locations 
+ Simplifying mobile contactless payment 
+ Using biometrics to pay with smartphone 
+ Augmented reality for maintenance 
+ Whatever is missing, is on the way 
+ Augmented Reality for marketing 
+ Devices, possibilities and new business models 
+ The battle for conversational interfaces 
+ When is a voice controlled interface the right choice? 
+ Reading recommendations, watch lists & infos of the day 
+ Free rides with cinema ticket & BLT App 
+ Wemlin Tickets Promotions-Toolbox loyalty program 

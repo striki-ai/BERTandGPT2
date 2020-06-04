@@ -1,0 +1,64 @@
+HoloLens use cases in neurosurgery - Successful prototype with the University Hospital of Berne
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+HoloLens use cases in neurosurgery
+Successful prototype with the University Hospital of Berne
+', " Professor Raabe's team from the University Clinic for neurosurgery at the University Hospital of Berne has worked with us to test new mixed reality applications in neurosurgery. One thing is already clear: The augmented reality approach provides better planning for surgical interventions.", '
+A first specific field of application is the visualization of scan results and the corresponding planning of operations. Existing CT and MRI scans of patients and data from neuro-navigation can be divided into their component segments, colored, and visualized life-size in 3D. The spatial representation makes the situation more understandable and helps the surgeon in planning the operation.
+To this end, we've developed an easy-to-use and intuitive app. The app runs directly on the HoloLens, no other devices are needed. The doctor loads the patient data directly into the HoloLens from the neuro-navigation system without further manual steps. The patient is selected using a menu in the HoloLens, then the scans are loaded directly into the glasses and visualized in 3D space. Various segments such as the head, blood vessel and individual areas of the brain are marked with colors and can be displayed or hidden. Segments can be resized and moved with gestures and voice commands.
+Insight into the brain thanks to the 3D visualisation
+At the beginning of the project, the situation was not clear. For example, we didn't know whether the HoloLens is adequate for such complex models and whether the hospital's 3D data could even be used for this purpose. We quickly proofed that the performance of the HoloLens delivers true added value together with the development tools and the existing data.
+The solution is still in the prototype phase and not in medical use. In our opinion, such use is only a matter of time. We have already identified additional areas of application with further potential and included them in the planning.
+Looking inside the brain of a patient
+In order to augment your business visit our
+Talk to our expert & author of this article
+ " > Display Address 
+ Sales & Business Development 
+ Improve business productivity with IoT 
+ Launching our customizable platform n-things 
+ Azure Spatial Anchors 
+ Augmented Reality Experience for allthisfuture 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ Augmented Reality visualization 
+ PTC Vuforia Studio Experience for BÃ¼hler 
+ Order entry in University Hospital Basel 
+ Comprehensive digital platform optimizes processes 
+ Healthcare Ecosystem 
+ Success factors for more efficiency in clinical processes 
+ Launching Healthcare Ecosystem 
+ Digitizing hospital processes together with the i-engineers 
+ Winners: NZZ App and ChecklistAR 
+ Best of Swiss Apps Award 2018 
+ The digital future of emergency services work begins today 
+ Combating healthcare insurance fraud 
+ Presentation & article by Kiril Milev 
+ Why we invest in Augmented Reality 
+ Interview with our Head of AR 
+ Future Trends ICT: Augmented Reality 
+ Expertenvortrag am Event von IAMCP 
+ Machine Learning for health insurances 
+ Risk classification to detect waste, abuse and fraud 
+ AR makes underground space visible 
+ Augment IT supports Future Cities Laboratory (FCL) 
+ We are reinforcing our team Middle East 
+ New Director of Sales and Business Development in Dubai 
+ Full transparency in the operating room 
+ Article about VR/AR possibilities and definitions 
+ Why blockchain disrupts all industries 
+ Elena Karafiloski presents use cases in health & education 

@@ -1,0 +1,74 @@
+Leading credit card processor PLUSCARD chooses Netcetera - Leading credit card processor PLUSCARD chooses us
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Leading credit card processor PLUSCARD chooses Netcetera
+Highly secure, app-based solution makes online shopping convenient and secure
+ We have implemented our 3DS DYN product for the German credit card processor PLUSCARD including dynamic authentication and the integrated app from its technology partner, Entersekt. Card users can now confirm their payments with a quick click in the app. Insecure passwords and sending expensive text messages are a thing of the past. We make online shopping more customer-friendly and simpler than ever before. Thanks to this innovative, app-based solution, PLUSCARD now has the most advanced and secure system for online payments currently available in the market. 
+PLUSCARD, the leading German credit card processor, provides comprehensive services for banks and savings banks involving Mastercard and Visa credit cards. Altogether, PLUSCARD manages over 2.5 million cards in full-processing from more than 150 financial institutions in Germany.
+With the successful introduction of our forward-looking
+, PLUSCARD has significantly increased its users' ease of use for online card payments. At the same time, the processing company benefits from the best possible level of online payment security with this intuitive, app-based solution. What is more, no purchases are lost or cancelled, delivering excellent online transaction reliability.
+3DS DYN protects against credit card abuse
+The number of cases of credit and debit card fraud is growing steadily. In addition to actual credit card theft, credit card details are also increasingly being stolen and abused using electronic methods. Card issuers and banks therefore need to upgrade their security measures. For online payments, the 3-D Secure (3DS) standard delivers enhanced security. 3DS is widely known as "Verified by Visa," and „Mastercard® SecureCode™“.
+Our extensively proven 3DS DYN solution, which is now used by PLUSCARD, is based on this standard and authenticates card owners for online transactions using an app as an independent channel. The user receives a push notification on his or her mobile device with the transaction data. Then, just a quick tap on a button is enough to confirm the payment. Online shopping has never been so fast and so secure.
+To implement this extremely secure, yet very user-friendly two channel authentication, we use the Transakt app from Entersekt. For the Sparkassen credit cards, the app S-ID-Check was implemented. This app is customized and branded based on the Transakt app. Entersekt is a world leader in authentication and mobile app security. As an Entersekt preferred supplier for Europe, we have made the Transakt app available to its customers since July 2016.
+Since August 2015, PLUSCARD has been operating its credit card portfolio over our multi-business 3DS system. This is operated our data centre in Switzerland that fulfils Visa’s and Mastercard's strictest security requirements. In addition, the entire system is certified under PCI DSS.
+"After successfully migrating our credit card portfolio to Netcetera's 3DS environment, we also placed this major security-critical project into Netcetera’s hands. The right choice for us, as Netcetera has once again proved that they have notable experience in the area of 3-D Secure," explains Michael Klein, General Manager and Business Unit Manager Operation, PLUSCARD Service-Gesellschaft für Kreditkarten-Processing mbH.
+Andrej Vckovski, our CEO, adds: "We secure online purchases for 12 million users daily. In doing so, we always ensure that our customers have the best protection combined with a unique user experience. To do this, we rely on the most up-to-date technologies to make online payments as secure and simple as possible."
+Schalk Nolte, CEO of Entersekt, comments: “Transakt has proved highly attractive to financial institutions affected by recent and impending regulatory changes in Europe. It helps issuers and other organizations meet their compliance obligations while making life easier for their customers. We are proud to work with Netcetera on this and other exciting projects. Through our collaboration, companies like PLUSCARD can launch user-friendly, engaging new services without exposing their customers to additional risk.”
+In Netcetera, customers have a skilled partner with many years of experience in the 3-D Secure environment through all the phases of a project. We supports card issuers and banks with comprehensive, expert advice in the planning of the introduction of 3-D Secure or in authentication based on the 3DS DYN solution.
+Users are being notified of a payment and confirm with only one klick.
+Identity check is being made via smartphone
+If there is no data connection there are also other possibilities to confirm payments.
+The home screen before registering a credit card.
+Article on this topic in "cards" (in German)
+sicherheit-beim-online-shopping-feb-2017.pdf
+ " > Display Address 
+ Partnership with Entersekt 
+ We are safeguarding online payments 
+ Credit card issuers rely on Netcetera 
+ Online payment even more secure and easy 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 

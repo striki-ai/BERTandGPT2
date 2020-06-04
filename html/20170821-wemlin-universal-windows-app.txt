@@ -1,0 +1,58 @@
+Wemlin for Windows 10 - The app now runs on all devices with Windows 10
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+The public transport app is now a Universal Windows app
+ Wemlin for Windows is no longer a pure smartphone app. We have further developed the popular app for public transport into a Universal Windows app and brought it to the latest state of technology. It now runs on all devices with Windows 10. The data is obtained from the new "Open Data Platform Ã–V Schweiz". The great advantage for the users: they can check the departure times of train, tram, bus and ship of all the public transport companies in Switzerland even faster. 
+With the passenger information app Wemlin, the travelers know the departures in their vicinity at any time, whether with iOS, Android or Windows Phone. We now have developed Wemlin for the Windows 10 platform. In the start menu view the next departures of the user’s personal favorite stations are displayed. If you want to use other Wemlin features, you can open the app by clicking on the desktop tile.
+A further advantage is the connection to the new
+of the Federal Office of Transport. The platform provides all timetable data, as well as the current and the expected traffic situation of public transport in real time. Wemlin for Windows now shows the departure times of all Swiss public transport companies – anytime and anywhere. Friedemann Bürgel, member of the managing board of opendata.ch, says: "We are very pleased that this popular and widely-used app can now use the new platform. Open data is increasingly becoming an infrastructure that benefits the general public.”
+The existing Windows Smartphone app is replaced by the Universal Windows app. The new app can be downloaded
+for free. Wemlin for Android and iOS remain and can be used for the Zürich transport network, Liechtenstein Mobil and the transport networks Ostwind, Nordwestschweiz and Frimobil.
+With Wemlin, the travelers know the departures in their vicinity at any time.
+Wemlin for Windows now shows the departure times of all Swiss public transport companies.
+In the start menu view the next departures of the userâ€™s personal favorite stations are displayed.
+ Solving disruptions in networks with AI 
+ Among five best in Flatland Challenge by SBB 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 
+ Insight delivers insights and outlook 
+ Dialogue platform for customers with customers 
+ Cross-border ticket with TNW Tickets App 
+ Boundless mobility thanks to Wemlin tickets 
+ Rail production technology partner 
+ In-house public transport ticketing 
+ Eco-friendly travel from headquarters to remote locations 
+ Free rides with cinema ticket & BLT App 
+ Wemlin Tickets Promotions-Toolbox loyalty program 
+ Voice-controlled timetable search 
+ Google Assistant news from Google I/O 
+ Full-house at our AR workshop 
+ Creating value with Augmented Reality 
+ Toward natural conversation with devices 
+ Behind-the-scenes look 
+ Successful test for maintenance of trains 
+ "Mixed reality" at Museum of Transport 
+ Hololens breathes new life into ship 
+ Our projects scooped the prizes at Best of Swiss App Award 
+ Digital trip through Transport Museum 
+ Our CEO Andrej Vckovski testing Media World app 
+ LiveGuide: Digital traveling companion of the Zentralbahn 
+ First railway company using RailVista 
+ App automatically calculates supplementary zones 
+ CeBIT: A digital journey with our software 
+ Experience digitalization live 

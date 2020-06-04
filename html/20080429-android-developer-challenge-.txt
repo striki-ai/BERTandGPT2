@@ -1,0 +1,59 @@
+Android Developer Challenge: - The birth of public transport app Wemlin
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Tramdroid - Netcetera Catches the Right Tram
+ The Netcetera team Daniel Eichhorn and Stefan Ferstl developed an astounding, cutting-edge application based on the licence-free mobile device platform Android. They have entered the project called Tramdroid in the worldwide Android Developer Challenge. Tramdroid is a perfect example of high-quality software development and may very soon be ensuring that cell phone users never again miss the next tram. 
+Android, the licence-free platform for mobile devices, generates significant interest. Google has brought together more than 30 companies from all over the world to form the Open Handset Alliance and to cooperate on developing Android. The aim of the platform is to allow rapid access to internet data, such as e-mails or interactive maps, using mobile devices. Mobile data can be combined with data stored on the device, for example mobile geo-data and saved contact details. The software development toolkit for Android is now available for developers all over the world to download so that they can transform their ideas into programs.
+The Vision of the Open Handset Alliance
+The objective of the Open Handset Alliance is to accelerate innovation on the mobile market. They created Android for that purpose. The companies Noser and Esmertec represent Android in Switzerland as members of the alliance. Netcetera benefits from its participation in the Android Challenge to which it has contributed its in-depth Java expertise and extensive experience of open source platforms. In addition, Netcetera also has a considerable network of potential customers for Android-based applications. Alongside the
+, the company is holding its own Android competition and has initiated Android prototype projects.
+The Netcetera team submitted their project to the Android Developer Challenge in April. The prizes for the development of the best applications total 10 million US dollars. Daniel Eichhorn and Stefan Ferstl's project is appropriately called Tramdroid. As its name suggests, the program provides information about tram lines, routes and departure times in the city of Zurich. The development process involved data from 13 lines, more than 170 stops and 260,000 departure times which the developers have cleverly compressed and concatenated. The result is a highly functional and user-friendly program with a visually appealing user interface.
+The Vision of the Tramdroid Engineers
+The concept behind the development of the application is to allow rapid access to travel information in situations where time is short. Current information systems for mobile devices are slow and not particularly user-friendly. Tramdroid allows users to find out a tram’s departure time and direction of travel within just a few seconds. The program identifies the location of the cell phone users and advises them whether they need to run or simply stroll to the next stop. The stop can either be selected on an animated map or entered in text form. Tramdroid displays the departure times of the next trams and, in the text-based version, the journey time to the destination.
+The first version of the Tramdroid software is based on timetables and not on real-time data. This means that it currently does not take account of service interruptions or delays caused by accidents or heavy traffic. Incorporating the real-time data is feasible and worthwhile - we anticipate exciting developments in this area. However, no mobile devices are yet available to run Android applications. The Open Handset Alliance is working hard towards solutions for a new mobile world.
+Engineers in test mode: Daniel Eichhorn (center), the initiator of Tramdroid; Stefan Ferstl (right), software developer and Stefan Tramm (left), Netcetera's Android project leader.
+ Solving disruptions in networks with AI 
+ Among five best in Flatland Challenge by SBB 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 
+ Insight delivers insights and outlook 
+ Dialogue platform for customers with customers 
+ Cross-border ticket with TNW Tickets App 
+ Boundless mobility thanks to Wemlin tickets 
+ Rail production technology partner 
+ In-house public transport ticketing 
+ Eco-friendly travel from headquarters to remote locations 
+ Wemlin Universal Windows App 
+ The app now runs on all devices with Windows 10 
+ Free rides with cinema ticket & BLT App 
+ Wemlin Tickets Promotions-Toolbox loyalty program 
+ Voice-controlled timetable search 
+ Google Assistant news from Google I/O 
+ Full-house at our AR workshop 
+ Creating value with Augmented Reality 
+ Toward natural conversation with devices 
+ Behind-the-scenes look 
+ Successful test for maintenance of trains 
+ "Mixed reality" at Museum of Transport 
+ Hololens breathes new life into ship 
+ Our projects scooped the prizes at Best of Swiss App Award 
+ Digital trip through Transport Museum 
+ Our CEO Andrej Vckovski testing Media World app 
+ LiveGuide: Digital traveling companion of the Zentralbahn 
+ First railway company using RailVista 
+ App automatically calculates supplementary zones 

@@ -1,0 +1,62 @@
+Wirecard with our MPI ready for UnionPay - Successful implementation with the first customer
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ 3-D Secure Issuer Service 
+ 3-D Secure Acquiring Products 
+Wirecard with our MPI ready for UnionPay
+Successful implementation with the first customer
+ Our Merchant Plug-In (MPI) now also supports the UnionPay Online Payment (UPOP) standard of the UnionPay credit card organization. With this move, we are reacting to the growing market share of UnionPay transactions in Europe. The extension of the MPI was developed and implemented together with Wirecard, the German specialist for payment processing and issuing. 
+is the first customer to offer our MPI for Secure Plus secure payment processing with UnionPay credit cards. Wirecard is already our MPI customer. For the technical development and test phase of Secure Plus, we worked together even more closely. Dr. Thomas Käppner, Head of Merchant Services at Wirecard, says: "Thanks to the successful cooperation with Netcetera and their pioneering spirit, we were able to move forward quickly and are now the first to integrate Netcetera's MPI for UnionPay Secure Plus. With this extension, it will be very easy for our retail customers to integrate UnionPay with secure payments, since the interfaces are closely related to other handling procedures."
+Netcetera and Wirecard are now ready for the growing market share of UnionPay in Europe, as the number of UPOP transactions is increasing continuously. Our MPI can be implemented very quickly and easily for other payment service providers. Michael Seifert, Managing Director Netcetera GmbH in Germany: "There is an increasing demand for UnionPay. We are very happy to offer secure payments in this area with our MPI extension. It’s our ambition to constantly expand our services together with our customers and to offer product improvements and new features."
+Secure payment handling with Netcetera's MPI
+Our merchant plug-in ensures the smooth and reliable processing of payments on the internet. It also offers contemporary web services for the verification and authentication of the card holder. As an integrated part of the purchasing process, the MPI authenticates and verifies the cardholder according to UnionPay Secure Pay standards as well as those of Verified by Visa, MasterCard® SecureCodeTM, American Express Safekey®, and Diners ProtectBuySM. The plug-in is being used worldwide, for instance, in Australia, Bulgaria, Croatia, the UK, Germany, Hong Kong, Hungary, Russia, Ukraine and more.
+ " > Display Address 
+ Visa and MasterCard certified 
+ 3-D Secure implemented for Swisscard 
+ Prevent credit card fraud 
+ 3-D Secure: Security and convenience for online shopping 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital Assets in real estate 
+ Secure token offerings as alternative for private investors 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 

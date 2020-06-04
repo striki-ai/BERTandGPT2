@@ -1,0 +1,73 @@
+Plundering islands in your living room - Mixed Reality 3D action game
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions -†from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Plundering islands in your living room
+ Mixed Reality can provide improvements in various aspects of professional life. It can help the education process by projecting objects and processes in the real world. It can help medical personnel to carefully plan operations. It can help maintenance workers to easily find and solve various problems. Mixed Reality also offers improvements in the entertainment sector. Nowadays, Virtual Reality has become one of the most talked about topics in the gaming industry. Devices like PSVR, Oculus Rift, HTC Vive and so on, bring the possibility to enjoy virtual worlds in your living room. But Virtual Reality, as the name implies, disconnects you from the real world. Mixed Reality, on the other hand, offers you the possibility to enjoy the fun of playing virtual games in the real world. This is the story about the challenges and the concepts behind our first Mixed Reality game - Cubic Warfare. 
+Cubic Warfare is a 3D action game. You are a captain of a pirate ship and your goal is to destroy buildings on various islands as fast as possible in order to earn as many "Reals" as possible. You are able to play all by yourself just for fun, or to submit your score to online leaderboards and compare it with other players.
+Cubic Warfare was first conceived as a prize raffle game for one of our company events. The idea was to have the employees compete by playing an accessible game. The best players would win prizes. At the time, HoloLens was relatively new and we didnít have a lot of knowledge about it in the company. That was the opportunity to create the game.
+The initial version of Cubic Warfare was very well received, so it was developed further and was used at the Netcetera booth at the
+that took place in Bern in April 2017. For this event there were several new levels created, the ability to submit scores to a leaderboard was added, the visuals were improved, etc. The game performed very well and piqued the interest of a lot of the attendees. We decided to develop it further and finally to make it available for everyone to play. Today, Cubic Warfare is available at no cost for everyone in the Windows Store.
+So, what were the biggest challenges during the development process?
+The HoloLens is a standalone mixed reality device. This means that it doesn't need any additional hardware to operate (like a PC, smartphone or something similar). All of the sensors, processing units, battery, etc. are contained in the headset. The headset is powerful enough to display complex models. However it is not powerful enough to perform complex physics simulations, or to render models with high-end materials and lighting. Performance is one of the restrictions that the developer should be aware of. To reduce the model complexity and lower the number of polygons that were used, we decided that the game should use models made out of cubes, also known as Voxel models. Models made out of cubes can be easily made destructible, if the physics are set correctly. Some of our Voxel models are displayed in the gallery below.
+Scaling was the next challenge. When developing games for HoloLens you have to keep in mind that the objects will be placed in the real world. They need to be in the right size. To demonstrate the problem, look at the following picture:
+Cubic Warfare was developed using Unity. In Unity, 1 unit is equal to 1 meter in the real world. This meant that when an object is created it needs to be really small. If an object is small (from the picture ~30cm), a single cube from the model would be even smaller (around 1cm). This makes problems with Unity's physics simulations. You need a balance between the physics calculation precision and the scale. Because the HoloLens is not very powerful, the calculations need to be less precise. This on the other hand makes issues (for example: collisions are not detected). We needed to fine tune several settings in the Physics engine in order to find a perfect balance between the simulation accuracy and the performance (and yes, this also included some changes in the gravity as well).
+When talking about the physics, it is important to say a few words about the setup of the physics model of the buildings that need to be destroyed. Each building consists of cubes. All of these cubes are independent physics objects. However there are cases when a cube doesn't have cubes below it. Think of balconies or bridges. This is resolved using joints as a way to connect several physics objects together. These joints can be broken if an excessive force affects the objects (an explosion for example). This can be seen on the image below:
+The cube that is marked with magenta doesn't have a cube below it. It is connected to the adjacent cubes (marked with orange) with joints. The same infrastructure is established for every cube that doesn't have anything below it.
+Another challenge was the menu system. Almost all applications that are available right now for Mixed Reality devices provide menus that are similar to the standard flat menus that can be seen in the classic applications that we use on PCs, smartphones, and even Windows 10 for HoloLens. We wanted to push this concept a bit further. Letís look at the Start Menu (only Holograms are displayed, so that the picture is clearer):
+You will immediately notice that there are comic bubbles for the different groups of ships. The group with the single ship (on the left) represents the menu item for the mode where the user doesn't submit the score to the leaderboard. The group with three ships (on the right) represents the mode where the user submits the score. The obvious question is: How does the user know when an item is highlighted. We solved this by introducing an additional comic bubble to highlight the option when it is selected. This is displayed in the figure below:
+The additional comic bubble "Yeeey!" highlights the selected option or item.
+Also the menu has other items that can be selected, but are not immediately highlighted. If there are bubbles to all items, the user interface would become too crowded. This is the reasoning behind the decision to only highlight items that are important. The other items are easily discoverable while the user is looking around the scene. The figure below demonstrates all of the items that are available:
+Using this pattern, we were able to design the entire user interface of the game, so that it uses the actual 3D objects to convey information to the user, without using standard UI/UX patterns. This allows us to make the user a bit more immersed in the game.
+So, enough talk. How about some gameplay? Interested? Check out the video below:
+If you have a compatible device, you can get
+Cubic Warfare for free from the Windows Store
+technical insights into the development of the game.
+ " > Display Address 
+ Successful test for maintenance of trains 
+ "Mixed reality" at Museum of Transport 
+ Hololens breathes new life into ship 
+ Hololens in neurosurgery 
+ Successful prototype with the University Hospital of Berne 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Improve business productivity with IoT 
+ Launching our customizable platform n-things 
+ Azure Spatial Anchors 
+ Augmented Reality Experience for allthisfuture 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ Augmented Reality visualization 
+ PTC Vuforia Studio Experience for B√ºhler 
+ Leading CONCORDIA into a digital future 
+ Secure and high-performance system integration 
+ First 3-D Secure 2.0 transactions in CH 
+ Datatrans and Corn√®rcard rely on Netcetera 3DS products 
+ New Executive Management Board member 
+ We appointed Mark Faris as our new CFO 

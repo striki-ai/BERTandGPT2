@@ -1,0 +1,68 @@
+Netcetera contributes to development of new internet payment standards - We are contributing to development
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ ToPay Digital Payment Service Hub 
+ 3-D Secure Issuer Service 
+Netcetera contributes to development of new internet payment standards
+ The digital payment specialist Netcetera has extended its membership in EMVCo - the technical standardization body of leading credit card schemes - to the "Technical Associate" status. The company\'s experts are thus actively influencing the standardization of secure payment solutions in the e-commerce environment, in particular the EMVÂ® Secure Remote Commerce (SRC) specification that is currently being developed. This new standard will make internet payment by credit and debit card significantly easier and more secure at the same time. Netcetera also offers this knowledge to PSPs, merchants and card issuers in the form of training courses. 
+As a "Technical Associate" member of the international standardization committee
+, Netcetera works together with the EMVCo working group for EMV® Secure Remote Commerce (SRC) on technical and operational issues.
+Today, entering credit card information on merchant websites still involves high drop-out rates, as customers find it too cumbersome to re-enter their card and customer data over and over again, especially on mobile devices. The new Secure Remote Commerce standard is designed to provide a consistent and convenient customer experience for remote payments across all schemes. As Netcetera already offers e-commerce checkout and wallet solutions for millions of credit cards and has practical experience with their operation, the payment specialist is contributing valuable expertise to the development of the next generation of internet payment.
+"We have a leading position at 3-D Secure 2.0 and are pleased to be able to contribute our exclusive knowledge in the area of digital payment. Partners who work with us benefit from early access to developments and standardization in this area via Netcetera. This enables merchants to integrate relevant components into their online shop or mobile app in good time," says Dr. Thomas Fromherz, Chief Strategy Officer, Payments at Netcetera.
+EMVCo's Secure Remote Commerce framework defines the roles, superordinate processes and data descriptions that enable a consistent and secure exchange of card data within the remote commerce environment. The technical framework document will soon be followed by the publication of a detailed specification defining the protocol and core functions.
+Netcetera, as technical partner of EMVCo and innovative technology provider in the digital payment industry, has already gained a deep understanding of the upcoming new secure e-commerce payment solution, which is supported by all card systems, and passes this knowledge on to its customers and other members of the payment security industry.
+In half-day workshops, Netcetera experts answer key questions about the new protocol, for example: What is EMV Secure Remote Commerce (SRC) and how does it affect your business? Participants will also learn about the checkout procedures for SRC support. Netcetera will also explain topics such as the importance of tokenization for SRC, the integration of 3-D Secure 2.0 into the SRC flow or the consequences of SRC for existing online Scheme wallets. In a live demonstration of possible SRC checkout processes Netcetera will show how SRC will look like.
+The workshops take place in Zurich, Vienna, Berlin, Frankfurt, London, Milan and Munich at the end of the year.
+Note: EMV® is a registered trademark in the U.S. and other countries and an unregistered trademark elsewhere. The EMV trademark is owned by EMVCo, LLC.
+Chief Strategy Officer, Payments
+ " > Display Address 
+ Sales & Business Development 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 

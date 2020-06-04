@@ -1,0 +1,70 @@
+Netcetera and DKB simplify online credit card payment with biometrics - Simplifying online credit card payment with biometrics
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ 3-D Secure Issuer Service 
+Netcetera and DKB simplify online credit card payment with biometrics
+Drastically simplified registration process for online security procedures with app
+ The software company Netcetera, market leader for 3-D Secure in the DACH region, together with the Deutsche Kreditbank AG (DKB) has modernized the 3-D Secure process for its customers and integrated the payment approval via biometrics. One of the largest card issuers in Germany hereby integrates the registration and payment authorization for card payments into their banking app. The implemented security procedure complies with the payment directive PSD2, dictated by the EU from September 2019. DKB customers activate their credit cards in the app easily, quickly and securely for their online purchases. 
+With an increase of 11.4 percent to EUR 65.10 billion, gross sales of goods in e-commerce continued to grow at double-digit rates in 2018. Pure e-commerce sales thus account for more than every eighth euro in the retail sector. The online marketplaces also continued to grow strongly.
+To do justice to this trend, banks have to offer their customers a modern and carefree online shopping experience. With over 4 million cards, Deutsche Kreditbank AG is one of the first major banks to offer a solution that allows cardholders to register directly for a security procedure in real time.
+The jointly implemented registration process without media discontinuity and the very user-friendly 3-D Secure payment process using biometric approval ensure secure and simple purchases with significantly fewer payment interruptions.
+Mark Hauel, Head of Private Customers at
+, confirms: "Together with Netcetera, we have further developed our banking app so that we can provide our customers with an optimized user experience through biometric authentication. This feature is also consistent with our understanding of an advanced online direct bank and digitized processes".
+Easier registration and activation for greater usability
+The 3-D Secure process has been significantly simplified by integrating the functions of the previous DKB Card-Secure app into the banking app. This eliminates the need for a cumbersome card registration process with an identity code sent by post or one-cent bank transfer. This modernization simplifies the registration process enormously. The strong authentication of the cardholder in the banking app is now also used for the 3-D Secure functionality. There, the user activates his card for 3-D Secure with a simple click and enters a TAN number for confirmation. In addition, the support of biometrics simplifies the secure payment process. After the checkout in the online shop, the sales details are presented to the user on the smartphone again.
+He identifies himself in the banking app with the biometric function supported by the device (e.g. by fingerprint or Face ID) and then releases the payment quickly and easily with a click - without having to enter a TAN number or password.
+Peter Frick, Managing Director Payment Security at Netcetera, says: "Our implementation of the latest development in the 3-D Secure environment for DKB is a milestone for digital payment. DKB can thus offer the best possible user experience while at the same time ensuring a high level of security".
+This progress in online payment traffic increases user-friendliness enormously. Banks and card issuers are thus making credit card payments in online retail more attractive for their customers again. In addition, online shops increase their turnover thanks to fewer interruptions during the payment process. Both will lead to a further increase in the acceptance of credit cards and payments as well as payment by smartphone in Germany.
+Managing Director Secure Digital Payments
+ " > Display Address 
+ 3-D Secure Issuer Service 
+ 3-D Secure Acquiring Products 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 

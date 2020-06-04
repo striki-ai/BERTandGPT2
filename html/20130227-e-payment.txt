@@ -1,0 +1,65 @@
+A Nation of Invoice Payers - No revolutionary breakthrough in sight
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+No revolutionary Breakthrough in Sight
+', " The Swiss magazine Marketing & Kommunikation addresses the question why new online payment options are developing only very slowly in Switzerland. Purchasing by invoice is still predominant in Switzerland, even in the online merchandise sector. Netcetera's experts Thomas Fromherz, Ralph Wildhaber, both Director Payment & Card Services, and Joachim Hagger, Head of Market & Technology, were interviewed too on the development of e-payment in Switzerland.", '
+E-commerce expert Thomas Lang puts it succinctly: "We're not only a nation of tenants, but also a nation of invoice payers." A glance at the latest figures from the Swiss Mail Order Association (VSV) confirms his assessment: in 2010 the proportion of invoice purchases in the Swiss online merchandise sector was 89%, and the following year it was nearly the same at 88%.
+The figures for 2012 will be available in a few weeks, but there is no reason to expect a significant drop in the proportion of invoice payments, as VSV President Patrick Kessler reports: "The data shows that purchasing by invoice still predominates in Switzerland. However, collection of detailed figures is limited to our members, so organizations such as Digitec and Amazon are not represented." Another factor is that credit card usage is much higher for services and virtual goods, such as SBB and downloads. Nevertheless, the survey can be regarded as highly relevant for the merchandise sector. Kessler expects purchasing by invoice to remain dominant in the Swiss online mail-order business.
+"Some webshops are naturally reluctant to ship a product with the risk that the customer may not pay. However, there are now established methods for automatic credit checking. Factoring firms, such as Billpay, Arvato Infoscore or Post Debitoren, acquire receivables for a fee of a few percent of sales volume, as noted by Thomas Lang, a partner in the consulting firm Carpathia. Paypal as a payment intermediary has also become well established as an alternative to credit cards. Small purchases, such as e-books or MP3 files, remain a challenge for e-commerce because payment by invoice is not practical for these transactions.
+"Payment by invoice will continue to play a major role in the foreseeable future," according to Rui Huang, Senior Product Manager E-Commerce at SIX Payment Services. "However, credit cards will still be the most important means of payment for webshops." On a global scale, approximately two-thirds of all payments in webshops are now made by credit card, and acceptance of credit card payments in webshops is constantly growing in Switzerland."
+At Netcetera, the systems, processes and IT solutions specialist, Thomas Fromherz comments: "Electronic invoicing is on the rise for recurrent payments. Invoices will likely be replaced more and more by other payment methods. The credit card industry is trying to increase their acceptance by means such as making online payment easier, while new providers like Paypal are penetrating the market with especially simple payment methods." His colleague Ralph Wildhaber, also Director Payment & Card Services, says: "In the coming years there will certainly be more payment options. Technologies and means for contactless payment, such as NFC, PayPass and others, will hardly reduce the volume of invoices, but more prepaid cards or secure debit cards for online purchases, such as Maestro, are likely to do so." Netcetera's major customers include payment service providers, which provide services for payment transactions. Netcetera recently launched their merchant plug-in for online merchants, which implements the 3-D Secure standard to provide additional security for credit card payments.
+Joachim Hagger, Head of Market & Technology at Netcetera, commented on future payment transactions: "Additional players whose core business is not payment transactions will join the fray because they have a customer base who use their payment means – such as credit cards – to settle purchases. This includes Apple, Google and Amazon, among others. The focus of these new players is not additional margin, but instead how to strengthen customer loyalty and the purchasing habits of their customers."
+Hagger commented on the significance of mobile payment: "In the long term, mobile phones will become electronic purses that provide all means of payment except cash. It takes a long time for a new means of payment to become established. However, we expect the roll-out time for mobile payment to be considerably shorter than what we saw with debit and credit cards."
+Tobias Wirth, Senior Product Manager M-Commerce at SIX Payment Services, sees the future payment transactions landscape as follows: "On the one hand you have electronic purses or e-wallets, which are already being used more and more. Consumers store their card data and delivery address in an e-wallet, which they can then use for one-click purchasing. This accelerates the payment process in online shops. On the other hand, mobile commerce – which means app payments – will continue to increase dramatically." Wirth regards mobile payment as highly important: "The share of payments by mobile devices, such as tablets and smartphones, will rise very sharply." This takes us into the realm of mobile commerce or remote mobile payment. A few online shops already generate 20 percent of their sales with mobile commerce.
+Chief Strategy Officer, Payments
+ " > Display Address 
+ Sales & Business Development 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ First in Europe with Amex Safekey 2.0 certification 
+ Netcetera 3DS ACS is ready as one of only three worldwide 
+ Netcetera Innovation Summit 2019 
+ Insights into digital payment from our experts 
+ First 3-D Secure 2.0 transactions in CH 
+ Datatrans and CornÃ¨rcard rely on Netcetera 3DS products 

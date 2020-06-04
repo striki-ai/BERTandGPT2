@@ -1,0 +1,64 @@
+Netcetera launches mobile financial assistant - 60 Swiss banks with Netcetera's mobile app
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Netcetera launches mobile financial assistant
+60 Swiss banks put their trust in the market leader in mobile banking
+ The Swiss software company Netcetera is expanding its lead on the mobile banking market in Switzerland and adding a personal finance management (PFM) module from Contovista to its mobile banking app. 
+This module shows a clear overview of account transactions and also contains budget, analysis, and search features. Now banks can give their customers a better idea of how much they are spending. At the end of May, Schwyzer Kantonalbank (SZKB) integrated the PFM module into its Finnova Mobile Banking as the first cantonal bank. SZKB is one of around 60 banks in Switzerland relying on the mobile banking solutions of Netcetera.
+The new PFM module expansion of Netcetera's mobile banking app was developed in collaboration with Zürich start-up
+. They supplemented their PFM with the necessary mobile web application and Netcetera integrated it into its overall solution. The module offers an expenditure analysis that automatically categorizes transactions. Bank customers can also comment on and tag their own payments, while a semantic search feature makes it easier to find transactions. Graphs of expenditures and income allow users to see how much money they are spending and what they are spending it on at any time. Personal budget management also helps them to better organize their finances.
+Netcetera has established itself as a market leader for mobile banking in Switzerland. It recognized mobile banking's growing potential early on. As early as 2010, the Swiss software company provided PostFinance with the first Swiss app with a payment feature. An important technology partner since 2012 is
+maintaining the most-used banking software in Switzerland with over 100 customers. In 2013, the two companies joined forces to launch Finnova Mobile Banking for the Swiss finance industry. «We are proud that our product allows even the smaller banks to offer a state-of-the-art mobile banking app» says Ronnie Brunner, responsible for Netcetera's product business.
+As of the start of June, around 60 Swiss banks already rely on Netcetera's mobile banking app. Among them are Graubündner Kantonalbank, Genfer Kantonalbank, Schwyzer Kantonalbank, Clientis Banken, the majority of the regional banks, savings banks in the Esprit network, and the majority of Entris Banking AG customers. Netcetera has also developed customized mobile banking solutions, e.g. for Migros Bank, PostFinance, and Zürcher Kantonalbank.
+Managing finances anytime and anywhere
+With Netcetera's mobile banking app, bank customers can access their accounts, make payments, place stock market orders, and contact their bank at any time. In the app's public area, customers can also search for the nearest ATMs and branches, or look up emergency numbers for blocking cards. The app, which is integrated into the bank's existing e-banking infrastructure, has a high degree of configurability and can be adapted to the corporate design. It can also be supplemented with additional features such as currency converters or news. This makes it possible to implement Netcetera's mobile banking solution considerably faster and more cost-effectively than is possible with an isolated proprietary development.
+Netcetera is already working on developing new features for its mobile banking solution. In the future, bank customers should be able to block and unblock debit and credit cards and manage recurring payments through the app, among other things.
+ Article in Wirtschaft Regional Vaduz 
+ Many banks are losing touch with the mobile banking trend 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital Assets in real estate 
+ Secure token offerings as alternative for private investors 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Trans-European rail scheduling 
+ Path Coordination System for RailNetEurope 

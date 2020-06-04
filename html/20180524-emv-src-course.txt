@@ -1,0 +1,76 @@
+Early insights into EMVÂ® Secure Remote Commerce - Courses about the next generation of e-commerce checkout
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ ToPay Digital Payment Service Hub 
+Early insights into EMVÂ® Secure Remote Commerce
+Courses about the next generation of e-commerce checkout
+Checkouts in e-commerce suffer from low conversion rates. Therefore, the card industry is defining a new standard:
+EMV® Secure Remote Commerce (SRC)
+will change the future of payments by cards and help to improve the user experience and security for e-commerce shopping.
+ Netcetera, as a technical associate of EMVCo and an innovative technology provider in the digital payment industry, has already gained an in-depth understanding of the forthcoming new secure e-commerce checkout solution supported by all the schemes.
+our half-day in-house SRC courses
+answering your most burning questions about SRC:
+What are the various roles in the SRC protocol?
+What are the checkout flows when supporting SRC?
+What are the provisioning alternatives for the SRC vault?
+Why is tokenization important for SRC?
+How does 3-D Secure 2.0 tie into the SRC flow?
+What consequences does SRC have for existing online scheme wallets?
+How could merchant tokenization play hand in hand with SRC?
+What will SRC look like (live demonstration of a possible SRC checkout flow)?
+With your participation in this half-day course by Netcetera, you will learn everything you need to know about SRC. You will be able to advise your company in how SRC affects your business, what advantages you will be able to offer to your clients, and what immediate steps to take to get there.
+ EMV® is a registered trademark in the U.S. and other countries and an unregistered trademark elsewhere. The EMV trademark is owned by EMVCo, LLC.
+Chief Strategy Officer, Payments
+ " > Display Address 
+ Sales & Business Development 
+ " > Display Address 
+ ToPay Digital Payment Service Hub 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ First in Europe with Amex Safekey 2.0 certification 
+ Netcetera 3DS ACS is ready as one of only three worldwide 
+ Netcetera Innovation Summit 2019 
+ Insights into digital payment from our experts 
+ First 3-D Secure 2.0 transactions in CH 
+ Datatrans and CornÃ¨rcard rely on Netcetera 3DS products 

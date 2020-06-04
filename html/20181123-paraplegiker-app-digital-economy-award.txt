@@ -1,0 +1,69 @@
+Gold for outstanding user experience - Paraplegic app awarded at Digital Economy Award
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Gold for outstanding user experience
+Paraplegic app awarded at Digital Economy Award
+ Our prototype for an app for the prevention of pressure points makes everyday life easier for wheelchair users and paraplegics. We developed the prototype in a research project together with Swiss Paraplegic Research. At the Digital Economy Award in November 2018, the project won a gold certificate for its outstanding user experience. 
+Pressure sores are one of the most common complications in people with spinal paralysis. These bruises are extremely painful, lengthy to treat and can result in expensive hospital treatment lasting several weeks. During rehabilitation, those affected receive recommendations for the prevention of pressure sores, but some of them implement them inadequately after leaving the hospital. As part of a study, we developed a smartphone app that offers patients personalized support in preventing pressure sores.
+Helping people to help themselves
+The value of the app lies in the prevention and better treatment of developing skin pressure points. It enables users to behave correctly and helps them to monitor their skin condition. With a built-in messenger device, they have the possibility to contact local and specialized health professionals in case a pressure spot should occur despite their efforts.
+Our prototype is precisely tailored to the needs and limitations of the paraplegic target group and is unique in the world due to the direct, secure and encrypted connection of healthcare professionals. None of the currently available apps in this sector offer such extensive functionality and none of the other apps offer integrated, secure and privacy-compliant communication with healthcare professionals from the region.
+Awarded for outstanding user experience
+in Zurich in November, the jury honored the prototype with a Gold Certificate in the category "Highest Digital Quality". This award for the user experience and the design process is well deserved. The creation process is a prime example of the optimal involvement of users in the design process.
+From day one, we have permanently integrated the future users into the design process. This really helped us to understand their problems and to develop an app that is actually useful in everyday life. The design was refined in two iterations and tested with users from the target group at the end of each iteration. We observed the 20 users, animated them to think aloud and then interviewed them. In addition, a co-design session (design studio) with future users took place at the beginning of the design work.
+A group of paraplegics has limited hand motor skills. We have discussed but rejected an enlargement of all buttons beyond the usual extent. For an optimal user guidance, we used a Conversational User Interface. In addition to classic navigation, a virtual coach can guide users through the contents and functions of the app. All main use cases are accessible via a classic menu navigation as well as via a voice interface.
+Our UX Architect Adrian Heydecker presented the advantages of a conversational interface over a classic graphical user interface at the
+at the beginning of November. Adrian led the entire design and usability process for the prototype.
+poster illustrating the project here (German).
+Find a short teaser video with an
+example interview with the coach here
+The next step is to expand the concept and close gaps so that the prototype is ready for implementation.
+Are you also interested in a perfect design process for your application? Our experts are happy to help you!
+ " > Display Address 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ Digital Publishing 
+ Launching a complete software solution for publishing houses 
+ UX best practices and predictions 
+ The future of prototyping and front-end up front 
+ Pro Juventute Feriennet 
+ Silver award at Best of Swiss Web 2019 
+ Winner Golden Transaction 2019 
+ We were awarded for innovation at the Payment Exchange 
+ Recent UX blog posts 
+ Our architects are sharing their know-how 
+ Partnership with Livingdocs 
+ Launching a comprehensive publishing solution 
+ Winners: NZZ App and ChecklistAR 
+ Best of Swiss Apps Award 2018 
+ Cross-border ticket with TNW Tickets App 
+ Boundless mobility thanks to Wemlin tickets 
+ Voice responsive apps on iOS 
+ Talks by Conversational Interfaces expert Martin Mitrevski 
+ In-house public transport ticketing 
+ Eco-friendly travel from headquarters to remote locations 
+ News Apps for NZZ regional media 
+ Now also for "Luzerner Zeitung" and "St. Galler Tagblatt" 
+ Simplifying mobile contactless payment 
+ Using biometrics to pay with smartphone 
+ Augmented reality for maintenance 
+ Digital Prototyping Workshop 
+ Learn rapid prototyping 
+ Whatever is missing, is on the way 
+ Integrate User Experience 
+ Practical examples from software development 

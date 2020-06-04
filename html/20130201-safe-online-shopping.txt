@@ -1,0 +1,62 @@
+Triple Security for online Shopping - Visa, MasterCard and American Express rely on us
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Triple Security for online Shopping
+Visa, MasterCard and American Express rely on 3-D Secure Hosted Service from Netcetera. Licensed Merchant Plug-in available soon.
+', " In its data centers, Netcetera operates a client-capable 3-D Secure service for some of the largest credit card issuers in Switzerland. Netcetera also ensures secure online payment in Austria and Luxembourg. These services, certified by Visa and MasterCard and recently by American Express as well, fulfill the most stringent security requirements. Netcetera's 3-D Secure merchant plug-in, available starting spring 2013, additionally enables online merchants to handle 3-D Secure payments.", '
+Credit card transactions are essential for online purchasing. However, users are repeatedly made uneasy by reports of attempted fraud, password theft, phishing and much more. Fraud on the Internet is a daily topic, and rightly so. Online criminals are increasingly using social engineering methods to access the confidential data of users. The August 2012 issue of Computerworld Switzerland quoted from the results of a global survey by Kaspersky Labs: "Approximately half of the survey participants stated that they had received at least one suspect e-mail from a social network or in their e-mail inbox. Nearly 30 percent of these were supposedly sent by a bank and requested the recipient to provide confidential information. Con artists are also targeting users of smartphones and tablets more and more. According to the survey, 24 percent of tablet users and 18 percent of smartphone users have already received a message with suspect content."
+For credit card issuers, this makes it essential to secure online transactions so that potential phishing attacks are rendered ineffective. In Switzerland, for example, there are over three million cards in use and the online transaction volume was about 3 billion Swiss francs in 2012, with a rising trend. To reduce losses from fraud, card issuers and banks must upgrade their security facilities. In this regard, the 3-D Secure standard stands for enhanced security, mainly known under the names "Verified by Visa", "MasterCard Secure Code" or "American Express SafeKey" seen in online shops.
+American Express Joins the Group
+The Swiss company Viseca Card Services started using Netcetera's 3-D Secure hosted service in 2003. Other renowned card issuers, such as Swisscard, PayLife Bank in Austria and Cetrel in Luxembourg, followed suit. Netcetera also supported the UBS Card Center with project management and technical advice for the introduction of 3-D Secure. American Express opted for Netcetera's 3-D Secure hosted service in 2012. The Swiss software company therefore ensures secure online transactions for the market leaders in the credit card business in Switzerland, Austria and Luxembourg.
+The 3-D Secure standard for online card transactions provides superior fraud protection for online payments. The customer first enters their credit card number. Then a link to the card issuer is established to allow the customer to confirm their identity using a code. If the authentication is successful, the credit card payment is executed. Consistent use of 3-D Secure drastically reduces the card issuer's liability costs and write-offs for fraud. Merchants who use 3-D Secure are exempt from liability in case of fraud and benefit from lower fee rates.
+Netcetera operates a client-capable 3-D Secure service in their own data centers. The hosting fulfills the most stringent security requirements of Visa, MasterCard and American Express, including complex data encryption and restrictive access to the 3-D Secure servers. Netcetera has also passed the Payment Card Industry (PCI) audit. The Payment Card Industry Data Security Standard (PCI DSS) is a set of regulations for payment transactions. It is endorsed by all major credit card organizations, and it governs the handling of card transactions according to defined criteria and processes. Merchant firms and service providers that store, convey or process credit card transactions must conform to these standards and regulations.
+3-D Secure Merchant Plug-In – Licensed Security
+In order to process online payments in accordance with 3-D Secure, merchants must use a merchant plug-in (MPI). They have the choice of operating a suitable MPI themselves or integrating it as a service. Netcetera's 3-D Secure MPI, available starting spring 2013, supports the first option. This is Netcetera's contribution to ensuring the security of online payments. The MPI includes modern web services for cardholder verification and authentication. As an integrated part of the purchasing process, the MPI authenticates and verifies the cardholder according to the "Verified by Visa" or "MasterCard SecureCode" standard. Merchants benefit from the transfer of liability to the card issuer, thereby reducing their risk for non-authorized transactions and the resulting reimbursements and lost revenue. 3-D Secure offers merchants a wide range of options. For example, the merchant plug-in can be licensed and operated onsite on the merchant's own infrastructure. Alternatively, the product architecture enables centralized operation for several merchants via a payment service provider or a bank.
+ Visa and MasterCard certified 
+ 3-D Secure implemented for Swisscard 
+ Developer for Payment Card Issuers 
+ Triple Security for online Shopping 
+ Visa, MasterCard and American Express rely on us 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 

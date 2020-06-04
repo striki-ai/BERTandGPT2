@@ -1,0 +1,64 @@
+We are safeguarding online payments with Entersekt - We are safeguarding online payments
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+We are safeguarding online payments with Entersekt
+Partnership for secure and convenient online transactions with credit cards
+ The leading Swiss software company Netcetera is partnering with Entersekt, a world leader in authentication and mobile app security. 
+will provide Netcetera with push-based transaction authentication software engineered to protect card-based online payments through a highly secure but user-friendly adaptation of the 3-D Secure process.
+Designed to serve as an additional layer of security for e-commerce purchases, 3-D Secure can significantly reduce card-not-present fraud rates. Unfortunately, typical implementations of the standard do not match users’ expectations of a low-friction digital experience, relying as they do on static or single-use passwords.
+Entersekt’s solution reinvents the 3-D Secure user experience by enabling consumers to authenticate purchases through their mobile devices, with just the touch of a button. This fully out-of-band, multi-factor authentication process, which does not rely on browser communications, significantly boosts security while eliminating the need to remember static passwords or enter one-time passwords.
+Supporting its customers through every stage of the project life cycle, Netcetera also hosts a world-class 3-D Secure service at its PCI DSS-certified data center. “Netcetera has over a decade’s experience building and hosting 3-D Secure solutions for banks and card issuers,” explained Dr. Thomas Fromherz, Head of Payment and Card Services at Netcetera. “Integrated into our 3DS DYN product, Entersekt’s technology compliments our other offerings in this space, and ensures that we continue to provide our customers with the very best protection while delivering a singularly intuitive user experience.”
+The Entersekt–Netcetera partnership has its origin in an earlier collaboration in support of the card issuer, Swisscard AECS, a joint venture between Credit Suisse and American Express. The first fruits of this new partnership are imminent, with launches in Germany later this year. Claudius van der Meulen, VP business development Europe at Entersekt, credits Netcetera’s excellent reputation for raising awareness of Entersekt in the region. “Netcetera’s expertise in managing mission-critical environments helps us to grow awareness for our unique multi-factor authentication solutions. With multi-tenant capabilities now enabled on our security platform and upcoming implementations at German card issuers and banks, I am very confident that momentum will continue to build.”
+Schalk Nolte, CEO of Entersekt, added: “Entersekt’s suite of solutions provides a compelling answer to a range of challenges facing financial services companies in Europe. Whether it’s the rapid rise in online card fraud, fast-evolving mobile malware, the obsolescence of mTANs in countering phishing attacks, or regulatory changes and the impact of PSD2 on banks’ bottom lines, we can assist. That’s especially true with excellent partners like Netcetera. I’m very proud to have them stand with us.”
+Chief Strategy Officer, Payments
+ " > Display Address 
+ Sales & Business Development 
+ Prevent credit card fraud 
+ 3-D Secure: Security and convenience for online shopping 
+ Credit card issuers rely on Netcetera 
+ Online payment even more secure and easy 
+ Visa and MasterCard certified 
+ 3-D Secure implemented for Swisscard 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ Strong boost for cashless payments 
+ Corona crisis and the future of paying 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ 20 years of payment expertise in 45 min 
+ Join our interactive webinar series on top payment topics 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ New office in Singapore 
+ Netcetera takes another step towards global expansion 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Digital ownership management solution 
+ Powered by permissioned distributed ledger technology 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Addressing challenges in e-commerce 
+ How tokenization and SRC can help 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Scheme tokenization services 
+ How to increase eCommerce conversion and security 
+ Berliner Zeitung with Swiss software 
+ Converting digital processes and technology in six weeks 
+ Two Gold awards at Digital Economy Award 
+ Viseca one app honored for "Highest Digital Quality" 

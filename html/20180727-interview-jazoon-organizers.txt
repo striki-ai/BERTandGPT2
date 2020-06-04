@@ -1,0 +1,68 @@
+A glimpse behind the scenes of Jazoon TechDays 2018 in Bern - Interview with our Software Engineer Alex Striffeler
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions -�from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+A glimpse behind the scenes of Jazoon TechDays 2018 in Bern
+Interview with our Software Engineer Alex Striffeler
+', " Soon it's time again: On September 6 and 7 the Swiss software community will meet at the Jazoon TechDays 2018 on the Gurten near Bern. This year's event is all about Cloud, Containers and Continuous Everything.", '
+Alexander Striffeler, one of our Software Engineers in Bern, is a member of the organizing committee and is determined to make the Jazoon TechDays a unique experience again this year. He gives some insights and views on the event.
+The interview was executed by Camille Schwarzentruber von AdNovum and was published on 27 July, 2018 on
+Camille Schwarzengruber, AdNovum: The Jazoon TechDays 2018 will focus on DevOps for Devs � Cloud, Containers and Continuous Everything. Can you tell us a little more about that?
+Alexander Striffeler, Netcetera: "DevOps" is a combination of technology, methodology and corporate culture. All this makes it possible to develop software projects quickly and to deliver them regularly in small steps. From my own experience and conversations with other software developers I know that this topic is relevant to many companies and poses great challenges. This is why we are convinced that with "DevOps" we have our fingers on the pulse of the times.
+How do you succeed in finding exciting topics for the conference again and again?
+Two aspects are crucial here: Firstly, the organizers of the Jazoon TechDays are software developers themselves. Secondly, the composition of the organizing committee changes regularly, which means that new interests and ideas are incorporated each time.
+You engage high-profile speakers every year. Can you already provide a few names and maybe even some of the topics they will cover?
+Amongst our speakers will be, for example, Aaron Blohowiak of Netflix, Kief Morris of ThoughtWorks and Charity Majors, founder of honeycomb.io and former employee of Facebook. To get an overview of the different topics presented, I recommend having a look at http://jazoon.com/agenda.
+What are the highlights of this year's conference?
+One of my personal highlights is the workshop with Russ Miles of ChaosIQ entitled "Successful Production Microservices".
+ There is also the backstage track, which allows the participants to talk with the speakers about their very individual questions in a relaxed lounge atmosphere.
+ I can't even decide on a single highlight for the talks. I am really looking forward to the wide range of topics and will let myself be surprised!
+Alexander Striffeler, one of our Software Engineers in Bern, is a member of the organizing committee of Jazoon TechDays 2018
+The Jazoon TechDays 2018 take place on 6-7 September in Bern, Switzerland.
+The event location is the pavilion on mount Gurten in Bern, the capital of Switzerland.
+ Co-innovation with NZZ 
+ Insights into jointly mastered digital challenges 
+ We unite women in computing & technology 
+ Sponsoring of the first Ada Lovelace Festival in Switzerland 
+ Connecting women in technology 
+ Netcetera is supporting Ada Lovelace Festival on 6 September 
+ Neta’s 100th edition 
+ Huge milestone for our IT comic character 
+ Technology selection is critical 
+ «In The Code» article by our CTO 
+ Automatic configuration checks for CMS 
+ Presentation at Magnolia DevDays by our expert 
+ Scratch and Augmented Reality for kids 
+ Success at Google Hash Code competition! 
+ We achieved the 9th place out of 5000 teams 
+ Why blockchain disrupts all industries 
+ Elena Karafiloski presents use cases in health & education 
+ The chances of open banking 
+ Presentation by Peter Zuber at Open Banking Forum 
+ Digital Prototyping Workshop 
+ Learn rapid prototyping 
+ Meet us at job fairs in spring 2018 
+ New business cases for new times 
+ Presentation by our expert Rafael Pérez Süess 
+ "Alles Blau" podcast by Caroline Palla 
+ Netcetera Cultura supports Zurich artist 
+ Open doors at Zurich offices 
+ Public IT-days 2017 
+ Challenges for developers in 2017 
+ Interview with our CEO in Netzwoche 
+ Dean Wake debut album „Up North“ 
+ Netcetera Cultura supports band of employees 

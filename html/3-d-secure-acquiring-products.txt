@@ -1,0 +1,91 @@
+3-D Secure Acquiring Products - Secure online commerce
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+ Digital Publishing. Today already, for tomorrow. 
+ Digital user authentication. Secure & easy. 
+ On top of your finances at all times 
+ ToPay Digital Payment Service Hub 
+ Your wallet & brand. Powered by our wallet-as-a-service. 
+ 3-D Secure Issuer Service 
+ Protection against credit card abuse during online payments 
+ 3-D Secure Acquiring Products 
+ Digital consultancy support for banking and insurance 
+ Identify gaps in eHealth systems with our standard grid 
+ In direct contact with the public 
+ Passenger information and ticketing without boundaries 
+ Turns your journey into an experience 
+ Voting for events, blended learning and 2nd screen services 
+ Plaza Enterprise Search 
+ The Intranet search engine that knows your organization 
+ Fraud detection system: Stop losing money. Today. 
+ Flexible and custom-fit 
+ Orchestrate your hospitalâ€™s processes 
+ Boost the efficiency of your inspection processes 
+ The 3-D Secure Aquiring Products from Netcetera ensure the smooth and reliable processing of payments when consumers shop over the internet. The 3DS Server, 3DS SDK and 3DS MPI come with contemporary web services for the verification and authentication of the cardholder. 
+As an integral part of the online shopping process, the Netcetera 3-D Secure Acquiring Products authenticate and verify the cardholder against Visa Secure (Verified by Visa), Mastercard® Identity Check™ (SecureCode™), American Express Safekey®, Diners Club ProtectBuy®, JCB J/Secure™, Mir Accept and UnionPay UPOP. Merchants enabling 3-D Secure transactions benefit from a liability shift to the card issuer and thereby reduce their risk for non-authenticated transactions and associated refunds and lost revenue.
+Netcetera offers 3-D Secure Acquiring Products for 3DS 1.0 and 2.0: The homemade 3DS Server and 3DS SDK products for 3DS 2.0 complement the Merchant Plug-In (MPI), a proven product that is highly valued by customers all over the world for its smooth integration. The products are based on latest technologies and have a contemporary architecture, which can be flexibly developed further to support future requirements. A comprehensive dashboard as well as log data and statistics are available for monitoring, fulfilling the requirements of the card schemes.
+Netcetera's 3DS MPI, 3DS Server and 3DS SDK can be licensed and operated on site on the infrastructure of the merchants. Alternatively, the product architecture allows a central operation for several merchants run by a payment service provider (PSP) or by an acquirer or a bank.
+3-D Secure Merchant Plug-In (MPI) as a license
+Support during integration and operation
+Continuous enhancement of the products
+PCI-ready: developed with regard to PCI certification simplifies the audit of your global solution
+Flexibly expandable: benefit from a scalable licensing model
+Secure future: ensured business continuity thanks to the use of state-of-the-art technologies
+Built with Netcetera's longstanding experience and expertise in the credit card industry and, in particular, in the processing of online payments with 3-D Secure
+Are you interested to learn more about the Netcetera 3-D Secure Acquiring Products? Please visit our
+for latest news, technical documentation and downloads.
+for card issuers and banks. We look forward to hearing from you or to meeting you at one of our next events.
+Visit our 3DS acquiring product center
+Senior Product Manager Payment Security
+ " > Display Address 
+ 3-D Secure Issuer Service 
+ 3-D Secure Acquiring Products 
+ UnionPay certification for 3DS products 
+ Major improvement for e-commerce payments worldwide 
+ 3-D Secure 2.2 brings important progress 
+ Easier, more convenient and safer payment in e-commerce 
+ EMV 3DS 2.2.0 certified 
+ More approved transactions with Netcetera 3DS Server & SDK 
+ Payment trend scouting 
+ Where does the journey in digital payment take us? 
+ Online-Shopping: Easy & secure payment 
+ Our payment experts at the MPE 
+ Boost approved transaction volumes 
+ Five reasons to update to EMV 3DS 2.2.0 
+ Digital Payment 2020 
+ Our expertsâ€™ insights at the Swiss Payment Forum 
+ Netcetera Innovation Summit 2019 
+ Insights into digital payment from our experts 
+ First 3-D Secure 2.0 transactions in CH 
+ Datatrans and CornÃ¨rcard rely on Netcetera 3DS products 
+ Mastercard certified: 3DS Server SaaS 
+ Now ready for major card schemes 
+ Discover ProtectBuyÂ® certified 
+ One of the first vendors with certified 3DS SDK product 
+ Webinar frictionless 3DS payments 
+ Enhanced cardholder experience with Merchant Whitelisting 
+ 3-D Secure solution with Credorax 
+ Leveraging Artificial Intelligence 
+ EMVCo approved: Android and iOS 3DS SDK 
+ Secure in-app commerce with higher transaction conversion 
+ Money20/20 3-5 June 2019 in Amsterdam 
+ Meet your payment experts 
+ SRC and Online Shopping 
+ Workshop, presentation and moderation by our experts 
+ The latest on tokenization and 3DS SDK 
+ Our payment experts share their knowledge with the community 

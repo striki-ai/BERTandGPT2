@@ -1,0 +1,79 @@
+Full transparency in the operating room - Article about VR/AR possibilities and definitions
+Andrej Vckovski, Chief Executive Officer
+" title="Popover on bottom">
+- Protection against credit card abuse during online payments 
+ToPay Digital Payment Service Hub
+- Your wallet & brand. Powered by our wallet-as-a-service. 
+- On top of your finances at all times 
+- Digital user authentication. Secure & easy. 
+- Passenger information and ticketing without boundaries 
+- Digital Publishing. Today already, for tomorrow. 
+- Fraud detection system: Stop losing money. Today. 
+- Voting for events, blended learning and 2nd screen services 
+- Boost the efficiency of your inspection processes 
+MORE ABOUT OUR INDUSTRIES AND TOPICS
+We are the specialist for software products and custom solutions - from strategy to operations.
+ Member of the Board of Directors
+Our employees enjoy the fact that they can count on every member of our community. We are proud of our many loyal employees.
+As a leading Swiss software company, we support our customers worldwide with trend-setting products and custom software.
+Full transparency in the operating room
+Article about VR/AR application possibilities and definitions
+ Virtual (VR) and Augmented Reality (AR) is no longer a dream of the future, but is already changing the working world today. In addition to industrial manufacturing, architecture and traffic on the road, VR and AR applications are also used in medicine. (Published in e-commerce-magazin, issue 02/2018) 
+The EKG chirps along periodically, while the heart monitor shows the current oxygen saturation and blood pressure levels. The clear fluid drips soundlessly through the slender tube. The anesthesiologist checks the patient's condition on the surgical table. Meanwhile, surgical specialist Dr. Brinkmann puts a HoloLens on over his head and downloads the latest CAT scan data. An atmosphere of quiet concentration permeates the room. Dr. Brinkmann projects the three-dimensional hologram of the brain directly onto the patient's head and walks back and forth in front of him.
+In front of his eyes, he sees virtually right into the patient's head, with the spot where the procedure will be performed marked in red. The surgical nurse hands the drill to the surgeon, and the HoloLens now shows him the exact angle and depth of the hole to be drilled directly into the patient's head. With the aid of this virtual marker, Dr. Brinkmann places the drill in the precise location on the skull. The device hums softly. The year is 2025, and Augmented Reality" has been used successfully in surgery for some time now.
+What might sound very futuristic is just one of the scenarios that the neurosurgery department of the Swiss Hospital Inselspital in Bern is working toward. Surgeons are already using the HoloLens prior to surgery to visualize and prepare for a surgical procedure. Several years of development are still needed before a HoloLens can actually be used during surgery.
+The surgeon sees virtually right into the patient's head
+Let's take a look at the current state of the technology. Airline pilots have known it for dozens of years as the "Head-Up Display", or HUD, which projects additional or expanded information directly onto the windshield. Today this type of HUD is yet standard equipment in many cars. Information, like the speed and directions from the navigation system, are displayed directly in the driver's field of vision so as not to divert their gaze (thus the name, because the head stays up). The information is virtually embedded directly into the environment. A navigation arrow appears to be lying directly on the road, a safe distance bar tells the driver how much distance to maintain from the car in front of them.
+Over the last few years, a number of devices have come on the market that have at times brought new terminology with them. Even the software development is moving along rapidly: Development environments like "Unity" allow for very fast testing and developing of solutions with three-dimensional objects. Apple and Google are integrating Augmented Reality platforms into their operating systems. As a result, today almost everyone has an AR-capable device in their pocket: the smartphone. Accordingly, the most work is currently being done here. VR and AR applications are popping up everywhere like weeds. Well-known example: Ikea. With the new AR apps, the customer of the Swedish furniture manufacturer can see how that sofa will look in their living room before buying it, hikers can recognize every mountain peak with AR apps, and children convert their drawings into 3D figures or hide virtual treasures in the real nursery.
+But what are the actual differences between AR, VR, and MR?
+Virtual Reality: Into another world
+Let's start with Virtual Reality. As the name implies, VR applications transport you to a different world. You are literally immersed in the Virtual Reality, which is also called "immersive reality" or even "total immersion".
+In order to plunge in to such a world, you use VR glasses. The term "glasses" can lead to some confusion though: You don't actually look through them, but instead you have a small screen in front of your eyes that projects a unique world. In so doing, a stereoscopic view can be achieved that suggests a three-dimensional depth. Only very limited interaction with the space takes place though. One of the bigger technical limitations for all VR glasses is the somewhat poor resolution on the screen for the intended use.hen you look through the lenses at a very close screen, the pixels are visible.
+Augmented Reality: Enhances the world view
+By contrast, enhanced reality – Augmented Reality – is not immersive. The real world is super-imposed with additional information. If you use a smartphone as an AR device, the real space is captured by the camera and displayed on the screen. The additional information is then embedded in it. The best known example of an AR application may be the game "Pokémon Go". The "Google Glass", presumed dead, is also an AR device and is still manufactured in an enterprise version. Since hands are not free when using the telephone, it is the applications capable of conveying content that are most useful in daily work environments.
+Mixed Reality: the best of both worlds
+When Microsoft launched the HoloLens, they connected their device with another term: Mixed Reality. The reality is no longer simply enhanced, the Virtual Reality is mixed with reality, or fused. You see the room with your own eyes while looking through glasses in which three-dimensional objects are displayed as holograms. Unlike conventional AR displays, this relieves the cognitive load or mental effort generally required of the user to imagine the 3D object. In addition to Microsoft's HoloLens, there are currently two other devices worth mentioning: the Meta 2 and the Magic Leap One from companies with the same names. Unlike the HoloLens, neither are complete computers, but instead require additional hardware connected with cables. What they have in common is a Head-Mounted Display (HMD). In the enterprise area, these AR-HMDs currently offer the most opportunities.
+Areas of application for VR include not only the entertainment industry (games, videos, etc.), but also architecture (virtual tour of a house), medical rehabilitation and therapies (training after a stroke or phobia therapy), or an actual roller coaster ride in artificial reality. A Swiss bank even launched a VR trading app with which you can trade real shares in a virtual space.
+The exciting areas of application for AR and MR include architecture and product design: Plaster and wooden models are a thing of the past. Prototypes no longer need to be elaborately constructed, but instead are loaded directly from the CAD program to the AR application, so virtually teletransported.
+Training in an industrial production with Augmented Reality
+Train maintenteance with Augmented Reality
+Even maintenance work and training on machines are experiencing a developmental boost with AR. A Swiss company checks the simplification of the maintenance process for their rail cars by using a digitalized AR checklist. A short trip through time in the maintenance building demonstrates the application. With a screeching crash, a silo rail car is driven into the building. It smells like machine oil and metal. The on-site service employee looks at the rail car with the HoloLens; in the blink of an eye, it recognizes the model and required maintenance steps. The task: Check and, when necessary, repair all important parts like valves, connectors, brakes, hoses, ladders, etc. The employee now sees what needs to be done with which tools on each car displayed right on the car directly at the corresponding location, and they can also watch a help video or request assistance from a specialist. Hands are kept free at all times. The condition of the part to be checked is projected as an overlay showing the target condition. The first valve is checked and is fine, the technician tells the HoloLens: Intake valve front OK, at which point it acknowledges this and then directs him to the next item in the car to be checked by means of the navigation arrow. Once all checks are performed, the task is automatically ended, the dispatcher sees this on his screen, and billing is triggered.
+Yet in a few months, this process will be reality. It will then be significantly easier to perform maintenance on such silo cars. A specialist becomes a generalist and can handle several tasks. The fact that a process with a paper printout and scan is thus digitalized and media discontinuities eliminated is a pleasant side effect.
+There is additional potential in the area of Emotional Sales. How do I effectively sell an industrial machine without the need to transport it? Thanks to AR, an entire system can be projected at a trade show or directly in the customer's building. As mentioned at the start, medicine is one of the most exciting fields. Currently the use is restricted primarily to training. It can, however, be assumed that surgical preparations will not merely be prepared with AR in the future, but rather with the assistance of MR.
+Apps like "Pokémon Go". show, that AR apps already reached the masses. It's hard to predict exactly when AR wil be established in the B2B sector. Gartner, for example, assumes that it will take another 5 to 10 years for AR to reach the plateau of productivity. We are much more optimistic here! The first productive projects will probably be delivered this year.
+e-commerce-magazin-02-2018-p35-37.pdf
+ " > Display Address 
+ Sales & Business Development 
+ Improve business productivity with IoT 
+ Launching our customizable platform n-things 
+ Azure Spatial Anchors 
+ Augmented Reality Experience for allthisfuture 
+ Winners: Viseca one and InspectAR apps 
+ Best of Swiss Apps Award 2019 
+ Augmented Reality visualization 
+ PTC Vuforia Studio Experience for BÃ¼hler 
+ Order entry in University Hospital Basel 
+ Comprehensive digital platform optimizes processes 
+ Healthcare Ecosystem 
+ Success factors for more efficiency in clinical processes 
+ Launching Healthcare Ecosystem 
+ Digitizing hospital processes together with the i-engineers 
+ Winners: NZZ App and ChecklistAR 
+ Best of Swiss Apps Award 2018 
+ The digital future of emergency services work begins today 
+ Combating healthcare insurance fraud 
+ Presentation & article by Kiril Milev 
+ Why we invest in Augmented Reality 
+ Interview with our Head of AR 
+ Future Trends ICT: Augmented Reality 
+ Expertenvortrag am Event von IAMCP 
+ Machine Learning for health insurances 
+ Risk classification to detect waste, abuse and fraud 
+ AR makes underground space visible 
+ Augment IT supports Future Cities Laboratory (FCL) 
+ We are reinforcing our team Middle East 
+ New Director of Sales and Business Development in Dubai 
+ Why blockchain disrupts all industries 
+ Elena Karafiloski presents use cases in health & education 
+ Digital revolution in working life 
+ AR and CI Workshop in Liechtenstein 
