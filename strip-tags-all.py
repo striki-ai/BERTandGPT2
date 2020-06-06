@@ -6,6 +6,8 @@ identifier = LanguageIdentifier.from_modelstring(model, norm_probs=True)
 
 current_dir = os.path.abspath(os.getcwd())
 
+pars = []
+
 html_files = []
 for root, _, files in os.walk(current_dir + '/html/'):
     for file in files:
@@ -45,8 +47,17 @@ for h in html_files:
         while strip.startswith(" ', ' "):
             strip = strip[6 : len(strip) - 1]
 
-        if len(strip) >= 32:
+        strip = strip.replace('\', \' -', ' ')
+        strip = strip.replace('\', \'', ' ')
+        strip = strip.replace('  ', ' ').replace('  ', ' ').replace('  ', ' ')
+        strip = strip.replace('&nbsp;', '')
+
+        if len(strip.split(' ')) > 4:
             strips.append(strip)
+
+    for strip in strips:
+        if strip not in pars:
+            pars.append(strip)
 
     txt='\n'.join(strips)
     txt = txt.replace('\', \' -', ' ')
@@ -62,7 +73,10 @@ for h in html_files:
     except:
         continue
 
-    h = h.replace(".html", ".txt")
-    txt_file = open(h,"w")
-    txt_file.write(txt)
-    txt_file.close()
+    # h = h.replace(".html", ".txt")
+    # txt_file = open(h,"w")
+    # txt_file.write(txt)
+    # txt_file.close()
+
+with open("domain-content.txt", "w") as content:
+    content.write("\n\n".join(pars))

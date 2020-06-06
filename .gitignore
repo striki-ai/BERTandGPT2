@@ -1,4 +1,10 @@
 bert-deeppavlov\
 bert-huggingface\
+parlai-facebook\
+bert-deeppavlov/
+bert-huggingface/
+parlai-facebook/
+ParlAI/
+ParlAI\
 *.pyc
 *.bin
