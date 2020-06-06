@@ -1,4 +1,4 @@
-\bert-deeppavlov\
-\bert-huggingface\
+bert-deeppavlov\
+bert-huggingface\
 *.pyc
 *.bin
