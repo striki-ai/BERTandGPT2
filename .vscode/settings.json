@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "bert-huggingface\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true
+    "python. pythonPath": "bert-huggingface\\Scripts\\python. exe",
+    "git. ignoreLimitWarning": true,
+    "python.pythonPath": "bert-huggingface\\Scripts\\python.exe"
 }

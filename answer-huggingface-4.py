@@ -1,75 +1,76 @@
-from transformers import pipeline
-import os
-import datetime
 import torch
+import math
+import operator
 
-question = "what is machine learning?"
+from transformers import BertForQuestionAnswering
+from transformers import BertTokenizer
 
-print("Question: " + question)
+def _compute_softmax(scores):
+    """Compute softmax probability over raw logits."""
+    max_score = None
+    for score in scores:
+        if max_score is None or score > max_score:
+            max_score = score
 
-start_at = datetime.datetime.now()
+    exp_scores = []
+    total_sum = 0.0
+    for score in scores:
+        x = math.exp(score - max_score)
+        exp_scores.append(x)
+        total_sum += x
 
-current_dir = os.path.abspath(os.getcwd())
+    probs = []
+    for score in exp_scores:
+        probs.append(score / total_sum)
+        
+    return max(probs)
 
-txt_files = []
-for root, _, files in os.walk(current_dir + '/html/'):
-    for file in files:
-        if '.txt' not in file:
-            continue
-        p=os.path.join(root,file)
-        txt_files.append(p)
 
-nlp = pipeline("question-answering")
+model_name = 'bert-large-uncased-whole-word-masking-finetuned-squad'
+# model_name = 'deepset/bert-large-uncased-whole-word-masking-squad2'
+model = BertForQuestionAnswering.from_pretrained(model_name)
+tokenizer = BertTokenizer.from_pretrained(model_name)
 
-answers = []
+question = "who is ceo of netcetera?"
 
-max_tokens = 100
-pre_tokens = 20
+with open('domain-content.txt', 'r') as answer_file:
+    domain_text = answer_file.read()
 
-max_files_count = 50
-files_count = 0
+source_texts = domain_text.split('\n\n')
 
-for t in txt_files:
+answers = {}
 
-    print(".", end="")
+for text in source_texts:
+    if len(text) > 1000:
+        text = text[:1000]
     
-    try:
-        txt_file = open(t,"r")
-        answer_text = txt_file.read()
-        txt_file.close()
-        pass
-    except:
+    input_text = "[CLS] " + question + " [SEP] " + text + " [SEP]"
+    input_ids = tokenizer.encode(input_text)
+
+    token_type_ids = [0 if i <= input_ids.index(102) else 1 for i in range(len(input_ids))] 
+    start_scores, end_scores = model(torch.tensor([input_ids]), token_type_ids=torch.tensor([token_type_ids]))
+
+    all_tokens = tokenizer.convert_ids_to_tokens(input_ids)  
+    answer = ' '.join(all_tokens[torch.argmax(start_scores) : torch.argmax(end_scores)+1])
+
+    if len(answer) == 0 or answer == '[CLS]':
         continue
 
-    files_count += 1
+    # prob = _compute_softmax(start_scores[0] + end_scores[0])
+    prob = _compute_softmax(start_scores[0])
 
-    if files_count > max_files_count:
-        break
+    if prob < 0.5:
+        continue
+    
+    answer = answer.replace(" ##", "")
+    print("prob: " + str(prob) + "; answer: " + answer)
+    answers[answer] = prob
 
-    total_input = answer_text.split()
+answers = dict(sorted(answers.items(), key=operator.itemgetter(1),reverse=True))
 
-    while len(total_input) >= max_tokens:
-        
-        input = total_input[:max_tokens]
-        total_input = total_input[max_tokens-pre_tokens:]
-
-        # response = nlp(question=question, context=input)
-        if __name__ == '__main__':
-            torch.multiprocessing.freeze_support()
-            
-        print(nlp(question=question, context=input))
-
-        # if response.answer == "" or response.answer in answers: 
-        #     continue
-
-        # answer = answer.lower()
-        # answer = answer.replace(" ##", "")
-        # answers.append(response.answer)
-
-        # print("\nScore: " + str(response.score))
-        # print('\nAnswer: ' + response.answer)
-        # print('Text with answer: ' + input)
-
-stop_at = datetime.datetime.now()
-
-print("\nExecuted in " + str((stop_at - start_at)))
+from itertools import islice
+print("len: " + str(len(answers)))
+if len(answers) > 10:
+    answers = dict(islice(answers.items(), 10))
+for answer, prob in answers.items(): 
+    print(str(prob) + " : " + answer)

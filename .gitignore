@@ -1,10 +1,7 @@
-bert-deeppavlov\
-bert-huggingface\
-parlai-facebook\
 bert-deeppavlov/
 bert-huggingface/
 parlai-facebook/
-ParlAI/
-ParlAI\
+parlai/
+__pycache__/
 *.pyc
 *.bin

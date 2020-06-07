@@ -604,12 +604,11 @@ def answer_prediction(paras,question,model,config_file,max_seq_length=384,doc_st
         if index!= example.example_id:
             index = example.example_id
 
-        ques_text = colored(example.question_text, 'blue')
+        ques_text = colored(example.question_text, 'red')
 
         prediction = predictions[math.floor(example.unique_id/12)][example]
-
         prob = predictions[math.floor(example.unique_id/12)]['prob'+str(example)]
-
+        
         final_ques.append(ques_text)
         final_preds.append(prediction)
         final_paras.append(example.para_text)

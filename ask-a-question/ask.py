@@ -52,28 +52,26 @@ if __name__ == '__main__':
 
     questions,answers,para,probs = answer_prediction(paras_to_search, query,'bert-large-uncased-whole-word-masking-finetuned-squad-pytorch_model.bin','bert_config.json')
     questions_final,answers_final,paras_final,probs_final = zip(*sorted(zip(questions,answers,para,probs),reverse=True))
-   
-    result_str = []
-    count = 0
+    
+#    result_str = []
+#    count = 0
 
-    for i in range(int(len(answers_final))):
-        if count < 3:
-            if (answers_final[i] == 'empty'):
-                pass
-            if answers_final[i] != 'empty':
-                count += 1
-                result_str.append(answers_final[i])
+#    for i in range(int(len(answers_final))):
+#        if count < 3:
+#            if (answers_final[i] == 'empty'):
+#                pass
+#            if answers_final[i] != 'empty':
+#                count += 1
+#                result_str.append(answers_final[i])
 
             
-    print(list(set(result_str)))
+#    print(list(set(result_str)))
 
     for i,a in enumerate(answers_final):
         if a == 'empty':
             pass
         else:
-            # if probs_final[i] < 0.5:
-            #     print('No answer')
-            # else:
+            if probs_final[i] > 0.5:
                 print(paras_final[i] + '\n')
                 print(questions_final[i]+'\n')
                 print(a+'\n')
