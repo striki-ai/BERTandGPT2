@@ -24,6 +24,11 @@ def fix_text(txt):
     # txt = txt.replace('-', '. ')
     txt = txt.replace("[' '  ", " ")
     txt = txt.replace("3. D", "3-D")
+    txt = txt.replace("i.e.", "ie")
+    txt = txt.replace("e.g.", "eg")
+    txt = txt.replace("\\'","\'")
+    txt = txt.replace("\\t", "")
+    txt = txt.replace("\\u200b", "")
 
     if txt[0:1] == ' ':
         txt = txt[1:]
@@ -35,6 +40,9 @@ def fix_text(txt):
         txt = txt[2:]
 
     txt = txt.replace("\t", "")
+    txt = txt.replace("title= Popover on bottom >", "")
+    txt = txt.replace(" > Display Address", "")
+    txt = txt.replace(" '", "")
 
     # txt = txt.strip()
 
@@ -79,8 +87,21 @@ for h in html_files:
         if len(strip) <= 2:
             continue
 
+        if prev_strip[-1:] == ",":
+            prev_strip += " " + strip
+            continue
+
+        if prev_strip[-1:] == "'":
+            prev_strip += " " + strip
+            continue
+
         if len(prev_strip) >= 3:
             if prev_strip.lower()[-3:] == " of":
+                prev_strip += " " + strip
+                continue
+            
+        if len(prev_strip) >= 4:
+            if prev_strip.lower()[-4:] == " and":
                 prev_strip += " " + strip
                 continue
             
@@ -94,14 +115,29 @@ for h in html_files:
             continue
 
         if strip[0].isupper():
+            prev_strip = prev_strip.replace("P.O.", "PO")
             prev_strip = prev_strip.replace("\t", "")
-            if prev_strip not in pars:
+            prev_strip = prev_strip.replace("  ", " ").replace("  ", " ")
+            prev_strip = prev_strip.replace(" ' ", ". ")
+            if len(prev_strip)>0 and prev_strip[-1:] != ".":
+                prev_strip += "."
+            if len(prev_strip)>0 and prev_strip not in pars:
                 pars.append(prev_strip)
         
         prev_strip = strip
 
 
 content = '. '.join(pars)
+content = content.replace("..", ".")
+content = content.replace("Dr.", "Dr")
+# content = content.replace(".", "..")
+content = content.replace("1..0", "1.0")
+content = content.replace("2..0", "2.0")
+content = content.replace("3..0", "3.0")
+content = content.replace(":..", ": ")
+content = content.replace("  ", " ").replace("  ", " ")
+content = content.replace(" ..", "..")
+content = content.replace(" ’s", "’s")
 
 with open("domain-content.txt", "w", encoding="UTF-8" , errors='ignore') as content_file:
     content_file.write(content)
