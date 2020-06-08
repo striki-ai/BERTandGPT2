@@ -27,7 +27,6 @@ def _compute_softmax(scores):
 
 
 model_name = 'bert-large-uncased-whole-word-masking-finetuned-squad'
-# model_name = 'deepset/bert-large-uncased-whole-word-masking-squad2'
 model = BertForQuestionAnswering.from_pretrained(model_name)
 tokenizer = BertTokenizer.from_pretrained(model_name)
 
