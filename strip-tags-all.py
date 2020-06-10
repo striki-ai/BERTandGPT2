@@ -6,7 +6,7 @@ def fix_text(txt):
     while txt.find('  ') != -1:
         txt = txt.replace('  ', ' ')
     txt = txt.replace('\\n', '')
-    
+
     if txt.find(" ', '  ', ") != -1:
         txt = txt[0:len(txt) - 10]
     while txt.startswith(" ', ' "):
@@ -66,9 +66,8 @@ for h in html_files:
         html_file = open(h, "r", encoding="UTF-8", errors='ignore')
         txt = html_file.readlines(). __str__()
         html_file.close()
-        pass
     except:
-        continue
+        pass
 
     soup = BeautifulSoup(txt, features = 'html.parser')
 
@@ -81,7 +80,7 @@ for h in html_files:
         script.decompose()
 
     prev_strip = ""
-    
+
     for strip in soup.stripped_strings:
         strip = fix_text(strip)
         if len(strip) <= 2:
@@ -99,12 +98,12 @@ for h in html_files:
             if prev_strip.lower()[-3:] == " of":
                 prev_strip += " " + strip
                 continue
-            
+
         if len(prev_strip) >= 4:
             if prev_strip.lower()[-4:] == " and":
                 prev_strip += " " + strip
                 continue
-            
+
         if len(prev_strip) >= 4:
             if prev_strip.lower()[-4:] == " the":
                 prev_strip += " " + strip
@@ -123,7 +122,7 @@ for h in html_files:
                 prev_strip += "."
             if len(prev_strip)>0 and prev_strip not in pars:
                 pars.append(prev_strip)
-        
+
         prev_strip = strip
 
 

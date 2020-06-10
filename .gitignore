@@ -1,7 +1,9 @@
 bert-deeppavlov/
 bert-huggingface/
+bert-ktrain/
 parlai-facebook/
 parlai/
 __pycache__/
+txt/
 *.pyc
 *.bin
