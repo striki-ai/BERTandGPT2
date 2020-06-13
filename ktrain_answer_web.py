@@ -7,7 +7,7 @@ import streamlit as st
 @st.cache(allow_output_mutation=True)
 def init():
     INDEX_DIR = "/tmp/index"
-    TXT_DIR = "C:/Striki/BERT/txt"
+    TXT_DIR = "txt"
 
     if path.exists(INDEX_DIR):
         shutil.rmtree(INDEX_DIR)
@@ -24,7 +24,7 @@ def init():
 def search(question: str, max_answers=5):
     answers = qa.ask(question)[:max_answers]
     df = qa.answers2df(answers)
-    df.rename({'Document Reference': 'Referece'}, axis=1, inplace=True)
+    df.rename({'Document Reference': 'Reference'}, axis=1, inplace=True)
     df.rename({"Candidate Answer": "Answer"}, axis=1, inplace=True)
 
     for _id in range(df["Context"].size):

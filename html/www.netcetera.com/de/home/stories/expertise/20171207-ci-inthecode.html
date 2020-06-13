@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<!-- Mirrored from www.netcetera.com/de/home/stories/expertise/20171207-ci-inthecode.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jun 2020 09:56:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="UTF-8">
+  
+  <title>Der Kampf um die Sprachschnittstelle - Wann ist eine sprachgesteuerte Anwendung die richtige Wahl?</title> <!-- from mainContent:title - from stories:teaserText -->
+
+  <meta name="name" content="Der Kampf um die Sprachschnittstelle - Wann ist eine sprachgesteuerte Anwendung die richtige Wahl?" /> <!-- from mainContent:title - from stories:teaserText -->
+  <meta property="og:title" content="Der Kampf um die Sprachschnittstelle - Wann ist eine sprachgesteuerte Anwendung die richtige Wahl?" /> <!-- from mainContent:title - from stories:teaserText -->
+  <meta name="description" content="Sprachschnittstellen sind manchmal sehr sinnvoll, die akustische Sprache ist jedoch nicht immer die beste Variante. Möglicherweise überschätzen wir te ..." />
+  <meta property="og:description" content="Sprachschnittstellen sind manchmal sehr sinnvoll, die akustische Sprache ist jedoch nicht immer die beste Variante. Möglicherweise überschätzen wir teilweise die akustische Sprache und merken nicht, dass wir mit anderen Mitteln oft besser und effizienter kommunizieren. Lesen Sie mehr darüber in diesem 'In the Code'-Artikel von unseren CI-Experten Michael Wechner, publiziert auf inside-it-ch." /> <!-- from mainContent:leadText -->
+  <meta property="og:image" content="https://www.netcetera.com/dam/jcr:a1d7d43a-0125-4d71-8684-2dc828701fad/20171207-ci-teaser.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="20171207-ci-inthecode.html" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.netcetera.com/.resources/neww-lite/webresources/images/favicons/favicon-16x16.png">
+  <link rel="manifest" href="../../../../manifest.html">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="https://www.netcetera.com/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+
+ 
+  <link rel="stylesheet" type="text/css" href="https://www.netcetera.com/.resources/neww-lite/webresources/css/main~2020-06-03-15-51-52-000~cache.css" media="all" />
+ 
+
+  <!-- Begin fonts.com tracking script -->
+  <script>
+  var MTIProjectId='e8fb7d92-9e23-4ea7-b3a7-b5887f4573b8';
+   (function() {
+      var mtiTracking = document.createElement('script');
+      mtiTracking.type='text/javascript';
+      mtiTracking.async='true';
+      mtiTracking.src='https://www.netcetera.com/.resources/neww-lite/webresources/js/mtiFontTrackingCode.js';
+      (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+     })();
+  </script>
+  <!-- End fonts.com tracking script -->
+
+        <script src="http://fast.fonts.net/jsapi/e8fb7d92-9e23-4ea7-b3a7-b5887f4573b8.js"></script>
+        <meta name="google-site-verification" content="Wi-OdNQxEJirnaystPXDGmAjtJ0XBWWpBtuHak5pZ3E" />
+<meta name="google-site-verification" content="d4cuSIrT_N9gNZG8Q5Cc76R44qer5lex770rVP63l8s" />
+        <!-- begin Mamoto/Piwik -->
+<script>
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var u="http://piwik.netcetera.com/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 17]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<!-- end Mamoto/Piwik -->
+        <!-- Facebook Pixel -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?  
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '823784838061738'); 
+fbq('track', 'PageView');
+</script>
+<!-- end Facebook Pixel -->
+</head>
+
+<body>
+<header class="comp comp-main-nav js-main-nav">
+    <div class="subcomp subcomp-main-nav-bar">
+  <div class="comp-main-nav-bar-wrapper wrapper-global">
+    <nav class="subcomp-nav-main">
+      <ul>
+            <li data-menu="Was_wir_tun">Angebot</li>
+            <li data-menu="Arbeiten_bei_uns">Karriere</li>
+            <li data-menu="Wer_wir_sind">Firma</li>
+      </ul>
+    </nav>
+<div class="subcomp subcomp-main-nav-search-bar">
+    <a href="../../Search-Result-DE.html" class="search-icon-sm"></a>
+    <div class="search-container">
+    <a href="#" class="search-icon"></a>
+    <div class="search-input">
+      <form method="get" action="https://www.netcetera.com/de/home/Search-Result-DE.html">
+        <button class="submit-btn" type="submit"></button>
+        <input id="search" name="queryStr" type="search" class="search-input-bar" placeholder="Suche..." />
+      </form>
+    </div>
+    </div>
+</div>
+<div class="subcomp subcomp-main-nav-contact">
+    <a href="../../contact.html" class="mail-mobile"></a>
+    <a href="#" class="mail" data-style="primary" data-container="subcomp-main-nav-contact"
+       data-placement="bottom" data-html="true"
+       data-template="<div class='popover popover-main-nav' role='tooltip'><div class='popover-arrow'></div><div class='popover-content'></div></div>
+"
+       data-content="<div class='image-hold'><img src='https://www.netcetera.com/.imaging/mte/neww-theme/contactPortrait/dam/contacts/andrej-vckovski-DSC_0115_website.jpg/jcr:content/andrej-vckovski.jpg'></div>
+           <div class='text-hold'>
+           <h2>Willkommen!</h2>
+           <h4>Andrej Vckovski, Chief Executive Officer</h4>
+           <span>Wir sind offen für Ihre Fragen</span>
+           <span><a href='mailto:info@netcetera.com'>info@netcetera.com</a><br>
+                 <a href='tel:+41 44 297 55 55'>+41 44 297 55 55</a></span>
+           <div class='call-to-action-btn'>
+           <a class='btn btn-primary' href='../../company/locations.html'>Standorte</a>
+           </div>
+           </div>"
+       title="Popover on bottom"></a>
+</div>
+
+  <div class="subcomp subcomp-nav-language dropdown">
+    <a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">de</a>
+    <div class="dropdown-menu">
+          <a class="dropdown-item " href="../../../../home/stories/expertise/20171207-ci-inthecode.html"> EN </a>
+          <a class="dropdown-item active" href="20171207-ci-inthecode.html"> DE </a>
+      
+    </div>  
+  </div>
+
+
+      <a href="../../../home.html" class="site-logo" title="Netcetera"></a>
+  </div>
+</div>
+
+  <div class="comp-main-nav-dynamic">
+    <div class="comp-main-nav-dynamic-wrapper wrapper-global">
+      <div class="comp-main-nav-dynamic-head">
+        <span class="comp-main-nav-close js-main-nav-close"></span>
+      </div>
+      <div class="comp-main-nav-dynamic-body">
+        <ul class="section-main">
+
+  <li class="subcomp subcomp-submenu-panel submenu-panel-tabs submenu-offering" data-menu-content="Was_wir_tun">
+  <div class="submenu-main">
+    <ul class="submenu-tabNav">
+        <li data-submenu="products"  data-submenu-layout="wide">Produkte</li>
+        <li data-submenu="markets"  data-submenu-layout="wide">Märkte und Innovation</li>
+        <li data-submenu="services"  data-submenu-layout="wide">Dienstleistungen</li>
+        <li data-submenu="references"  data-submenu-layout="wide">Referenzen</li>
+    </ul>
+
+    <div class="submenu-tabContent">
+         <div class="tabContent-panel" data-submenu-content="products">
+           <div class="row">
+               <div class="tabContent-list">
+                   <h3>Finanz- & Payment-Branche</h3>
+<div class="subcomp subcomp-main-nav-products">
+      <ul>
+            <li>
+             <a href="../../../product-detail/products/3-D-Secure-Issuer-Service.html">
+              <strong>3-D Secure Issuer Service</strong> - Schutz vor Kreditkartenmissbrauch bei Online-Zahlungen
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/ToPay-Digital-Payment-Service-Hub.html">
+              <strong>ToPay Digital Payment Service Hub</strong> - Ihr Wallet & Branding mit unserem Wallet-as-a-service
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/Mobile-Banking.html">
+              <strong>Mobile Banking</strong> - Die Finanzen jederzeit im Griff
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/3-D-Secure-Acquiring-Products.html">
+              <strong>3-D Secure Acquiring Produkte</strong> - Für den sicheren Online-Handel
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/Netcetera-Auth.html">
+              <strong>Netcetera Auth</strong> - Digitale Benutzerauthentifizierung. Sicher & einfach.
+              </a>
+            </li>
+    </ul>
+</div>
+                   <div class="tabContent-panel-tiles-cta"></div>
+               </div>
+               <div class="tabContent-list">
+                   <h3>Produkte aus anderen Branchen</h3>
+<div class="subcomp subcomp-main-nav-products">
+      <ul>
+            <li>
+             <a href="../../../product-detail/products/Wemlin.html">
+              <strong>Wemlin</strong> - Fahrgastinformation und Ticketing ohne Grenzen
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/Forward-Publishing.html">
+              <strong>Forward Publishing</strong> - Digital Publishing. Schon heute, für morgen.
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/Healthcare-Ecosystem.html">
+              <strong>Healthcare Oekosystem</strong> - Flexibel und passgenau
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/RiSIC.html">
+              <strong>RiSIC</strong> - Sofort kein Geld mehr verlieren dank Betrugserkennungssystem
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/DirectPoll.html">
+              <strong>DirectPoll</strong> - Echtzeit-Abstimmung für Lernkontrolle und 2nd Screen Service
+              </a>
+            </li>
+            <li>
+             <a href="../../../product-detail/products/Inspect-AR.html">
+              <strong>Inspect AR</strong> - Steigern Sie die Effizienz Ihrer Prüfprozesse
+              </a>
+            </li>
+    </ul>
+</div>
+                   <div class="tabContent-panel-tiles-cta"></div>
+               </div>
+           </div>
+                <a href="../../products.html"  class="link-more">MEHR ÜBER UNSERE PRODUKTE</a>
+         </div>
+          <div class="tabContent-panel" data-submenu-content="markets">
+            <div class="row">
+              <div class="tabContent-list">
+                <h3>Industrien</h3>
+                  <ul>
+                                               <li><a href="../../../market-detail/Industry/Secure-digital-payment.html">Secure Digital Payment</a></li>
+                                               <li><a href="../../../market-detail/Industry/Financial-Technology.html">Financial Technology</a></li>
+                                               <li><a href="../../../market-detail/Industry/Media.html">Media</a></li>
+                                               <li><a href="../../../market-detail/Industry/Transport.html">Transport</a></li>
+                                               <li><a href="../../../market-detail/Industry/Healthcare.html">Gesundheitswesen</a></li>
+                  </ul>
+              </div>
+              <div class="tabContent-list">
+                <h3>Fokusthemen Innovation</h3>
+                  <ul>
+                      <li><a href="https://www.augmentit.ch/"> Augmented Reality</a></li>
+                                               <li><a href="../../../market-detail/Topic/Artificial-Intelligence.html"> Künstliche Intelligenz</a></li>
+                                               <li><a href="../../../market-detail/Topic/Blockchain.html"> Blockchain</a></li>
+                                               <li><a href="../../../market-detail/Topic/Conversational-Interfaces.html"> Conversational Interfaces</a></li>
+                                               <li><a href="../../../market-detail/Topic/Mobile.html"> Mobile</a></li>
+                  </ul>
+              </div>
+            </div>
+
+              <a class="link-more" href="../../markets.html" >MEHR ÜBER UNSERE INDUSTRIEN UND THEMEN</a>
+
+          </div>
+          <div class="tabContent-panel" data-submenu-content="services">
+            <div class="row">
+              <div class="tabContent-list">
+                
+                  <ul>
+                      <li><a href="../../services.html">Unser Angebot</a></li>
+                      <li><a href="../../services/skills.html">Unsere Kompetenzen</a></li>
+                  </ul>
+              </div>
+              <div class="tabContent-list">
+                
+                  <ul>
+                      <li><a href="#"> </a></li>
+                  </ul>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="tabContent-panel" data-submenu-content="references">
+            <div class="row">
+              <div class="tabContent-list">
+                
+                  <ul>
+                      <li><a href="../../references.html">Unsere erfolgreichen Kunden</a></li>
+                  </ul>
+              </div>
+              <div class="tabContent-list">
+                
+                  <ul>
+                  </ul>
+              </div>
+            </div>
+
+
+          </div>
+      
+    </div>
+  </div>
+  <div class="submenu-side">
+<div class="subcomp subcomp-submenu-side">
+       <h2> Was wir bieten </h2>
+       <p>Wir sind der Spezialist f&uuml;r Individualsoftware und Produkte - von der Strategie bis zum Unterhalt.</p>
+
+<p>Mike Franz<br />
+Verwaltungsrat</p>
+
+</div>
+  </div>
+</li>
+
+  <li class="subcomp subcomp-submenu-panel" data-menu-content="Arbeiten_bei_uns">
+    <div class="submenu-main">
+      <h3>Karriere</h3>
+        <ul>
+            <li><a href="#"></a></li>
+            <li><a href="../../careers.html">Offene Stellen</a></li>
+            <li><a href="../../../../home/careers.html#stories">Video Geschichten</a></li>
+        </ul>
+    </div>
+      <!-- Side -->
+      <div class="submenu-side">
+          <div class="subcomp subcomp-submenu-side">
+       <h2> Arbeiten bei uns </h2>
+       <p>Unsere Mitarbeitenden sch&auml;tzen die Tatsache, dass sie auf jedes Mitglied unserer Community voll und ganz z&auml;hlen k&ouml;nnen. Wir sind stolz auf unsere &uuml;berdurchschnittlich vielen treuen Mitarbeitenden.</p>
+
+<p>Dominique Ramelet<br />
+CHRO</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</div>
+
+      </div>
+  </li>
+
+
+
+  <li class="subcomp subcomp-submenu-panel" data-menu-content="Wer_wir_sind">
+    <div class="submenu-main">
+      <h3>Firma</h3>
+        <ul>
+            <li><a href="#"></a></li>
+            <li><a href="../../company.html">Über uns</a></li>
+            <li><a href="../../company/management.html">Management</a></li>
+            <li><a href="../../company/locations.html">Standorte</a></li>
+            <li><a href="../../company/community.html">Community</a></li>
+            <li><a href="../../company/awards.html">Auszeichnungen</a></li>
+            <li><a href="../../company/start-ups.html">Start-ups</a></li>
+            <li><a href="../../company/media.html">News & Medien</a></li>
+            <li><a href="https://blog.netcetera.com/">Blog</a></li>
+        </ul>
+    </div>
+      <!-- Side -->
+      <div class="submenu-side">
+          <div class="subcomp subcomp-submenu-side">
+       <h2> Wer wir sind </h2>
+       <p>Als f&uuml;hrende Schweizer Softwarefirma unterst&uuml;tzen wir unsere Kunden weltweit mit zukunftsweisenden Produkten und Individualsoftware.</p>
+
+<p>Andrej Vckovski<br />
+CEO</p>
+
+</div>
+
+      </div>
+  </li>
+
+
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section class="comp comp-filed-under">
+  <div class="container-limited">
+    <div class="comp-inner">
+      <h5>
+        
+        
+      </h5>
+      <div class="tag-row">
+
+
+  <a
+    class="atom atom-tag tag-market"
+    data-toggle="tooltip" data-placement="bottom"
+    title="Any device, anywhere"
+    href='../../../market-detail/Topic/Mobile.html'
+  >
+    Mobile
+  </a>
+
+
+  <a
+    class="atom atom-tag tag-market"
+    data-toggle="tooltip" data-placement="bottom"
+    title="Sprachgesteuerte Assistenten als konkreter Mehrwert"
+    href='../../../market-detail/Topic/Conversational-Interfaces.html'
+  >
+    Conversational Interfaces
+  </a>
+
+      </div>
+      <!-- story timestamp -->
+<div class="atom atom-timestamp">
+  07. Dezember 2017
+  
+</div>
+
+    </div>
+  </div>
+</section>
+<article class="comp comp-main-content">
+  <div class="container-limited">
+      
+    <div class="row">
+      <div class="col-main-title">
+    <div class="subcomp subcomp-title-area ">
+      <h1>Der Kampf um die Sprachschnittstelle</h1>
+
+      <h2>Wann ist eine sprachgesteuerte Anwendung die richtige Wahl?</h2>
+    </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-main">
+<header class="subcomp subcomp-content-lead-text">
+      Sprachschnittstellen sind manchmal sehr sinnvoll, die akustische Sprache ist jedoch nicht immer die beste Variante. Möglicherweise überschätzen wir teilweise die akustische Sprache und merken nicht, dass wir mit anderen Mitteln oft besser und effizienter kommunizieren. Lesen Sie mehr darüber in diesem "In the Code"-Artikel von unseren CI-Experten Michael Wechner, publiziert auf inside-it-ch.
+</header>
+<div class="subcomp subcomp-rich-text-content">
+          <p>Es tobt ein Krieg zwischen den Tech Giganten um die Vorherrschaft bei der Sprachschnittstelle. Die Gewinner k&ouml;nnen damit noch mehr Daten sammeln, noch besser das Verhalten der Benutzer verstehen. Doch was n&uuml;tzt dem Benutzer eine Sprachschnittstelle? Der Dichter Carl Sandburg schrieb 1936 &quot;Sometime they&#39;ll give a war and nobody will come&quot; (&quot;Stell Dir vor, es ist Krieg, und keiner geht hin&quot;). Ist die Sprachschnittstelle nur ein Hype, der getrieben wird vom &Uuml;berlebenskampf der Tech Giganten? Um die Frage nach dem Nutzen zu beantworten, hilft es zu fragen &bdquo;wieso sprechen Menschen &uuml;berhaupt&ldquo;? Sprache ist eine Form der Kommunikation, mit der man Informationen austauscht. Das Teilen von Informationen hilft zu &uuml;berleben. MRI-Scans des menschlichen Gehirns zeigen, dass beim Sex, Essen und Austausch von Informationen, <a href="https://nzzas.nzz.ch/wissen/wir-haben-tiefen-wunsch-frei-zu-sein-ld.1300070">das gleiche Belohnungssystem im Gehirn aktiv ist</a>. Sprachen haben sich evolutiv entwickelt, da sie helfen zu <a href="https://blogs.commons.georgetown.edu/cctp-748-spring2015/2015/01/26/language-an-evolutionary-development-for-human-survival/">&uuml;berleben</a>. Die Erkenntnis daraus: Wir sollten keine Sprachschnittstellen implementieren nur der Sprache willen, sondern uns fragen &bdquo;was hilft uns zu &uuml;berleben?&ldquo;. Der Einsatz von Sprache wird automatisch folgen. In den folgenden Abschnitten geben wir einige Beispiele, die diese Erkenntnis illustrieren.</p>
+
+<h2>Sprachinterface versus Button</h2>
+
+<p>Angenommen wir kommen mit dem Flugzeug von einer Gesch&auml;ftsreise zur&uuml;ck und m&ouml;chten m&ouml;glichst schnell vom Flughafen nach Hause. Wir wissen jedoch nicht, wann der n&auml;chste Zug f&auml;hrt, beziehungsweise ob wir uns auf dem Weg zum Flughafenbahnhof beeilen m&uuml;ssen. H&auml;tten wir einen menschlichen Assistenten, der den Zugfahrplan auswendig kennt, w&uuml;rden wir ihn fragen wann der n&auml;chste Zug nach Hause f&auml;hrt. Der Assistent w&uuml;rde antworten &quot;es f&auml;hrt ein Zug in 13 Minuten, das k&ouml;nnen wir noch schaffen, aber wir m&uuml;ssen uns ein bisschen sputen&quot;, oder &quot;jetzt ist gerade ein Zug gefahren, der N&auml;chste f&auml;hrt erst in 40 Minuten. Wir k&ouml;nnen uns ruhig Zeit lassen beim Aussteigen&quot;. Viele mobile Fahrplan-Apps haben mittlerweile einen &quot;Take me Home&quot; Button. Das heisst, die App weiss wo wir wohnen und dank der Geo-Location erhalten wir per Knopfdruck einen Vorschlag f&uuml;r die Abfahrt der n&auml;chsten Z&uuml;ge. Sitzen wir noch wartend im Flugzeug, ziehen wir wohl den &quot;Take me Home&quot; Button gegen&uuml;ber dem Sprachinterface vor. Es ist effizient und unsere Sitznachbarn erfahren nicht wo wir Zuhause sind. Befinden wir uns aber bereits auf dem Weg zum Flughafenbahnhof mit Gep&auml;ck in beiden H&auml;nden, w&auml;ren wir froh um ein Sprachinterface.</p>
+
+<h2>Was bringt es im Laden?</h2>
+
+<p>Amazon arbeitet mit <a href="https://www.amazon.com/b?node=16008589011">Amazon Go</a> seit einiger Zeit daran den offline Einkaufsprozess zu digitalisieren. Es liegt nahe, dass Amazon diesen Prozess einsetzen wird bei der Lebensmittelhandelskette Whole Foods, welche Amazon im Sommer 2017 f&uuml;r <a href="https://www.forbes.com/sites/gregpetro/2017/08/02/amazons-acquisition-of-whole-foods-is-about-two-things-data-and-product/">USD 13.7 Milliarden</a> &uuml;bernommen hat. Der offline &quot;End to End Shopping Process&quot; wird in Zukunft m&ouml;glicherweise durchgehend digital sein. Ein Kunde erstellt Zuhause oder unterwegs seine <a href="http://shoppietalkie.com/">Einkaufsliste sprachbasiert auf dem Mobile</a>. Beim Betreten der Filiale ordnet sich die Einkaufsliste gem&auml;ss dem Ladenlayout. Augmented Reality auf dem Mobile hilft dem Kunden seine Artikel zu finden und Produkt-Zusatzinformationen zu erhalten. Die Mobile App wird automatisch synchronisiert, wenn ein Produkt in den physischen Einkaufswagen gelegt wird und der Kunde muss nicht mehr an einer Kasse anstehen, sondern kann bequem via Mobile App beim Verlassen des Ladens bezahlen. Das Sprachinterface ist bei diesem Prozess nur ein Puzzleteil. Beim Erfassen der Einkaufsliste ist es sinnvoll, da das sprachbasierte Erfassen von Artikeln sehr effizient ist.</p>
+
+<h2>Mit dem Roboter im Lift sprechen</h2>
+
+<p>Menschen mit Muskelschwund haben eine <a href="https://de.wikipedia.org/wiki/Muskeldystrophie">fortschreitende</a> Muskelschw&auml;che. Gegenw&auml;rtige Medikamente k&ouml;nnen den Verlauf verz&ouml;gern, aber nicht aufhalten. Man versucht die Lebensqualit&auml;t so lange wie m&ouml;glich zu erhalten, unter anderem mit einem Roboterarm, der am Rollstuhl befestigt ist und mit einem Joytstick gesteuert wird. Der Roboterarm wird zum Beispiel verwendet, um in einem Aufzug das Stockwerk auszuw&auml;hlen. Ein Aufzug mit Sprachinterface w&auml;re in diesem Fall die einfachste L&ouml;sung, aber nicht jeder Aufzug wird in n&auml;chster Zeit mit einem Sprachinterface ausgestattet werden. Eine m&ouml;gliche Zwischenl&ouml;sung w&auml;re ein Roboterarm mit Sprachinterface und Bilderkennung. K&ouml;nnte die Person im Aufzug dem Roboterarm die Anweisung geben &quot;bitte in den 2. Stock&quot;, w&uuml;rde der Roboterarm selbstst&auml;ndig nach dem Bedienfeld suchen und den Knopf f&uuml;r den 2. Stock dr&uuml;cken.</p>
+
+<h2>Wird die gesprochene Sprache &uuml;bersch&auml;tzt?</h2>
+
+<p>Die beschriebenen Anwendungsf&auml;lle zeigen, dass Sprachschnittstellen manchmal sehr sinnvoll sind, die akustische Sprache jedoch nicht immer die beste Variante ist. M&ouml;glicherweise &uuml;bersch&auml;tzen wir teilweise die akustische Sprache und merken nicht, dass wir mit anderen Mitteln oft besser und effizienter kommunizieren. Gute Alternativen zeigen sich zum Beispiel in der Fortbewegung. Die Natur hat Beine und Flossen hervorgebracht. Der Mensch jedoch hat R&auml;der, Propeller und D&uuml;sen entwickelt, welche abh&auml;ngig vom Anwendungsgebiet effizienter sind als Beine oder Flossen. Es ist deshalb sinnvoll zuerst das eigentliche Problem zu erkennen und danach die beste L&ouml;sung daf&uuml;r zu suchen.</p>
+
+<h2>Was Tech-Firmen von Babies lernen k&ouml;nnen</h2>
+
+<p>Zur&uuml;ck zur Frage wieso wir Menschen sprechen. Welche M&ouml;glichkeiten hat ein neugeborenes Kind zu kommunizieren? Wenn es Hunger oder Schmerzen hat oder sonst etwas m&ouml;chte? Wie oft erleben wir schreiende Kinder und den Eltern ist nicht klar wieso es schreit. Welches sind die Alternativen f&uuml;r das Kind zu kommunizieren, abgesehen von Gestik und Geb&auml;rden, die nur im Sichtkontakt funktionieren? Lernen wir Menschen aus Mangel an Alternativen zu sprechen?</p>
+
+<p>Bis zum Alter von <a href="http://www.knetfeder.de/kkp/sprentwfenster.html">18 bis 24 Monaten</a> lernen Kleinkinder im Schnitt ungef&auml;hr 50 W&ouml;rter. Ab dann beginnt in der Regel die sogenannte <a href="https://de.wikipedia.org/wiki/Spracherwerb#2_Jahre">Explosion des Wortschatzes</a>. Das heisst der Wortschatz vergr&ouml;ssert sich stark in relativer kurzer Zeit und die Kinder beginnen ganze S&auml;tze zu bilden. Es gibt m&ouml;gliche Erkl&auml;rungen f&uuml;r die Wortschatzexplosion, zum Beispiel die <a href="https://en.wikipedia.org/wiki/Fast_mapping">Fast Mapping Theorie</a> oder die <a href="http://www2.psychology.uiowa.edu/faculty/mcmurray/recent/science/">Forschungsarbeit von Bob McMurray</a>, wirklich einig scheint sich die Fach- und Forschungswelt nicht zu sein. Vielleicht auch, weil das Thema bis zum heutigen Zeitpunkt zu wenig relevant war.</p>
+
+<p>Wie Kleinkinder lernen wir gegenw&auml;rtig f&uuml;r die Entwicklung von Sprachschnittstellen unsere ersten W&ouml;rter und probieren ganze S&auml;tze zu bilden. Der &Uuml;berlebenskampf der Tech Giganten f&ouml;rdert diese Entwicklung. Ob und wann genau die Explosion passieren wird, ist nach wie vor schwierig abzusch&auml;tzen. Aber genau diese Unberechenbarkeit macht das Thema Conversational Interfaces spannend!</p>
+
+<h2>Was die User sagen: Gemeinsame Studie mit Zeix</h2>
+
+<p>Zeix und Netcetera haben gemeinsam eine Benutzer-Studie durchgef&uuml;hrt. Sie st&uuml;tzt sich auf eine sprachbasierte Fahrplan App, die von Netcetera als Prototyp entwickelt wurde. Die Key Findings sind:</p>
+
+<ul>
+	<li>Die User wissen oft nicht, was und wie sie fragen sollen. Die Erwartungen an Interfaces mit Spracheingabe variieren zwischen minimal und riesig. Das Frustrationspotenzial ist entsprechend hoch.</li>
+	<li>Komplexere Conversational Interfaces setzen zum Teil hohe kognitive F&auml;higkeiten in der Verarbeitung der Konversation voraus. Die k&uuml;nstliche Intelligenz ist in vielen F&auml;llen noch nicht ausreichend. Die meisten User w&uuml;rden das Interface nach einer entt&auml;uschenden Erfahrung nicht wieder benutzen. Gut funktionieren sehr einfache Conversational Interfaces, die keine besonderen kognitiven F&auml;higkeiten im Backend ben&ouml;tigen.</li>
+	<li>Interfaces mit Spracheingabe sind besonders n&uuml;tzlich in Kontexten, in denen man die H&auml;nde nicht frei hat. Deshalb sollte die Hürde zum &Ouml;ffnen des Interfaces m&ouml;glichst niedrig sein.</li>
+</ul>
+
+<p>Die vollumf&auml;ngliche Studie ist <a href="https://zeix.com/durchdacht/2017/12/04/ist-reden-gold-conversational-interfaces-im-praxistest/" target="_blank">bei Co-Autor Zeix verf&uuml;gbar</a>.</p>
+
+<h2>Blick hinter die Kulissen: Lesen Sie mehr &uuml;ber die Funktionsweise einer sprachbasierten Fahrplan App</h2>
+
+
+</div>
+<div class="subcomp subcomp-call-to-action-area">
+      <div class="call-to-action-btn">
+        <a href="20170123-conversational-interfaces.html"  class="btn btn-primary">Sprachbasierte Fahrplan App</a>
+      </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</article>
+
+<section class="comp comp-contacts-list">
+  <div class="container-limited">
+
+    <div class="row">
+      <div class="col-main">
+<div class="subcomp subcomp-section-title">
+          <h3>Sprechen Sie mit dem Autoren</h3>
+</div>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-sm-12 col-md-10 col-md-push-1 col-lg-8 col-lg-push-2">
+            <div class="subcomp subcomp-contact-portrait">
+          <div class="contact-image data-bg" data-image="/.imaging/mte/neww-theme/contactPortrait/dam/contacts/michael-wechner.jpg/jcr:content/michael-wechner.jpg"></div>
+
+  <div class="contact-details">
+      <h2 class="name">Michael Wechner</h2>
+      <div class="position">Senior Software Engineer</div>
+
+      <div class="detail-row">
+        <span class="detail phone">
+          <a href="tel:+41 44 297 57 96">+41 44 297 57 96</a>
+        </span>
+                <span class="detail email">
+                  <a href="#" data-info="michaee.eethner@neccwtlra.com">E-Mail</a>
+                  
+                </span>
+        <span class="detail address">
+                <a
+                class=""
+                href="#"
+                role=""
+                data-toggle="popover"
+                data-container="body"
+                data-placement="top"
+                tabindex="0"
+                data-content=
+                "<h4>Zürich  Schweiz</h4> Hauptsitz <p>Netcetera AG<br />
+Zypressenstrasse 71<br />
+8040 Z&uuml;rich</p>
+"
+                
+            >
+            Adresse anzeigen
+            
+            </a>
+             
+        </span> 
+      </div>
+
+      <div class="tag-row">
+
+
+  <a
+    class="atom atom-tag tag-location"
+    data-toggle="tooltip" data-placement="bottom"
+    title="Zürich, Schweiz"
+    href='../../company/locations.html'
+  >
+    Zürich
+  </a>
+
+      </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-main">
+<div class="subcomp subcomp-call-to-action-area">
+</div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="comp comp-magazine">
+    <!-- begin title area -->
+    <div class="container-limited">
+        <div class="comp-inner">
+                    <div class="subcomp subcomp-title-area ">
+      <h1>Weitere Stories</h1>
+
+      <h2>Zu diesem Thema</h2>
+    </div>
+        </div>
+    </div>
+
+
+    <!-- begin magazine -->
+    <div class="container-limited">
+        <div class="comp-inner">
+            <!-- begin articles grid -->
+            <div class="row row-nogutter">
+                        <div class="col-md-6">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="20170123-conversational-interfaces.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/RoutingDemo-siri.jpg/jcr:content/RoutingDemo-siri.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Wie uns Sprachschnittstellen helfen
+            
+          </h1>
+          <h2 class="subtitle">
+            Sprechen Sie mit Ihrem Computer wie mit einem Menschen
+            
+          </h2>
+<div class="atom atom-timestamp">
+  23. Januar 2017
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-6">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20191107-bosa-2019.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20191107-bosa-teaser.jpg/jcr:content/20191107-bosa-teaser.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Ausgezeichnet: Viseca one & ChecklistAR
+            
+          </h1>
+          <h2 class="subtitle">
+            Best of Swiss Apps Award 2019
+            
+          </h2>
+<div class="atom atom-timestamp">
+  07. November 2019
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20190613-forward-publishing.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/forward-publishing.png/jcr:content/forward-publishing.png">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Digitales Publishing
+            
+          </h1>
+          <h2 class="subtitle">
+            Software-Komplettlösung für Verlagshäuser lanciert
+            
+          </h2>
+<div class="atom atom-timestamp">
+  13. Juni 2019
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20181129-partnership-livingdocs.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20171122-nzz-abo-digital.png/jcr:content/20171122-nzz-abo-digital.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Partnerschaft mit Livingdocs
+            
+          </h1>
+          <h2 class="subtitle">
+            Umfassende Verlagslösung lanciert
+            
+          </h2>
+<div class="atom atom-timestamp">
+  28. November 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20181123-paraplegiker-app-digital-economy-award.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20181123-team-gold-UX.jpg/jcr:content/20181123-team-gold-UX.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Gold für herausragende User Experience
+            
+          </h1>
+          <h2 class="subtitle">
+            Paraplegiker-App am Digital Economy Award ausgezeichnet
+            
+          </h2>
+<div class="atom atom-timestamp">
+  23. November 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20181108-bosa-nzz-checklistAR.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/2018-bosa-team.jpg/jcr:content/2018-bosa-team.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Ausgezeichnet: NZZ App und ChecklistAR
+            
+          </h1>
+          <h2 class="subtitle">
+            Best of Swiss Apps Award 2018
+            
+          </h2>
+<div class="atom atom-timestamp">
+  08. November 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20180910-wemlin-cross-border-tickets.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180910-ticket.jpg/jcr:content/20180910-ticket.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Grenzenlos mobil mit Wemlin Tickets
+            
+          </h1>
+          <h2 class="subtitle">
+            Grenzüberschreitende Tickets mit TNW Tickets App
+            
+          </h2>
+<div class="atom atom-timestamp">
+  10. September 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="20180704-ci-talks-martin.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180704-ci-talks-martin.jpg/jcr:content/20180704-ci-talks-martin.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Sprachgesteuerte Apps für iOS
+            
+          </h1>
+          <h2 class="subtitle">
+            Präsentationen von Conversational Interfaces Experte 
+            
+          </h2>
+<div class="atom atom-timestamp">
+  04. Juli 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20180629-roche-ticket-webshop.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180628-roche-mobility-2.png/jcr:content/20180628-roche-mobility-2.png">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Firmeneigenes ÖV-Ticketsystem
+            
+          </h1>
+          <h2 class="subtitle">
+            Umweltfreundlich vom Hauptsitz an Aussenstandorte reisen
+            
+          </h2>
+<div class="atom atom-timestamp">
+  28. Juni 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20180522-nzz-news-apps-sg-lu.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180522-nzz-app-sg-teaser.png/jcr:content/20180522-nzz-app-sg-teaser.png">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            News App für NZZ Regionalmedien
+            
+          </h1>
+          <h2 class="subtitle">
+            Jetzt auch für «Luzerner Zeitung» und «St. Galler Tagblatt»
+            
+          </h2>
+<div class="atom atom-timestamp">
+  22. Mai 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20180507-viseca-mcp-topay.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/20180507-viseca-app.PNG/jcr:content/20180507-viseca-app.PNG">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Mobil kontaktlos Bezahlen noch einfacher
+            
+          </h1>
+          <h2 class="subtitle">
+            Mit Biometrie und Smartphone bezahlen
+            
+          </h2>
+<div class="atom atom-timestamp">
+  07. Mai 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news-two">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="20180403-ci-studie-uni-sg.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/Conversational-Interfaces-Illu.jpg/jcr:content/Conversational-Interfaces-Illu.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Studie zu Conversational Interfaces
+            
+          </h1>
+          <h2 class="subtitle">
+            Einsatzpotentiale und Beispiele für CI
+            
+          </h2>
+<div class="atom atom-timestamp">
+  03. April 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news-two">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20180326-workshop-digital-li.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180326-digital-li-workshop-reto.JPG/jcr:content/20180326-digital-li-workshop-reto.JPG">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Digitale Revolution im Arbeitsalltag
+            
+          </h1>
+          <h2 class="subtitle">
+            AR und CI Workshop in Liechtenstein
+            
+          </h2>
+<div class="atom atom-timestamp">
+  26. März 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news-two">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20180226-checklist-ar-mueller.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180226-checklist-ar-müller.PNG/jcr:content/20180226-checklist-ar-m%C3%BCller.PNG">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            ChecklistAR
+            
+          </h1>
+          <h2 class="subtitle">
+            Augmented Reality für die Wartung
+            
+          </h2>
+<div class="atom atom-timestamp">
+  26. Februar 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news-two">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="20180212-mobile-xr.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20180212-hololens-brain-tumor-3d-visualization.png/jcr:content/20180212-hololens-brain-tumor-3d-visualization.png">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Mobile xR 
+            
+          </h1>
+          <h2 class="subtitle">
+            Was nicht ist, wird noch
+            
+          </h2>
+<div class="atom atom-timestamp">
+  12. Februar 2018
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news-two">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="20171219-ar-somexcloud.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20160905-hololens.jpg/jcr:content/20160905-hololens.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Augmented Reality für Marketing
+            
+          </h1>
+          <h2 class="subtitle">
+            Geräte, Möglichkeiten und neue Geschäftsmodelle
+            
+          </h2>
+<div class="atom atom-timestamp">
+  19. Dezember 2017
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+                        <div class="col-md-4 hidden-news-two">
+
+  <div class="subcomp subcomp-tile subcomp-magazine-tile">
+     <a href="../news/20171122-nzz-news-app.html" class="tile-content magazine-tile-content">
+        <div class="tile-image magazine-tile-image data-bg" data-image="/.imaging/mte/neww-theme/magazineTile/dam/stories/20171122-nzz-abo-digital.png/jcr:content/20171122-nzz-abo-digital.jpg">
+        </div>
+        <div class="tile-text magazine-tile-text">
+          <h1 class="title">
+            Neue App für NZZ
+            
+          </h1>
+          <h2 class="subtitle">
+            Leseempfehlungen, Merklisten & Infos des Tages
+            
+          </h2>
+<div class="atom atom-timestamp">
+  22. November 2017
+  
+</div>
+
+        </div>
+      </a>
+  </div>
+                        </div>
+            </div>
+
+
+                <a href="#" id="load-more-news" class="btn btn-secondary">MEHR STORIES</a>
+
+            <!--^ end load more button -->
+        </div>
+    </div>
+    <!--^ end magazine -->
+</section>
+<footer class="comp comp-footer">
+  <div class="container-inverse-wrapper">
+    <div class="container-limited">
+      <div class="comp-inner">
+                      <script src="https://www.netcetera.com/.resources/neww-lite/webresources/js/main~2020-06-03-15-51-52-000~cache.js"></script>
+   
+
+  
+      <div class="row">
+        <!-- footer list -->
+        <div class="comp-footer-list col-md-3 col-sm-6 col-xs-12">
+          <h3>Navigation</h3>
+          <ul>
+						<li><a href="../../products.html">Produkte</a></li>
+						<li><a href="../../services.html">Dienstleistungen</a></li>
+						<li><a href="../../markets.html">Märkte</a></li> 
+						<li><a href="../../careers.html">Karriere</a></li>
+						<li><a href="../../company.html">Firma</a></li>
+          </ul>
+        </div>
+        <!-- footer list -->
+        <div class="comp-footer-list col-md-3 col-sm-6 col-xs-12">
+					<h3>Schnellzugriff</h3>
+					<ul>
+						<li><a href="../../company/media.html">News & Medien</a></li>
+						<li><a href="../../company/locations.html">Kontakt &amp; Standorte</a></li>
+						<li><a href="../../privacy-policy.html">Privacy Policy</a></li>
+						<li><a href="../../legal-information.html">Legal Information</a></li>
+          </ul>
+        </div>
+        <!-- footer address -->
+        <div class="comp-footer-address col-md-3 col-sm-6 col-xs-12">
+          <h3>Hauptsitz</h3>
+
+          <p>
+            Netcetera<br />
+            Zypressenstrasse 71<br />
+            Postfach<br />
+            8040 Zürich<br />
+            Schweiz
+          </p>
+          <p>
+            T +41 44 297 55 55
+          </p>
+        </div>
+        <!-- footer social -->
+        <div class="comp-footer-social col-md-3 col-sm-6 col-xs-12">
+          <h3>Social</h3>
+            <div class="soc-icon-row">
+						  <!-- twitter -->
+						  <a class="soc-icon soc-twitter" title="Twitter" href="https://twitter.com/netcetera_buzz" target="_blank">
+                <img src="https://www.netcetera.com/.resources/neww-lite/webresources/images/icon-social/twitter-white.svg" alt="...">
+                </a>
+                <!-- facebook -->
+                <a class="soc-icon soc-facebook" title="Facebook" href="https://facebook.com/Netcetera.ch" target="_blank">
+                <img src="https://www.netcetera.com/.resources/neww-lite/webresources/images/icon-social/facebook-white.svg" alt="...">
+                </a>
+                <!-- xing -->
+                <a class="soc-icon soc-xing" title="XING" href="https://www.xing.com/companies/netceteraag" target="_blank">
+                <img src="https://www.netcetera.com/.resources/neww-lite/webresources/images/icon-social/xing.svg" alt="...">
+                </a>
+                <!-- linkedin -->
+                <a class="soc-icon soc-linkedin" title="Linkedin" href="https://www.linkedin.com/company/netcetera" target="_blank">
+                  <img src="https://www.netcetera.com/.resources/neww-lite/webresources/images/icon-social/linkedin-white.svg" alt="...">
+                </a>
+            </div>			
+        </div>
+      </div>
+    </div>
+  
+
+  
+      </div>
+    </div>
+  </div>
+</footer>
+        <script>
+piAId = '860863';
+piCId = '10167';
+piHostname = 'prdt.netcetera.com';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+        <!-- LinkedIn -->
+<script> _linkedin_partner_id = "1839249"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script>
+<script> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1839249&amp;fmt=gif" /></noscript>
+<!-- end LinkedIn -->
+</body>
+
+
+<!-- Mirrored from www.netcetera.com/de/home/stories/expertise/20171207-ci-inthecode.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jun 2020 09:56:47 GMT -->
+</html>
