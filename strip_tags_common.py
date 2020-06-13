@@ -43,10 +43,16 @@ def write_paragraph(html_file_name: str, paragraph_text: str):
     if paragraph_text == "":
         return
 
-    html_url = html_file_name.replace(current_dir + "/html/", "https://").replace("\\", "/")
-    paragraph_text = html_url + "\n\n" + paragraph_text
+    html_url = html_file_name.replace(current_dir + "/html/", "").replace("\\", "/")
+    html_url_in_file_name = html_url \
+        .replace("/", "___")
 
-    paragraph_file_name = current_dir + "/txt/" + "{:0>5d}".format(paragraph_count) + ".txt"
+    while paragraph_text.find("\n\n") != -1:
+        paragraph_text = paragraph_text.replace("\n\n", "\n")
+    # paragraph_text = html_url + "\n\n" + paragraph_text
+    # paragraph_text = paragraph_text + "\n\n" + html_url
+
+    paragraph_file_name = current_dir + "/txt/" + html_url_in_file_name + "." + "{:0>5d}".format(paragraph_count) + ".txt"
 
     with open(paragraph_file_name, "w", encoding="UTF-8", errors="ignore") as f:
         f.write(paragraph_text)

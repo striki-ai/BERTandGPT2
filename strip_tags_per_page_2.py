@@ -17,7 +17,6 @@ for html_file_name in collect_html_files():
         html_text = f.readlines(). __str__()
 
     soup = BeautifulSoup(html_text, features = 'lxml')
-    # title = soup.find('title')
     title = soup.find("meta",  property="og:title")
     title = title["content"] if title else ""
     title = fix_text(title)
@@ -30,7 +29,7 @@ for html_file_name in collect_html_files():
 
     for paragraph in paragraphs:
         paragraph_text = ""
-        paragraph_text += title + ". " if title != "" else ""
-        paragraph_text += description + ". " if description != "" else ""
+        # paragraph_text += title + ". " if title != "" else ""
+        # paragraph_text += description + ". " if description != "" else ""
         paragraph_text += fix_text(paragraph.text)
         write_paragraph(html_file_name=html_file_name, paragraph_text=paragraph_text)

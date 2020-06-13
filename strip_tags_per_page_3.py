@@ -30,6 +30,6 @@ for html_file_name in collect_html_files():
 
     for paragraph in paragraphs:
         paragraph_text = fix_text(paragraph.text)
-        paragraph_text += title + ". " if title != "" else ""
-        paragraph_text += description + ". " if description != "" else ""
+        # paragraph_text += title + ". " if title != "" else ""
+        # paragraph_text += description + ". " if description != "" else ""
         write_paragraph(html_file_name=html_file_name, paragraph_text=paragraph_text)

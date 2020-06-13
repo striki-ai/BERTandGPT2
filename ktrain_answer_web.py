@@ -4,6 +4,7 @@ from os import path
 import shutil
 import streamlit as st
 
+
 @st.cache(allow_output_mutation=True)
 def init():
     INDEX_DIR = "/tmp/index"
@@ -24,23 +25,12 @@ def init():
 def search(question: str, max_answers=5):
     answers = qa.ask(question)[:max_answers]
     df = qa.answers2df(answers)
-    df.rename({'Document Reference': 'Reference'}, axis=1, inplace=True)
-    df.rename({"Candidate Answer": "Answer"}, axis=1, inplace=True)
-
-    for _id in range(df["Context"].size):
-        df.loc[_id,'Context'] = df.loc[_id,'Context'] \
-            .replace("<div>", "") \
-            .replace("</div>", "") \
-            .replace("<font color='red'>", "[") \
-            .replace("</font>", "]") \
-            .strip()
-
-    df.index += 1
-
     return df
 
 
 qa = init()
+
+st.markdown('<style>' + open("ktrain_answer_web.css").read() + '</style>', unsafe_allow_html=True)
 
 st.title("To BERT or not to BERT")
 
@@ -49,8 +39,25 @@ max_answers = st.selectbox("How much answers do you want?", options=[5, 10, 15],
 
 if question != "":
     df = search(question=question, max_answers=max_answers)
-    # df["Answer"] = df["Candidate Answer"]
 
-    # st.write(df)
-    # st.dataframe(df)
-    st.table(df)
+    st.markdown("<hr>", unsafe_allow_html=True)
+
+    for _id in range(df.__len__()):
+        context = str(df.loc[_id, "Context"]) \
+            .replace("<font color='red'>", "<strong>") \
+            .replace("</font>", "</strong>")
+
+        confidence = "{:.5f}".format(df.loc[_id, "Confidence"] * 100) + "%"
+
+        url= "https://" + df.loc[_id, "Document Reference"][:-10].replace("___", "/")
+
+        st.markdown(context, unsafe_allow_html=True)
+
+        st.markdown("<br>", unsafe_allow_html=True)
+
+        url_and_confidence = "<a href=\"" + url + "\" target=\"_blank\"> Source Page" \
+            + "</a>" + " [Confidence: " + confidence + "]"
+
+        st.markdown(url_and_confidence, unsafe_allow_html=True)
+
+        st.markdown("<hr>", unsafe_allow_html=True)

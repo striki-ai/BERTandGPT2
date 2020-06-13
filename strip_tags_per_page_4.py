@@ -28,7 +28,8 @@ for html_file_name in collect_html_files():
 
     paragraphs = soup.find_all('p')
 
-    paragraph_text = title + ". " + description
+    # paragraph_text = title + ". " + description
+    paragraph_text = ""
 
     for paragraph in paragraphs:
         paragraph_text += fix_text(paragraph.text) + "\n"
