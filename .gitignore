@@ -3,6 +3,7 @@ bert-huggingface/
 bert-ktrain/
 parlai-facebook/
 parlai/
+html_old/
 __pycache__/
 txt/
 *.pyc
