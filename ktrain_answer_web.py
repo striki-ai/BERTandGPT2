@@ -40,24 +40,21 @@ max_answers = st.selectbox("How much answers do you want?", options=[5, 10, 15],
 if question != "":
     df = search(question=question, max_answers=max_answers)
 
-    st.markdown("<hr>", unsafe_allow_html=True)
-
     for _id in range(df.__len__()):
         context = str(df.loc[_id, "Context"]) \
             .replace("<font color='red'>", "<strong>") \
             .replace("</font>", "</strong>")
 
-        confidence = "{:.5f}".format(df.loc[_id, "Confidence"] * 100) + "%"
+        confidence = "{:.5f}".format(df.loc[_id, "Confidence"] * 100) + " %"
 
         url= "https://" + df.loc[_id, "Document Reference"][:-10].replace("___", "/")
-
-        st.markdown(context, unsafe_allow_html=True)
-
-        st.markdown("<br>", unsafe_allow_html=True)
 
         url_and_confidence = "<a href=\"" + url + "\" target=\"_blank\"> Source Page" \
             + "</a>" + " [Confidence: " + confidence + "]"
 
-        st.markdown(url_and_confidence, unsafe_allow_html=True)
+        div_content = "<div class=\"answer-content\">" \
+            + context \
+            + url_and_confidence \
+            + "</div>"
 
-        st.markdown("<hr>", unsafe_allow_html=True)
+        st.markdown(div_content, unsafe_allow_html=True)

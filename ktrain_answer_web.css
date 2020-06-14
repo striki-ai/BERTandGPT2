@@ -1,3 +1,13 @@
 h1 {
     text-align: center;
 }
+
+.answer-content {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: lightgray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
