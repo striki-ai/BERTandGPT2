@@ -5,6 +5,11 @@ parlai-facebook/
 parlai/
 html_old/
 __pycache__/
+bert-base-uncased/
+bert-large-uncased-whole-word-masking-finetuned-squad/
 txt/
+tmp/
+txt1/
+html1/
 *.pyc
 *.bin
