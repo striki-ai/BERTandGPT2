@@ -13,5 +13,6 @@ txt/
 tmp/
 txt1/
 html1/
+wiki_txt/
 *.pyc
 *.bin

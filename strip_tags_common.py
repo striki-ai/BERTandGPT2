@@ -9,7 +9,7 @@ import re
 
 paragraph_count =  1
 current_dir = os.path.dirname(os.path.realpath(__file__))
-TXT_FOLDER = "txt1"
+TXT_FOLDER = "wiki_txt"
 HTML_FOLDER = "html1"
 
 
@@ -70,9 +70,9 @@ def write_paragraph(html_file_name: str, paragraph_text: str):
     # paragraph_text = html_url + "\n\n" + paragraph_text
     # paragraph_text = paragraph_text + "\n\n" + html_url
 
-    paragraph_file_name = current_dir + "/" + TXT_FOLDER + "/" + html_url_in_file_name + "." + "{:0>5d}".format(paragraph_count) + ".txt"
+    paragraph_file_name = current_dir + "/" + TXT_FOLDER + "/" + html_url_in_file_name + "." + "{:0>9d}".format(paragraph_count) + ".txt"
 
-    with open(paragraph_file_name, "w", encoding="UTF-8", errors="ignore") as f:
+    with open(paragraph_file_name, "w", encoding="UTF-8") as f:
         f.write(paragraph_text)
 
     paragraph_count += 1
