@@ -1,10 +1,15 @@
 bert-deeppavlov/
 bert-huggingface/
 bert-ktrain/
+face-gan/
+demo-face-gan-master/
 parlai-facebook/
 parlai/
 html_old/
 __pycache__/
+bert-base-uncased/
+bert-large-uncased-whole-word-masking-finetuned-squad/
 txt/
+tmp/
 *.pyc
 *.bin

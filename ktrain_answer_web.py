@@ -40,6 +40,9 @@ max_answers = st.selectbox("How much answers do you want?", options=[5, 10, 15],
 if question != "":
     df = search(question=question, max_answers=max_answers)
 
+    st.markdown("Note: the <strong>bold text</strong> is the answer of the question, and the \
+                 surrounding text is the context where the answer was found!", unsafe_allow_html=True)
+
     for _id in range(df.__len__()):
         context = str(df.loc[_id, "Context"]) \
             .replace("<font color='red'>", "<strong>") \
