@@ -3,9 +3,10 @@
     "git. ignoreLimitWarning": true,
     "python.pythonPath": "bert-ktrain\\Scripts\\python.exe",
     "python.testing.pytestArgs": [
-        "."
+        "answer-huggingface-2"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": false,
+    "python.testing.promptToConfigure": false
 }

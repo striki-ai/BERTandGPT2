@@ -1,8 +1,3 @@
-"""[summary]
-Common functions used for text extraction from html pages.
-"""
-
-
 import os
 import re
 
@@ -69,13 +64,26 @@ def write_paragraph(html_file_name: str, paragraph_text: str):
         paragraph_text = paragraph_text.replace("\n\n", "\n")
     # paragraph_text = html_url + "\n\n" + paragraph_text
     # paragraph_text = paragraph_text + "\n\n" + html_url
+    # c:/striki/bert/wiki_txt/wiki.123 456 789 012 .txt
 
-    paragraph_file_name = current_dir + "/" + TXT_FOLDER + "/" + html_url_in_file_name + "." + "{:0>9d}".format(paragraph_count) + ".txt"
+    file_name_no_dirs = current_dir + "/" + TXT_FOLDER + "/" + html_url_in_file_name + "/" + "{:0>12d}".format(paragraph_count) + ".txt"
+    file_dir = file_name_no_dirs[:-13] + "/" \
+        + file_name_no_dirs[-13:-11] + "/" \
+        + file_name_no_dirs[-10:-7]
+    file_name = file_dir + "/" + file_name_no_dirs[-7:]
 
-    with open(paragraph_file_name, "w", encoding="UTF-8") as f:
-        f.write(paragraph_text)
+    if not os.path.exists(file_dir):
+        os.makedirs(file_dir)
+
+    if not os.path.exists(file_name):
+        with open(file_name, "w", encoding="UTF-8") as f:
+            f.write(paragraph_text)
+
+    if paragraph_count % 1000 == 0:
+        print(paragraph_count)
 
     paragraph_count += 1
+
 
 def collect_html_files() -> list:
     """Collects names of all html files found in 'html' subfolder.
