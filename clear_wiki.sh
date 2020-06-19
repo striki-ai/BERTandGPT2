@@ -1,24 +1,64 @@
-echo "step  1"
+echo "step  1: remove xml tags"
 sed -i 's/<[^>]*>//g' $1
-echo "step  2"
+echo "step  2: remove [[ and ]]"
 sed -i 's/\(\[\[\|\]\]\)//g' $1
-echo "step  3"
+echo "step  3: remove '''"
 sed -i "s/'''//g" $1
-echo "step  4"
+echo "step  4: remove {{ and }}"
 sed -i 's/\({{\|}}\)//g' $1
-echo "step  5"
+echo "step  5: remove &(nbsp|lt|gt|amp|quot|apos);"
 sed -i 's/&\(nbsp\|lt\|gt\|amp\|quot\|apos\);/ /g' $1
-echo "step  6"
+echo "step  6: remove ''"
 sed -i "s/''//g" $1
-echo "step  7"
+echo "step  7: remove \" ndash \""
 sed -i 's/ ndash / /g' $1
-echo "step  8"
+echo "step  8: remove leading *"
 sed -i 's/^\(\*\*\*\*\*\*\*\*\*\*\*\|\*\*\*\*\*\*\*\*\*\*\|\*\*\*\*\*\*\*\*\*\|\*\*\*\*\*\*\*\*\|\*\*\*\*\*\*\*\|\*\*\*\*\*\*\|\*\*\*\*\*\|\*\*\*\*\|\*\*\*\|\*\*\|\*\) //g' $1
-echo "step  9"
+echo "step  9: remove leading * again"
 sed -i 's/^\* //g' $1
-echo "step 10"
+echo "step 10: remove leading (Cc)ategory:"
 sed -i 's/^\(C\|c\)ategory://g' $1
-echo "step 11"
+echo "step 11: remove leading spaces"
 sed -i 's/^ *//g' $1
-echo "step 12"
+echo "step 12: remove wikiext and text/x-wiki at the beggining ot the lines"
 sed -i 's/^\(wikitext\|text\/x-wiki\)//g' $1
+echo "step 13: remove leading #"
+sed -i 's/^\#//g' $1
+echo "step 14: remove leading # from the rest"
+sed -i 's/^\#//g' $1
+echo "step 15: remove lines that start with File:"
+sed -i 's/^File:.*//g' $1
+echo "step 16: remove lines that start with {, | or !"
+sed -i 's/^[{|\||!].*//g' $1
+echo "step 17: remove starting admin| from lines"
+sed -i 's/^admin|//g' $1
+echo "step 18: remove starting user| from lines"
+sed -i 's/^user|//g' $1
+echo "step 19: remove lines that start with up to 5 # chars"
+sed -i 's/^\(######\|#####\|####\|###\|##\|#\)//g' $1
+echo "step 20: remove lines that start with --"
+sed -i 's/^--.*//g' $1
+echo "step 21: remove * at the beginning of the lines"
+sed -i 's/^*//g' $1
+echo "step 22: remove up to 4 : chars at the beginning of the lines"
+sed -i 's/^(\:\:\:\:|\:\:\:|\:\:|\:)//g' $1
+echo "step 23: remove up to 4 : chars at the beginning of the lines"
+sed -i 's/^(\:\:\:\:|\:\:\:|\:\:|\:)//g' $1
+echo "step 24: remove up to 4 : chars at the beginning of the lines"
+sed -i 's/^(\:\:\:\:|\:\:\:|\:\:|\:)//g' $1
+echo "step 25: remove up to 4 : chars at the beginning of the lines"
+sed -i 's/^(\:\:\:\:|\:\:\:|\:\:|\:)//g' $1
+echo "step 26: remove up to 4 : chars at the beginning of the lines"
+sed -i 's/^(\:\:\:\:|\:\:\:|\:\:|\:)//g' $1
+echo "step 27: ' nbsp;' text from the lines"
+sed -i 's/ nbsp;/ /g' $1
+echo "step 28: remove 'extent' from the beginning of the lines"
+sed -i 's/^extent//g' $1
+echo "step 29: remove ; from the beginning of the lines"
+sed -i 's/^;//g' $1
+echo "step 30: remove lines with digits only"
+sed -i 's/^[0-9][0-9]*$//' $1
+echo "step 31: remove lines with time only"
+sed -i 's/^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]T[0-9][0-9]:[0-9][0-9]:[0-9][0-9]Z$//' $1
+echo "step 32: remove lines with 31 random chars and numbers only"
+sed -i 's/^\w\{31\}$//' $1
