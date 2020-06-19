@@ -18,3 +18,7 @@ echo "step  9"
 sed -i 's/^\* //g' $1
 echo "step 10"
 sed -i 's/^\(C\|c\)ategory://g' $1
+echo "step 11"
+sed -i 's/^ *//g' $1
+echo "step 12"
+sed -i 's/^\(wikitext\|text\/x-wiki\)//g' $1

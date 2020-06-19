@@ -51,6 +51,8 @@ def write_paragraph(html_file_name: str, paragraph_text: str):
         html_file_name (str): html file name that contains extracted paragraph text. Used for composing web page url that contains extracted paragraph text.
         paragraph_text (str): Text extracted from file with html_file_name file name.
     """
+    assert len(paragraph_text.split(" ")) < 512
+
     global paragraph_count
 
     if paragraph_text == "":
@@ -62,13 +64,14 @@ def write_paragraph(html_file_name: str, paragraph_text: str):
 
     while paragraph_text.find("\n\n") != -1:
         paragraph_text = paragraph_text.replace("\n\n", "\n")
+
     # paragraph_text = html_url + "\n\n" + paragraph_text
     # paragraph_text = paragraph_text + "\n\n" + html_url
     # c:/striki/bert/wiki_txt/wiki.123 456 789 012 .txt
 
     file_name_no_dirs = current_dir + "/" + TXT_FOLDER + "/" + html_url_in_file_name + "/" + "{:0>12d}".format(paragraph_count) + ".txt"
     file_dir = file_name_no_dirs[:-13] + "/" \
-        + file_name_no_dirs[-13:-11] + "/" \
+        + file_name_no_dirs[-13:-10] + "/" \
         + file_name_no_dirs[-10:-7]
     file_name = file_dir + "/" + file_name_no_dirs[-7:]
 

@@ -1,12 +1,15 @@
 {
     "python. pythonPath": "bert-huggingface\\Scripts\\python. exe",
     "git. ignoreLimitWarning": true,
-    "python.pythonPath": "c:\\Striki\\BERT\\create\\Scripts\\python.exe",
+    "python.pythonPath": "bert-ktrain\\Scripts\\python.exe",
     "python.testing.pytestArgs": [
         "answer-huggingface-2"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": false,
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.prospectorEnabled": true,
+    "python.linting.enabled": true
 }
