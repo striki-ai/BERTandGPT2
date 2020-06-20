@@ -32,12 +32,10 @@ with open("C:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
                 if len(temp_lines) > 0:
                     paragraph_text = "\n".join(temp_lines)
                     write_paragraph(HTML_FILE_NAME, paragraph_text)
-                    cnt += 1
                     prev_lines = prev_lines[len(temp_lines):]
                 else:
                     paragraph_text = "\n".join(prev_lines)
                     write_paragraph(HTML_FILE_NAME, paragraph_text)
-                    cnt += 1
                     prev_lines = []
         else:
             words = line.split(" ")
