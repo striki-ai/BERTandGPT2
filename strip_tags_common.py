@@ -1,11 +1,11 @@
 import os
 import re
-
+from ktrain_config import DATASET_NAME
 
 paragraph_count =  1
 current_dir = os.path.dirname(os.path.realpath(__file__))
-TXT_FOLDER = "wiki_txt"
-HTML_FOLDER = "html1"
+
+MIN_WORDS_IN_PARAGRAPH = 10
 
 
 def fix_document(text:str) -> str:
@@ -44,23 +44,29 @@ def fix_text(text:str) -> str:
     return text
 
 
-def write_paragraph(html_file_name: str, paragraph_text: str):
+def count_words(paragraph_text: str) -> int:
+    words_cnt = 0
+    lines = paragraph_text.split("\n")
+    for line in lines:
+        words_cnt += len(line.split(" "))
+    return words_cnt
+
+def write_paragraph(paragraph_text: str):
     """Writes paragraph on disk for search. Adds web address of the page containing the text and extracted from html_file_name.
 
     Args:
-        html_file_name (str): html file name that contains extracted paragraph text. Used for composing web page url that contains extracted paragraph text.
         paragraph_text (str): Text extracted from file with html_file_name file name.
     """
+
+    if count_words(paragraph_text) < MIN_WORDS_IN_PARAGRAPH:
+        return
+
     assert len(paragraph_text.split(" ")) < 512
 
     global paragraph_count
 
     if paragraph_text == "":
         return
-
-    html_url = html_file_name.replace(current_dir + "/" + HTML_FOLDER + "/", "").replace("\\", "/")
-    html_url_in_file_name = html_url \
-        .replace("/", "___")
 
     while paragraph_text.find("\n\n") != -1:
         paragraph_text = paragraph_text.replace("\n\n", "\n")
@@ -69,7 +75,7 @@ def write_paragraph(html_file_name: str, paragraph_text: str):
     # paragraph_text = paragraph_text + "\n\n" + html_url
     # c:/striki/bert/wiki_txt/wiki.123 456 789 012 .txt
 
-    file_name_no_dirs = current_dir + "/" + TXT_FOLDER + "/" + html_url_in_file_name + "/" + "{:0>12d}".format(paragraph_count) + ".txt"
+    file_name_no_dirs = current_dir + "/" + DATASET_NAME + "/txt/" + "{:0>12d}".format(paragraph_count) + ".txt"
     file_dir = file_name_no_dirs[:-13] + "/" \
         + file_name_no_dirs[-13:-10] + "/" \
         + file_name_no_dirs[-10:-7]

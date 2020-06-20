@@ -1,7 +1,5 @@
 from strip_tags_common import write_paragraph
 
-HTML_FILE_NAME = "wiki"
-
 line = ""
 prev_lines = []
 with open("C:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
@@ -10,7 +8,7 @@ with open("C:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
 
         if line == "": # EOF detected
             if len(prev_lines) > 0:
-                write_paragraph(HTML_FILE_NAME, "\n".join(prev_lines))
+                write_paragraph("\n".join(prev_lines))
             break
 
         line = line[:len(line)-1].strip() # remove ending /n, leading and ending whitespaces
@@ -31,11 +29,11 @@ with open("C:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
 
                 if len(temp_lines) > 0:
                     paragraph_text = "\n".join(temp_lines)
-                    write_paragraph(HTML_FILE_NAME, paragraph_text)
+                    write_paragraph(paragraph_text)
                     prev_lines = prev_lines[len(temp_lines):]
                 else:
                     paragraph_text = "\n".join(prev_lines)
-                    write_paragraph(HTML_FILE_NAME, paragraph_text)
+                    write_paragraph(paragraph_text)
                     prev_lines = []
         else:
             words = line.split(" ")
