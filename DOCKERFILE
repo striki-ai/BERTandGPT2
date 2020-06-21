@@ -3,7 +3,6 @@ COPY bert-base-uncased/* app/bert-base-uncased/
 COPY bert-large-uncased-whole-word-masking-finetuned-squad/* app/bert-large-uncased-whole-word-masking-finetuned-squad/
 COPY ktrain_requirements.txt app/
 COPY ktrain_answer_web.py app/
-COPY ktrain_answer_web.css app/
 COPY ktrain_init.py app/
 COPY txt/* app/txt/
 RUN pip install -r app/ktrain_requirements.txt

@@ -2,27 +2,21 @@ from ktrain import text
 import os
 from os import path
 import shutil
+from ktrain_config import DATASET_NAME
 
-INDEX_DIR = "/tmp/index"
-TXT_DIR = "C:/Striki/BERT/txt"
+# if path.exists(DATASET_NAME + "/index"):
+#     shutil.rmtree(DATASET_NAME + "/index")
 
-if path.exists(INDEX_DIR):
-    shutil.rmtree(INDEX_DIR)
+# text.SimpleQA.initialize_index(DATASET_NAME + "/index")
+# file_count = sum((len(f) for _, _, f in os.walk(DATASET_NAME + "/txt")))
+# text.SimpleQA.index_from_folder(DATASET_NAME + "/txt", DATASET_NAME + "/index", commit_every=file_count, limitmb=16384)
 
-text.SimpleQA.initialize_index(INDEX_DIR)
+QUESTION = "April?"
 
-file_count = sum((len(f) for _, _, f in os.walk(TXT_DIR)))
-
-text.SimpleQA.index_from_folder(TXT_DIR, INDEX_DIR, commit_every=file_count)
-
-qa = text.SimpleQA(INDEX_DIR)
-
-QUESTION = "what is netcetera ?"
-
-answers = qa.ask(QUESTION)
+qa = text.SimpleQA(DATASET_NAME + "/index")
+answers = qa.ask(question=QUESTION)
 
 # qa.display_answers(answers[:5])
 
-print("Question: " + QUESTION)
-df = qa.answers2df(answers[:10])
+df = qa.answers2df(answers)
 print(df)
