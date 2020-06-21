@@ -62,7 +62,7 @@ echo "step 31: remove lines with time only"
 sed -i 's/^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]T[0-9][0-9]:[0-9][0-9]:[0-9][0-9]Z$//' $1
 echo "step 32: remove lines with 31 random chars and numbers only"
 sed -i 's/^\w\{31\}$//' $1
-echo "step 33: remove text (including) !-- and --"
+echo "step 33: remove text between (including) !-- and --"
 sed -i 's/\!\-\-.*\?\-\-//g' $1
 echo "step 34: remove few tokens ..."
 sed -i 's/\|\(thumbnail\|thumb\|\d\d*px\|right\|center\|left\|padding\|border\|bg\|border2\|bg2\|upright\)//g' $1
@@ -82,3 +82,7 @@ echo "step 41: remove nowrap| from the lines"
 sed -i 's/[Nn]owrap|//g' $1
 echo "step 42: remove reflist from the beginning of the lines"
 sed -i 's/^[Rr]eflist.*//g' $1
+echo "step 43: remove leading = signs from the lines"
+sed -i 's/^==* *//g' $1
+echo "step 44: remove trailing = signs from the lines"
+sed -i 's/ *==*$//g' $1
