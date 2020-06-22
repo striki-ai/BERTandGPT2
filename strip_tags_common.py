@@ -6,6 +6,7 @@ paragraph_count =  1
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
 MIN_WORDS_IN_PARAGRAPH = 10
+MAX_WORDS_IN_PARAGRAPH = 350
 
 
 def fix_document(text:str) -> str:
@@ -58,12 +59,14 @@ def write_paragraph(paragraph_text: str):
         paragraph_text (str): Text extracted from file with html_file_name file name.
     """
 
+    global paragraph_count
+
     if count_words(paragraph_text) < MIN_WORDS_IN_PARAGRAPH:
         return
 
-    assert len(paragraph_text.split(" ")) < 512
+    assert paragraph_count <= 499
 
-    global paragraph_count
+    assert len(paragraph_text.split(" ")) <= MAX_WORDS_IN_PARAGRAPH, f'len(paragraph_text.split(" ")) = {len(paragraph_text.split(" "))}'
 
     if paragraph_text == "":
         return

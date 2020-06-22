@@ -1,4 +1,4 @@
-from strip_tags_common import write_paragraph
+from strip_tags_common import write_paragraph, MAX_WORDS_IN_PARAGRAPH
 
 line = ""
 prev_lines = []
@@ -18,26 +18,32 @@ with open("C:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
                 temp_lines = []
                 i = 0
 
-                while len(" ".join(temp_lines).split(" ")) - 1 + len(prev_lines[i].split(" ")) <= 384:
+                while len(" ".join(temp_lines).split(" ")) - 1 + len(prev_lines[i].split(" ")) <= MAX_WORDS_IN_PARAGRAPH:
                     temp_lines.append(prev_lines[i])
                     i += 1
 
-                    if i >= len(prev_lines) or len(" ".join(temp_lines).split(" ")) >= 384:
+                    if i >= len(prev_lines) or len(" ".join(temp_lines).split(" ")) >= MAX_WORDS_IN_PARAGRAPH:
                         prev_lines = []
                         i = 0
                         break
 
                 if len(temp_lines) > 0:
                     paragraph_text = "\n".join(temp_lines)
+                    if len(paragraph_text.split(" ")) > MAX_WORDS_IN_PARAGRAPH:
+                        qq = len(paragraph_text.split(" "))
+                        print(qq)
                     write_paragraph(paragraph_text)
                     prev_lines = prev_lines[len(temp_lines):]
                 else:
                     paragraph_text = "\n".join(prev_lines)
+                    if len(paragraph_text.split(" ")) > MAX_WORDS_IN_PARAGRAPH:
+                        qq = len(paragraph_text.split(" "))
+                        print(qq)
                     write_paragraph(paragraph_text)
                     prev_lines = []
         else:
             words = line.split(" ")
-            while len(words) > 384:
-                prev_lines.append(" ".join(words[:384]))
-                words = words[384:]
+            while len(words) > MAX_WORDS_IN_PARAGRAPH:
+                prev_lines.append(" ".join(words[:MAX_WORDS_IN_PARAGRAPH]))
+                words = words[MAX_WORDS_IN_PARAGRAPH - 50:]
             prev_lines.append(" ".join(words))

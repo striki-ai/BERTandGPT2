@@ -1,22 +1,24 @@
 from ktrain import text
-import os
-from os import path
-import shutil
 from ktrain_config import DATASET_NAME
+import sys
 
-# if path.exists(DATASET_NAME + "/index"):
-#     shutil.rmtree(DATASET_NAME + "/index")
-
-# text.SimpleQA.initialize_index(DATASET_NAME + "/index")
-# file_count = sum((len(f) for _, _, f in os.walk(DATASET_NAME + "/txt")))
-# text.SimpleQA.index_from_folder(DATASET_NAME + "/txt", DATASET_NAME + "/index", commit_every=file_count, limitmb=16384)
-
-QUESTION = "April?"
+question = sys.argv[1]
 
 qa = text.SimpleQA(DATASET_NAME + "/index")
-answers = qa.ask(question=QUESTION)
+answers = qa.ask(question=question)
 
 # qa.display_answers(answers[:5])
 
 df = qa.answers2df(answers)
-print(df)
+
+# print(df)
+print("=" * 80)
+print(question)
+print("-" * 80)
+
+for i in range(len(df)):
+    row = df.iloc[i]
+    print("=" * 80)
+    print(row["Candidate Answer"])
+    print("-" * 80)
+    print(row["Context"])

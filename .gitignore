@@ -15,5 +15,8 @@ txt1/
 html1/
 wiki_txt/
 wiki/
+wiki-copy/
+wiki-full/
+wiki-small/
 *.pyc
 *.bin
