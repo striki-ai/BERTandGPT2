@@ -1,0 +1,17 @@
+body {
+	background-image: url('parlai_chat_web_background.jpg');
+	background-position: right;
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+section {
+	background-color: inherit !important;
+
+}
+
+
+.columns:not(:last-child) {
+	
+}
