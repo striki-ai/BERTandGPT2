@@ -8,108 +8,38 @@ body {
 
 section {
 	background-color: inherit !important;
-
 }
 
-
-
-
-
-
-
-
-.fade-in {
-	animation: fadeIn ease 10s;
-	-webkit-animation: fadeIn ease 10s;
-	-moz-animation: fadeIn ease 10s;
-	-o-animation: fadeIn ease 10s;
-	-ms-animation: fadeIn ease 10s;
-}
-@keyframes fadeIn {
-	0% {
-		opacity:0;
-	}
-	100% {
-		opacity:1;
-	}
-}
-@-moz-keyframes fadeIn {
-	0% {
-		opacity:0;
-	}
-	100% {
-		opacity:1;
-	}
-}
-@-webkit-keyframes fadeIn {
-	0% {
-		opacity:0;
-	}
-	100% {
-		opacity:1;
-	}
-}
-@-o-keyframes fadeIn {
-	0% {
-		opacity:0;
-	}
-	100% {
-		opacity:1;
-	}
-}
-@-ms-keyframes fadeIn {
-	0% {
-		opacity:0;
-	}
-	100% {
-		opacity:1;
-	}
+path {
+	display: none;
 }
 
-.fade-out {
-	animation: fadeOut ease 3s;
-	-webkit-animation: fadeOut ease 3s;
-	-moz-animation: fadeOut ease 3s;
-	-o-animation: fadeOut ease 3s;
-	-ms-animation: fadeOut ease 3s;
+svg.fa-user {
+	background:url('parlai_chat_web_user_character.jpg') left top;
+	background-size:contain;
+	background-position:center;
+	background-repeat:no-repeat;
+	display: block;
+	float: left;
 }
-@keyframes fadeOut {
-	0% {
-		opacity:1;
-	}
-	100% {
-		opacity:0;
-	}
+
+svg.fa-robot {
+	background:url('parlai_chat_web_hal_character.png') left top;
+	background-size:contain;
+	background-position:center;
+	background-repeat:no-repeat;
+	display: block;
+	float: left;
 }
-@-moz-keyframes fadeOut {
-	0% {
-		opacity:1;
-	}
-	100% {
-		opacity:0;
-	}
+
+svg.fa-2x {
+    font-size: 3em;
 }
-@-webkit-keyframes fadeOut {
-	0% {
-		opacity:1;
-	}
-	100% {
-		opacity:0;
-	}
+
+svg.svg-inline--fa.fa-w-14 {
+    width: 1em;
 }
-@-o-keyframes fadeOut {
-	0% {
-		opacity:1;
-	}
-	100% {
-		opacity:0;
-	}
-}
-@-ms-keyframes fadeOut {
-	0% {
-		opacity:1;
-	}
-	100% {
-		opacity:0;
-	}
+
+article div div p.svg-inline--fa.fa-w-14 {
+	color: orange;
 }

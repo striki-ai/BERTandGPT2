@@ -19,6 +19,9 @@ with open("parlai_chat_web.js", "r", encoding="UTF-8") as js_file: JS_FILE = js_
 with open("parlai_chat_web_fav_icon.png", "rb") as fav_icon: FAV_ICON = fav_icon.read(1000000)
 with open("parlai_chat_web_background.jpg", "rb") as bachground: BACKGROUND = bachground.read(1000000)
 with open("parlai_chat_web.css", "r", encoding="UTF-8") as css_file: CSS_FILE = css_file.read(1000000)
+with open("parlai_chat_web_hal_character.png", "rb") as hal_character_file: HAL_CHARACTER_FILE = hal_character_file.read(1000000)
+with open("parlai_chat_web_user_character.jpg", "rb") as user_character_file: USER_CHARACTER_FILE = user_character_file.read(1000000)
+
 
 class MyHandler(BaseHTTPRequestHandler):
     """
@@ -74,6 +77,8 @@ class MyHandler(BaseHTTPRequestHandler):
             '/parlai_chat_web_fav_icon.png': {'status': 202},  # Need for chrome
             '/parlai_chat_web_background.jpg' : {'status': 200},
             '/parlai_chat_web.css' : {'status': 200},
+            '/parlai_chat_web_hal_character.png' : {'status': 200},
+            '/parlai_chat_web_user_character.jpg' : {'status': 200},
         }
         if self.path in paths:
             self._respond(paths[self.path])
@@ -107,10 +112,22 @@ class MyHandler(BaseHTTPRequestHandler):
             return bytes(content, 'UTF-8')
         elif path == '/parlai_chat_web.css':
             self.send_response(status_code)
-            self.send_header('Content-type', 'text/javascript')
+            self.send_header('Content-type', 'text/plain')
             self.end_headers()
             content = CSS_FILE
             return bytes(content, 'UTF-8')
+        elif path == '/parlai_chat_web_hal_character.png':
+            self.send_response(status_code)
+            self.send_header('Content-type', 'image/png')
+            self.end_headers()
+            content = HAL_CHARACTER_FILE
+            return bytes(content)
+        elif path == '/parlai_chat_web_user_character.jpg':
+            self.send_response(status_code)
+            self.send_header('Content-type', 'image/jpg')
+            self.end_headers()
+            content = USER_CHARACTER_FILE
+            return bytes(content)
 
     def _respond(self, opts):
         response = self._handle_http(opts['status'], self.path)
