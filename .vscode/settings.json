@@ -1,7 +1,7 @@
 {
     "python. pythonPath": "bert-huggingface\\Scripts\\python. exe",
     "git. ignoreLimitWarning": true,
-    "python.pythonPath": "bert-ktrain\\Scripts\\python.exe",
+    "python.pythonPath": "venv\\Scripts\\python.exe",
     "python.testing.pytestArgs": [
         "answer-huggingface-2"
     ],

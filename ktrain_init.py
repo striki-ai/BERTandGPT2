@@ -9,7 +9,8 @@ if path.exists(DATASET_NAME + "/index"):
 
 text.SimpleQA.initialize_index(DATASET_NAME + "/index")
 file_count = sum((len(f) for _, _, f in os.walk(DATASET_NAME + "/txt")))
-text.SimpleQA.index_from_folder(DATASET_NAME + "/txt", DATASET_NAME + "/index", commit_every=file_count, limitmb=16384)
+print("files for indexing found: " + str(file_count))
+text.SimpleQA.index_from_folder(DATASET_NAME + "/txt", DATASET_NAME + "/index", commit_every=10000000, limitmb=16384)
 
 # qa = text.SimpleQA(INDEX_DIR)
 # answers = qa.ask("what is april ?")

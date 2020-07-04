@@ -64,7 +64,7 @@ def write_paragraph(paragraph_text: str):
     if count_words(paragraph_text) < MIN_WORDS_IN_PARAGRAPH:
         return
 
-    assert paragraph_count <= 499
+    # assert paragraph_count <= 499
 
     assert len(paragraph_text.split(" ")) <= MAX_WORDS_IN_PARAGRAPH, f'len(paragraph_text.split(" ")) = {len(paragraph_text.split(" "))}'
 

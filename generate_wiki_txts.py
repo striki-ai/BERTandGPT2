@@ -2,7 +2,7 @@ from strip_tags_common import write_paragraph, MAX_WORDS_IN_PARAGRAPH
 
 line = ""
 prev_lines = []
-with open("C:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
+with open("D:/Striki/Temp/wiki.txt", "r", encoding="UTF-8") as f:
     while True:
         line = f.readline()
 
