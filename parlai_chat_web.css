@@ -1,0 +1,45 @@
+body {
+	background-image: url('parlai_chat_web_background.jpg');
+	background-position: right;
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+section {
+	background-color: inherit !important;
+}
+
+path {
+	display: none;
+}
+
+svg.fa-user {
+	background:url('parlai_chat_web_user_character.jpg') left top;
+	background-size:contain;
+	background-position:center;
+	background-repeat:no-repeat;
+	display: block;
+	float: left;
+}
+
+svg.fa-robot {
+	background:url('parlai_chat_web_hal_character.png') left top;
+	background-size:contain;
+	background-position:center;
+	background-repeat:no-repeat;
+	display: block;
+	float: left;
+}
+
+svg.fa-2x {
+    font-size: 3em;
+}
+
+svg.svg-inline--fa.fa-w-14 {
+    width: 1em;
+}
+
+article div div p.svg-inline--fa.fa-w-14 {
+	color: orange;
+}

@@ -1,0 +1,74 @@
+<html>
+    <link rel="icon" href="parlai_chat_web_fav_icon.png" />
+    <link rel="stylesheet" href='parlai_chat_web.css' />
+    <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.css' />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script defer src='https://use.fontawesome.com/releases/v5.3.1/js/all.js'></script>
+
+    <head><title> Talk To Me Dave </title></head>
+
+    <body>
+        <div class="columns" style="height: 100%; margin-bottom: 0; margin-top: 0;">
+
+			<div class="column is-one-fifth">
+                <section class="hero is-info is-large has-text-grey-dark" style="height: 100%">
+                    <div class="hero-body" style="overflow: auto; height: calc(100% - 76px); padding-top: 1em; padding-bottom: 0;">
+                        <article class="media">
+                            <div class="media-content">
+                                <div class="content">
+                                    <p>
+                                        <strong>Famous HAL Quotes</strong>
+                                        <br>
+                                        <br>
+                                        <p id="HalRandomQuote"></p>
+                                    </p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+            </div>
+
+            <div class="column is-three-fifths">
+                <section class="hero is-info is-large has-text-grey-dark" style="height: 100%;">
+                    <div id="parent" class="hero-body" style="overflow: auto; height: calc(100% - 76px); padding-top: 1em; padding-bottom: 0;">
+	                    <article class="media">
+    	                  <div class="media-content">
+        	                <div class="content">
+            	              <p>
+                	            <strong>Instructions</strong>
+                    	        <br>
+                        	    Enter a message, and the model will respond interactively.
+	                          </p>
+    	                    </div>
+        	              </div>
+            	        </article>
+                    </div>
+                    <div class="hero-foot column is-offset-one-fifth" style="height: 76px; margin-left: 0px;">
+                        <form id = "interact">
+                            <div class="field is-grouped">
+                                <p class="control is-expanded">
+                                    <input class="input" type="text" id="userIn" placeholder="Type in a message">
+                                </p>
+                                <p class="control" style="margin-right: 0pt;">
+                                  <!--<button id="respond" type="submit" class="button has-text-white-ter has-background-grey-dark">
+                                      Submit
+                                  </button>-->
+                                  <input type="submit" style="visibility: hidden; width: 0px;"/>
+                                </p>
+                                <p class="control">
+                                    <button id="restart" type="reset" class="button has-text-white-ter has-background-grey-dark">
+                                        Restart Conversation
+                                    </button>
+                                </p>
+                            </div>
+                        </form>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        <script src="parlai_chat_web.js"></script>
+    </body>
+</html>
